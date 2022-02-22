@@ -1,4 +1,212 @@
-body {
-  background-color: orange;
-  color: green;
+.primary-btn {
+  margin-left: auto;
+}
+.primary-btn button {
+  padding: 10px 20px;
+  font-size: 13px;
+  background-color: #2874f0;
+  color: #FFFFFF;
+  border: none;
+  outline: none;
+}
+
+.green, .cm-c1 .cm-c2 .cm-r1 .right .total-discount .green, .cm-c1 .cm-c2 .cm-r1 .right .price-details .green {
+  font-size: 12px;
+  color: #388E3C;
+  font-weight: bold;
+}
+
+.cm-c1 {
+  padding: 20px;
+  background-color: #f1f3f6;
+}
+.cm-c1 .cm-c2 {
+  padding: 8px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items {
+  background-color: #FFFFFF;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .head-title {
+  height: 55px;
+  border-bottom: 1px solid lightgray;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .head-title h5 {
+  font-size: 18px;
+  padding: 0 25px;
+  line-height: 55px;
+  font-weight: bold;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .head-title .right {
+  margin-left: auto;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .head-title .right img {
+  height: 18px;
+  width: 18px;
+  margin: auto 20px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .head-title .right h6 {
+  font-size: 14px;
+  font-weight: bold;
+  color: gray;
+  line-height: 55px;
+  margin-right: 12px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .head-title .right .drop-down {
+  border: 1px solid lightgray;
+  height: 40px;
+  width: 300px;
+  padding: 10px;
+  margin: auto 5px;
+  position: relative;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .head-title .right .drop-down h4 {
+  font-size: 14px;
+  font-weight: bold;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .head-title .right .drop-down .fa-caret-down {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box {
+  padding: 25px;
+  border-bottom: 1px solid lightgray;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .img {
+  height: 112px;
+  width: 112px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .img img {
+  height: 100%;
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .desc {
+  padding: 0px 25px 12px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .desc h2 {
+  font-size: 16px;
+  margin-bottom: 2px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .desc p {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 4px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .desc h1 {
+  font-size: 20px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .desc h3 {
+  font-size: 14px;
+  display: inline;
+  margin-right: 20px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .desc img {
+  height: 15px;
+  width: 55px;
+  display: inline;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .desc .price {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .desc .price strike {
+  font-size: 14px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .delivery {
+  padding: 5px 25px 12px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .delivery h4 {
+  font-size: 14px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .delivery span {
+  color: #388E3C;
+  font-weight: bold;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .delivery h5 {
+  padding-top: 10px;
+  font-size: 12px;
+  color: #878787;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .bottom .left {
+  height: 30px;
+  padding: 5px 0;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .bottom .left .minus,
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .bottom .left .plus {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 2px;
+  margin: 0 10px;
+  border: 1px solid lightgray;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .bottom .button {
+  margin-left: 20px;
+  padding: 10px 0;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .boxes .box .bottom .button button {
+  margin: 0 25px 0 0;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  background-color: transparent;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .fixed {
+  box-shadow: 2px 2px 12px lightgray;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .fixed .place-order {
+  padding: 16px 24px;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .fixed .place-order .button {
+  float: right;
+}
+.cm-c1 .cm-c2 .cm-r1 .items .fixed .place-order .button button {
+  width: 250px;
+  padding: 16px 30px;
+  background-color: #fb641b;
+  font-size: 16px;
+  border: none;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.cm-c1 .cm-c2 .cm-r1 .right {
+  padding: 0;
+}
+.cm-c1 .cm-c2 .cm-r1 .right .price-details-top {
+  padding: 20px 25px;
+  font-weight: 16px;
+  font-weight: bold;
+  color: #878787;
+}
+.cm-c1 .cm-c2 .cm-r1 .right .price-details {
+  padding: 0 25px;
+}
+.cm-c1 .cm-c2 .cm-r1 .right .price-details h3 {
+  font-size: 14px;
+  font-weight: 600;
+  color: #878787;
+  margin: 20px 0;
+}
+.cm-c1 .cm-c2 .cm-r1 .right .price-details .green {
+  font-size: 14px;
+}
+.cm-c1 .cm-c2 .cm-r1 .right .total-price {
+  padding: 0 25px;
+  border-top: 1px dashed lightgray;
+  border-bottom: 1px dashed lightgray;
+}
+.cm-c1 .cm-c2 .cm-r1 .right .total-price h3 {
+  font-size: 18px;
+  margin: 20px 0;
+  font-weight: bold;
+}
+.cm-c1 .cm-c2 .cm-r1 .right .total-discount {
+  padding: 0 25px;
+}
+.cm-c1 .cm-c2 .cm-r1 .right .total-discount .green {
+  font-size: 16px;
+  padding: 12px 0;
 }

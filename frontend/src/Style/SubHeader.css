@@ -1,7 +1,6 @@
 .primary-btn {
   margin-left: auto;
 }
-
 .primary-btn button {
   padding: 10px 20px;
   font-size: 13px;
@@ -11,45 +10,40 @@
   outline: none;
 }
 
+.green {
+  font-size: 12px;
+  color: #388E3C;
+  font-weight: bold;
+}
+
 .sub-header {
   height: 114px;
   border-bottom: 1px solid lightgray;
 }
-
 .sub-header .boxes {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   margin: 0 6%;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+  justify-content: space-evenly;
 }
-
 .sub-header .boxes .box {
   height: 114px;
 }
-
 .sub-header .boxes .box .img {
   height: 80px;
   text-align: center;
   font-weight: bold;
   font-size: 18px;
 }
-
 .sub-header .boxes .box .img .link {
   text-decoration: none;
 }
-
 .sub-header .boxes .box .img .link:hover > h5 {
   color: #2874f0;
 }
-
 .sub-header .boxes .box .img .link img {
   height: 100%;
   padding: 8px 12px 0px;
 }
-
 .sub-header .boxes .box .img .link h5 {
   color: #6b6969;
   font-weight: bold;

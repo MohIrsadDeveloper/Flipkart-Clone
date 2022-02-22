@@ -1,7 +1,6 @@
 .primary-btn {
   margin-left: auto;
 }
-
 .primary-btn button {
   padding: 10px 20px;
   font-size: 13px;
@@ -11,81 +10,68 @@
   outline: none;
 }
 
+.green {
+  font-size: 12px;
+  color: #388E3C;
+  font-weight: bold;
+}
+
 .season {
   margin-bottom: 12px;
   background-color: #FFFFFF;
-  -webkit-box-shadow: 2px 2px 2px lightgray;
-          box-shadow: 2px 2px 2px lightgray;
+  box-shadow: 2px 2px 2px lightgray;
 }
-
 .season .top {
   height: 62px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   padding: 15px 20px;
   border-bottom: 1px solid lightgray;
 }
-
 .season .top h4 {
   font-size: 22px;
 }
-
 .season .top img {
   height: 26px;
   margin: 4px 30px;
 }
-
 .season .top .time {
   font-size: 16px;
   margin: 4px;
 }
-
 .season .top .time span {
   margin: 4px;
   color: gray;
 }
-
 .season .bottom {
   height: 300px;
 }
-
 .season .bottom .boxes {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
-
 .season .bottom .boxes .box {
   width: 196px;
   padding: 25px 15px;
 }
-
 .season .bottom .boxes .box .img {
   height: 150px;
   width: 150px;
   margin: auto;
 }
-
 .season .bottom .boxes .box .img img {
   height: 100%;
   width: 100%;
 }
-
 .season .bottom .boxes .box .desc {
   text-align: center;
 }
-
 .season .bottom .boxes .box .desc .product {
   margin: 15px 0 0;
   font-weight: bold;
 }
-
 .season .bottom .boxes .box .desc .tag {
   padding: 8px 0 0;
   color: green;
 }
-
 .season .bottom .boxes .box .desc .title {
   padding: 7px 0 0;
   color: gray;

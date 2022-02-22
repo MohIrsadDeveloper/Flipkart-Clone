@@ -1,7 +1,6 @@
 .primary-btn {
   margin-left: auto;
 }
-
 .primary-btn button {
   padding: 10px 20px;
   font-size: 13px;
@@ -11,77 +10,61 @@
   outline: none;
 }
 
+.green {
+  font-size: 12px;
+  color: #388E3C;
+  font-weight: bold;
+}
+
 .Footer {
   background-color: #172337;
 }
-
 .Footer .footer-top {
   margin: 0 65px;
   padding: 40px 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   color: white;
   font-weight: bold;
 }
-
 .Footer .footer-top .left {
   width: 60%;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
-
 .Footer .footer-top .left .sub {
   width: 25%;
 }
-
 .Footer .footer-top .left .sub h6 {
   font-size: 12px;
 }
-
 .Footer .footer-top .left .sub .top {
   color: #878787;
 }
-
 .Footer .footer-top .right {
   width: 40%;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
-
 .Footer .footer-top .right .sub {
   width: 50%;
   padding: 0 20px;
 }
-
 .Footer .footer-top .right .sub .top {
   color: #878787;
 }
-
 .Footer .footer-top .right .sub h6 {
   font-size: 12px;
 }
-
 .Footer .footer-top .right #mail-us {
   border-left: 1px solid #6d6d6d;
 }
-
 .Footer .footer-bottom {
   margin-top: 40px;
   border-top: 1px solid white;
   padding: 25px 0;
   font-size: 14px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   color: #FFFFFF;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+  justify-content: space-evenly;
 }
-
 .Footer .footer-bottom .desc img {
   margin-bottom: 4px;
   margin-right: 4px;
