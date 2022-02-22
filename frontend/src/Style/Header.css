@@ -1,0 +1,161 @@
+.header {
+  height: 60px;
+  background-color: #2874f0;
+}
+
+.header .header-top {
+  width: 80%;
+  height: 60px;
+  margin: 0 15%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.header .header-top .logo {
+  height: 60px;
+  width: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.header .header-top .logo .top {
+  margin-top: 8px;
+}
+
+.header .header-top .logo .top img {
+  width: 100%;
+}
+
+.header .header-top .logo .bottom {
+  position: relative;
+}
+
+.header .header-top .logo .bottom i {
+  color: white;
+  position: absolute;
+  top: -5px;
+}
+
+.header .header-top .logo .bottom span {
+  color: gold;
+}
+
+.header .header-top .logo .bottom img {
+  position: absolute;
+  right: 0px;
+  top: -4px;
+  width: 12px;
+}
+
+.header .header-top .search {
+  margin-left: 20px;
+  height: 60px;
+  width: 44%;
+  padding: 6px;
+  position: relative;
+}
+
+.header .header-top .search input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  outline: none;
+}
+
+.header .header-top .search i {
+  position: absolute;
+  right: 20px;
+  top: 22px;
+  color: gray;
+}
+
+.header .header-top .button {
+  height: 60px;
+  width: 40%;
+  padding: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  position: relative;
+}
+
+.header .header-top .button .link {
+  text-decoration: none;
+}
+
+.header .header-top .button .link .content {
+  height: 400px;
+  width: 300px;
+  background-color: white;
+  position: absolute;
+  top: 60px;
+  left: 60px;
+  z-index: 5;
+  display: none;
+  background-color: gray;
+}
+
+.header .header-top .button .link .content img {
+  height: 20px;
+  color: orange;
+  background-color: green;
+}
+
+.header .header-top .button .link .content .up {
+  position: absolute;
+  top: -26px;
+  left: 130px;
+  color: white;
+  font-size: 36px;
+}
+
+.header .header-top .button .link #login {
+  padding: 8px 40px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: #2874f0;
+  background-color: white;
+  margin-right: 16px;
+}
+
+.header .header-top .button .link #login:hover ~ .content {
+  display: block;
+}
+
+.header .header-top .button .link #more:hover ~ .content {
+  height: 400px;
+  width: 300px;
+  background-color: white;
+  position: absolute;
+  top: 60px;
+  left: 200px;
+  z-index: 5;
+  display: block;
+}
+
+.header .header-top .button .link #more,
+.header .header-top .button .link #cart {
+  background-color: transparent;
+  color: white;
+  border: none;
+  margin: 5px 20px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.header .header-top .button .link i {
+  margin: 6px;
+}

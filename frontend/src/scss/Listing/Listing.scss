@@ -1,0 +1,247 @@
+@import '../Variable';
+
+.main-body {
+    background-color: #f0f2f5;
+}
+
+.listing {
+    .main-body {
+        height: 5862px;
+        padding: 8px;
+    }
+}
+
+/****** Menu ******/
+.menu-c1 {
+    box-shadow: 2px 2px 2px whitesmoke;
+    border-bottom: 1px solid lightgray;
+
+    .menu-r1 {
+        .col-10 {
+            height: 43px;
+            line-height: 43px;
+
+            ul {
+                list-style: none;
+
+                .link {
+                    text-decoration: none;
+                    color: black;
+                    font-size: 14px;
+
+                    li {
+                        font-weight: bold;
+                    }
+
+                    &:hover {
+                        color: $primary-btn;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+
+/****** Filter ******/
+.filter-c1 {
+    width: 270px;
+    height: 275px;
+    background-color: white;
+    float: left;
+
+    .filter-r1 {
+        padding: 16px 16px 12px;
+        border-bottom: 1px solid lightgray;
+
+        h4 {
+            font-size: 18px;
+        }
+    }
+
+    .filter-r2 {
+        padding: 16px;
+
+        h5 {
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        ul {
+            padding: 5px 0;
+            font-size: 14px;
+
+            li {
+                border: none;
+            }
+        }
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/****** Main ******/
+.main-c1 {
+    width: 1289px;
+    height: 2000px;
+    background-color: white;
+    float: right;
+
+    .main-r1 {
+        padding: 12px 16px;
+        border-bottom: 1px solid lightgray;
+
+        h1 {
+            font-size: 16px;
+            margin-top: 8px;
+        }
+    }
+
+    .main-r2 {
+        .boxes {
+            flex-wrap: wrap;
+
+            .box {
+                height: 453px;
+                // width: 321px;
+                padding: 16px;
+                border: 1px dashed lightblue;
+
+                .img {
+                    height: 280px;
+                    width: 200px;
+                    margin: auto;
+                    position: relative;
+
+                    .ad {
+                        position: absolute;
+                        left: -40px;
+                        padding: 1px 8px;
+                        border-radius: 4px;
+                        background-color: lightgray;
+                        font-weight: bold;
+                        color: white;
+                    }
+                    .fa-heart {
+                        position: absolute;
+                        right: -40px;
+                        color: lightgray;
+                    }
+
+                    img {
+                        height: 100%;
+                        width: 100%;
+                        object-fit: contain;
+                    }
+                }
+
+                .desc {
+                    height: 170px;
+
+                    .product_name {
+                        padding: 0 0 5px;
+                        font-size: 14px;
+                        margin: 0;
+                        
+                    }
+
+                    h6 {
+                        span {
+                            font-size: 12px;
+                            padding: 0 0 5px;
+                            color: gray;
+                        }
+                    }
+
+                    .spec {
+                        padding: 0 0 5px;
+                        height: 20px;
+
+                        h6 {
+                            span {
+                                background-color: $green;
+                                padding: 3px 8px;
+                                border-radius: 4px;
+                                font-size: 14px;
+                                font-weight: bold;
+                                margin-right: 6px;
+                                color: white;
+
+                            }
+
+                            .fa-star {
+                                color: white;
+                                padding-bottom: 4px;
+                            }
+                        }
+
+                        p {
+                            font-size: 13px;
+                            margin-right: 6px;
+
+                        }
+
+                        img {
+                            height: 21px;
+                            width: 77px;
+                        }
+                    }
+
+                    .price {
+                        padding: 0 0 5px;
+                        height: 20px;
+                        margin: 5px 0;
+
+                        .current_price {
+                            font-size: 16px;
+                            margin-right: 5px;
+                        }
+
+                        .old_price {
+                            color: gray;
+                            font-size: 14px;
+                            margin-top: 2px;
+                            margin-right: 5px;
+
+                        }
+
+                        .discount {
+                            font-size: 13px;
+                            color: $green;
+                            margin-right: 5px;
+                            margin-top: 1px;
+                        }
+                    }
+
+                    .offers {
+                        color: $green;
+                        font-size: 12px;
+                        font-weight: bold;
+                    }
+                }
+            }
+        }
+    }
+}

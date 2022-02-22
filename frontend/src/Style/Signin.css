@@ -1,0 +1,26 @@
+.form {
+  margin: 4% 30%;
+}
+
+.form .flipkart-logo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form .flipkart-logo img {
+  height: 40px;
+}
+
+.form .signin-section {
+  border: 2px solid gray;
+  border-radius: 4px;
+  padding: 16px;
+}
+
+.form .signin-section .signin-form {
+  margin-bottom: 20px;
+}
+
+.form .signin-section .signin-form label {
+  font-weight: bold;
+}

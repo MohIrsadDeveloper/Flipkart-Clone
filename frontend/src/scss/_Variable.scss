@@ -1,0 +1,21 @@
+$primary-btn : #2874f0;
+$white : #FFFFFF;
+$darkblue : #172337;
+$gray : #878787;
+$green : #388E3C;
+$light-orange : #ff9f00;
+$dark-orange : #fb641b;
+
+
+.primary-btn {
+    margin-left: auto;
+
+    button {
+        padding: 10px 20px;
+        font-size: 13px;
+        background-color: $primary-btn;
+        color: $white;
+        border: none;
+        outline: none;
+    }
+};

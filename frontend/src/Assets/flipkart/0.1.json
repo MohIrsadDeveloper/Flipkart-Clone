@@ -1,0 +1,16 @@
+// 20220217003941
+// https://flipkart-product-stock.herokuapp.com/product?link=https://dl.flipkart.com/s/WaqrsvNNNN&pincode=712702
+
+{
+    "name": "42 Years Chapterwise Topicwise Solved Papers (2020-1979) Iit Jee Chemistry  (English, Paperback, Shahi Ranjeet)",
+    "current_price": 327,
+    "original_price": 430,
+    "discount": "23% off",
+    "share_url": "https://dl.flipkart.com/s/WaqrsvNNNN",
+    "fassured": true,
+    "stock_details": {
+      "general_stock": true,
+      "pincode": "712702",
+      "pincode_stock": true
+    }
+  }

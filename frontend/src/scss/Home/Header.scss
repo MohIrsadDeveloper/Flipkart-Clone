@@ -1,0 +1,166 @@
+$primary-color : #2874f0;
+
+
+
+.header {
+    height: 60px;
+    background-color: $primary-color;
+
+    .header-top {
+        width: 80%;
+        height: 60px;
+        margin: 0 15%;
+        display: flex;
+        flex-wrap: nowrap;
+
+        .logo {
+            height: 60px;
+            width: 100px;
+            display: flex;
+            flex-direction: column;
+
+            .top {
+                margin-top: 8px;
+
+                img {
+                    width: 100%;
+                }
+            }
+
+            .bottom {
+                position: relative;
+
+                i {
+                    color: white;
+                    position: absolute;
+                    top: -5px;
+                }
+
+                span {
+                    color: gold;
+                }
+
+                img {
+                    position: absolute;
+                    right: 0px;
+                    top: -4px;
+                    width: 12px;
+                }
+            }
+        }
+
+        .search {
+            margin-left: 20px;
+            height: 60px;
+            width: 44%;
+            padding: 6px;
+            position: relative;
+
+            input {
+                width: 100%;
+                padding: 10px;
+                font-size: 16px;
+                font-weight: 600;
+                outline: none;
+            }
+
+            i {
+                position: absolute;
+                right: 20px;
+                top: 22px;
+                color: gray;
+            }
+        }
+
+
+        .button {
+            height: 60px;
+            width: 40%;
+            padding: 10px;
+            display: flex;
+            justify-content: flex-end;
+            position: relative;
+
+            .link {
+                text-decoration: none;
+
+                
+                .content {
+                    height: 400px;
+                    width: 300px;
+                    background-color: white;
+                    position: absolute;
+                    top: 60px;
+                    left: 60px;
+                    z-index: 5;
+                    display: none;
+                    background-color: gray;
+
+                    img {
+                        height: 20px;
+                        color: orange;
+                        background-color: green;
+                    }
+
+                    .up {
+                        position: absolute;
+                        top: -26px;
+                        left: 130px;
+                        color: white;
+                        font-size: 36px;
+                        
+                    }
+                }
+
+                #login {
+                    padding: 8px 40px;
+                    border: none;
+                    font-size: 16px;
+                    font-weight: bold;
+                    color: $primary-color;
+                    background-color: white;
+                    margin-right: 16px;
+
+
+                    &:hover~.content {
+                        display: block;
+                    }
+                }
+
+                #more {
+
+                    &:hover~.content {
+                        height: 400px;
+                        width: 300px;
+                        background-color: white;
+                        position: absolute;
+                        top: 60px;
+                        left: 200px;
+                        z-index: 5;
+                        display: block;
+                    }
+                }
+
+
+
+                #more,
+                #cart {
+                    background-color: transparent;
+                    color: white;
+                    border: none;
+                    margin: 5px 20px;
+                    font-weight: bold;
+                    font-size: 16px;
+                }
+
+                i {
+                    margin: 6px;
+
+                }
+
+            }
+
+
+        }
+    }
+}

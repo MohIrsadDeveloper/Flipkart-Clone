@@ -1,0 +1,72 @@
+@import 'Variable';
+
+.Footer {
+    background-color: $darkblue;
+
+    .footer-top {
+        margin: 0 65px;
+        padding: 40px 0;
+        display: flex;
+        color: white;
+        font-weight: bold;
+
+        .left {
+            width: 60%;
+            display: flex;
+
+            .sub {
+                width: 25%;
+
+                h6 {
+                    font-size: 12px;
+                }
+
+                .top {
+                    color: $gray;
+                }
+            }
+        }
+
+        .right {
+            width: 40%;
+            display: flex;
+
+            .sub {
+                width: 50%;
+                padding: 0 20px;
+
+                .top {
+                    color: $gray;
+
+                }
+
+                h6 {
+                    font-size: 12px;
+                }
+            }
+
+            #mail-us {
+                border-left: 1px solid rgb(109, 109, 109);
+            }
+        }
+
+    }
+
+    .footer-bottom {
+        margin-top: 40px;
+        border-top: 1px solid white;
+        padding: 25px 0;
+        font-size: 14px;
+        display: flex;
+        color: $white;
+        justify-content: space-evenly;
+
+        .desc {
+            
+            img {
+                margin-bottom: 4px;
+                margin-right: 4px;
+            }
+        }
+    }
+}

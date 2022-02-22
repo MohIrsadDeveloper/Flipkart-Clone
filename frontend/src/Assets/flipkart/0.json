@@ -1,0 +1,11 @@
+// 20220217003747
+// https://flipkart-product-stock.herokuapp.com/
+
+{
+    "api_name": "flipkart-product-stock",
+    "repository": "https://github.com/dvishal485/flipkart-product-stock",
+    "author": "dvisha485@gmail.com",
+    "description": "API to scrapes product details and pincode specific stock from Flipkart",
+    "usage": "https://flipkart-product-stock.herokuapp.com/product?link={product_link}&pincode={pincode}",
+    "example": "https://flipkart-product-stock.herokuapp.com/product?link=https://dl.flipkart.com/s/WaqrsvNNNN&pincode=712702"
+  }

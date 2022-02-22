@@ -1,0 +1,250 @@
+// 20220219002104
+// https://flipkart.dvishal485.workers.dev/search/mobile
+
+{
+    "total_result": 24,
+    "query": "mobile",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=mobile",
+    "result": [
+      {
+        "name": "POCO C31 (Royal Blue, 64 GB)",
+        "link": "https://www.flipkart.com/poco-c31-royal-blue-64-gb/p/itm19effae969b86",
+        "current_price": 8999,
+        "original_price": 11999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/p/e/4/c31-mzb0a0jin-poco-original-imag7bzqxgdhgf2n.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/poco-c31-royal-blue-64-gb/p/itm19effae969b86"
+      },
+      {
+        "name": "realme C11 2021 (Cool Blue, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c11-2021-cool-blue-32-gb/p/itmbd856acb97c38",
+        "current_price": 7499,
+        "original_price": 7999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kqjtd3k0/mobile/o/4/x/c11-2021-rmx3231-realme-original-imag4j4yrdt7d9cj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c11-2021-cool-blue-32-gb/p/itmbd856acb97c38"
+      },
+      {
+        "name": "realme C11 2021 (Cool Grey, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c11-2021-cool-grey-32-gb/p/itmbd856acb97c38",
+        "current_price": 7499,
+        "original_price": 7999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kqjtd3k0/mobile/s/b/8/c11-2021-rmx3231-realme-original-imag4j4xkqchhfxk.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c11-2021-cool-grey-32-gb/p/itmbd856acb97c38"
+      },
+      {
+        "name": "POCO C31 (Royal Blue, 32 GB)",
+        "link": "https://www.flipkart.com/poco-c31-royal-blue-32-gb/p/itm9656ebd21e0b3",
+        "current_price": 7999,
+        "original_price": 10999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/p/e/4/c31-mzb0a0jin-poco-original-imag7bzqxgdhgf2n.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/poco-c31-royal-blue-32-gb/p/itm9656ebd21e0b3"
+      },
+      {
+        "name": "realme C11 2021 (Cool Grey, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c11-2021-cool-grey-64-gb/p/itmbd856acb97c38",
+        "current_price": 8999,
+        "original_price": 9999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kqjtd3k0/mobile/s/b/8/c11-2021-rmx3231-realme-original-imag4j4xkqchhfxk.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c11-2021-cool-grey-64-gb/p/itmbd856acb97c38"
+      },
+      {
+        "name": "realme C11 2021 (Cool Blue, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c11-2021-cool-blue-64-gb/p/itmbd856acb97c38",
+        "current_price": 8999,
+        "original_price": 9999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kqjtd3k0/mobile/o/4/x/c11-2021-rmx3231-realme-original-imag4j4yrdt7d9cj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c11-2021-cool-blue-64-gb/p/itmbd856acb97c38"
+      },
+      {
+        "name": "REDMI 9i Sport (Coral Green, 64 GB)",
+        "link": "https://www.flipkart.com/redmi-9i-sport-coral-green-64-gb/p/itmb5e8d8186b602",
+        "current_price": 8999,
+        "original_price": 9999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ku04o7k0/mobile/m/w/p/9i-sport-mzb0a0yin-redmi-original-imag785ryfspqg3a.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/redmi-9i-sport-coral-green-64-gb/p/itmb5e8d8186b602"
+      },
+      {
+        "name": "REDMI 9i Sport (Carbon Black, 64 GB)",
+        "link": "https://www.flipkart.com/redmi-9i-sport-carbon-black-64-gb/p/itm17ed463dc779a",
+        "current_price": 8999,
+        "original_price": 9999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ku04o7k0/mobile/p/8/u/9i-sport-mzb0a5iin-redmi-original-imag785qegs5ghyy.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/redmi-9i-sport-carbon-black-64-gb/p/itm17ed463dc779a"
+      },
+      {
+        "name": "realme C25_Y (Metal Grey, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c25-y-metal-grey-64-gb/p/itmfa9a55c0fe2ea",
+        "current_price": 10999,
+        "original_price": 12999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kwgpz0w0/mobile/c/6/l/-original-imag95yfawvtzbdw.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c25-y-metal-grey-64-gb/p/itmfa9a55c0fe2ea"
+      },
+      {
+        "name": "realme C25_Y (Metal Grey, 128 GB)",
+        "link": "https://www.flipkart.com/realme-c25-y-metal-grey-128-gb/p/itmfa9a55c0fe2ea",
+        "current_price": 11999,
+        "original_price": 13999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kwgpz0w0/mobile/r/6/w/-original-imag95yfhejsz5vp.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c25-y-metal-grey-128-gb/p/itmfa9a55c0fe2ea"
+      },
+      {
+        "name": "realme C25_Y (Glacier Blue, 128 GB)",
+        "link": "https://www.flipkart.com/realme-c25-y-glacier-blue-128-gb/p/itmfa9a55c0fe2ea",
+        "current_price": 11999,
+        "original_price": 13999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kwgpz0w0/mobile/k/p/k/-original-imag95yfbk2mvsby.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c25-y-glacier-blue-128-gb/p/itmfa9a55c0fe2ea"
+      },
+      {
+        "name": "realme C25_Y (Glacier Blue, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c25-y-glacier-blue-64-gb/p/itmfa9a55c0fe2ea",
+        "current_price": 10999,
+        "original_price": 10999,
+        "product_id" : 3,
+        "discounted": false,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kwgpz0w0/mobile/k/p/k/-original-imag95yfbk2mvsby.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c25-y-glacier-blue-64-gb/p/itmfa9a55c0fe2ea"
+      },
+      {
+        "name": "REDMI 9i Sport (Metallic Blue, 64 GB)",
+        "link": "https://www.flipkart.com/redmi-9i-sport-metallic-blue-64-gb/p/itmeb95d0b4616cc",
+        "current_price": 8999,
+        "original_price": 9999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ku04o7k0/mobile/x/x/t/9i-sport-mzb0a10in-redmi-original-imag785rwf3q8sft.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/redmi-9i-sport-metallic-blue-64-gb/p/itmeb95d0b4616cc"
+      },
+      {
+        "name": "MOTOROLA e40 (Carbon Gray, 64 GB)",
+        "link": "https://www.flipkart.com/motorola-e40-carbon-gray-64-gb/p/itm0ca635007c9e2",
+        "current_price": 9999,
+        "original_price": 10999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kulk9zk0/mobile/5/t/f/e40-parl0010in-motorola-original-imag7zz7rzhrkrk2.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/motorola-e40-carbon-gray-64-gb/p/itm0ca635007c9e2"
+      },
+      {
+        "name": "SAMSUNG Galaxy F12 (Sky Blue, 64 GB)",
+        "link": "https://www.flipkart.com/samsung-galaxy-f12-sky-blue-64-gb/p/itm0319ce24f74aa",
+        "current_price": 11499,
+        "original_price": 12999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kn22m4w0/mobile/9/k/s/galaxy-f12-sm-f127glbiins-samsung-original-imagftmhhhvghq7w.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/samsung-galaxy-f12-sky-blue-64-gb/p/itm0319ce24f74aa"
+      },
+      {
+        "name": "realme C21Y (Cross Blue, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c21y-cross-blue-32-gb/p/itm2a2e4f7554a21",
+        "current_price": 9499,
+        "original_price": 9999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/k/o/m/c21y-rmx3261-realme-original-imag65kcytrk8dtr.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c21y-cross-blue-32-gb/p/itm2a2e4f7554a21"
+      },
+      {
+        "name": "realme C21Y (Cross Blue, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c21y-cross-blue-64-gb/p/itm2a2e4f7554a21",
+        "current_price": 10499,
+        "original_price": 10999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/k/o/m/c21y-rmx3261-realme-original-imag65kcytrk8dtr.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c21y-cross-blue-64-gb/p/itm2a2e4f7554a21"
+      },
+      {
+        "name": "realme C21Y (Cross Black, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c21y-cross-black-64-gb/p/itm2a2e4f7554a21",
+        "current_price": 10499,
+        "original_price": 10999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c21y-cross-black-64-gb/p/itm2a2e4f7554a21"
+      },
+      {
+        "name": "realme C21Y (Cross Black, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c21y-cross-black-32-gb/p/itm2a2e4f7554a21",
+        "current_price": 9499,
+        "original_price": 9999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c21y-cross-black-32-gb/p/itm2a2e4f7554a21"
+      },
+      {
+        "name": "SAMSUNG Galaxy F12 (Celestial Black, 64 GB)",
+        "link": "https://www.flipkart.com/samsung-galaxy-f12-celestial-black-64-gb/p/itmaae10b8db3909",
+        "current_price": 11499,
+        "original_price": 12999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kn22m4w0/mobile/6/o/e/galaxy-f12-sm-f127gzkgins-samsung-original-imagftmhuqq3arbg.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/samsung-galaxy-f12-celestial-black-64-gb/p/itmaae10b8db3909"
+      },
+      {
+        "name": "POCO C31 (Shadow Gray, 64 GB)",
+        "link": "https://www.flipkart.com/poco-c31-shadow-gray-64-gb/p/itm162375acb8370",
+        "current_price": 8999,
+        "original_price": 11999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/b/o/m/c31-mzb0a0min-poco-original-imag7bzqxekkpkrv.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/poco-c31-shadow-gray-64-gb/p/itm162375acb8370"
+      },
+      {
+        "name": "MOTOROLA g31 (Baby Blue, 64 GB)",
+        "link": "https://www.flipkart.com/motorola-g31-baby-blue-64-gb/p/itm79b9c53dd7e64",
+        "current_price": 12999,
+        "original_price": 13999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kwgpz0w0/mobile/2/x/p/-original-imag95y4cutf7dc6.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/motorola-g31-baby-blue-64-gb/p/itm79b9c53dd7e64"
+      },
+      {
+        "name": "OPPO A53s 5G (Ink Black, 128 GB)",
+        "link": "https://www.flipkart.com/oppo-a53s-5g-ink-black-128-gb/p/itm7dd84770173a5",
+        "current_price": 15990,
+        "original_price": 16990,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/knyxqq80/mobile/1/u/e/a53s-5g-cph2321-oppo-original-imag2gwzmunrmur8.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/oppo-a53s-5g-ink-black-128-gb/p/itm7dd84770173a5"
+      },
+      {
+        "name": "realme Narzo 50A (Oxygen Blue, 64 GB)",
+        "link": "https://www.flipkart.com/realme-narzo-50a-oxygen-blue-64-gb/p/itm81d679403c2b4",
+        "current_price": 11549,
+        "original_price": 12999,
+        "product_id" : 3,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/d/n/p/narzo-50a-rmx3430-realme-original-imag75kymngzyabx.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-narzo-50a-oxygen-blue-64-gb/p/itm81d679403c2b4"
+      }
+    ]
+  }

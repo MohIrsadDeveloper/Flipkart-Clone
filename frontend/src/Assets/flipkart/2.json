@@ -1,0 +1,240 @@
+// 20220217001651
+// https://flipkart.dvishal485.workers.dev/search/laptop
+
+{
+    "total_result": 23,
+    "query": "laptop",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=laptop",
+    "result": [
+      {
+        "name": "DELL Inspiron Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10) Inspiron 5518 Thin and Light Laptop",
+        "link": "https://www.flipkart.com/dell-inspiron-core-i5-11th-gen-16-gb-512-gb-ssd-windows-10-5518-thin-light-laptop/p/itm72422fec8ff0a",
+        "current_price": 70480,
+        "original_price": 78990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ku5ufm80/computer/q/u/6/na-thin-and-light-laptop-dell-original-imag7csrq6zahxx3.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/dell-inspiron-core-i5-11th-gen-16-gb-512-gb-ssd-windows-10-5518-thin-light-laptop/p/itm72422fec8ff0a"
+      },
+      {
+        "name": "Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) 15IML05 Thin and Light Laptop",
+        "link": "https://www.flipkart.com/lenovo-ideapad-3-core-i3-10th-gen-8-gb-256-gb-ssd-windows-11-home-15iml05-thin-light-laptop/p/itmd1871bfcde765",
+        "current_price": 38990,
+        "original_price": 57990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-ideapad-3-core-i3-10th-gen-8-gb-256-gb-ssd-windows-11-home-15iml05-thin-light-laptop/p/itmd1871bfcde765"
+      },
+      {
+        "name": "ASUS VivoBook 15 (2021) Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515JA-EJ362WS Thin and L...",
+        "link": "https://www.flipkart.com/asus-vivobook-15-2021-core-i3-10th-gen-8-gb-512-gb-ssd-windows-11-home-x515ja-ej362ws-thin-light-laptop/p/itm8ce53e6fb58bf",
+        "current_price": 37990,
+        "original_price": 50990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ksyz8280/computer/f/9/9/x515ea-ej302ts-thin-and-light-laptop-asus-original-imag6fc9kxzc6rrh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-vivobook-15-2021-core-i3-10th-gen-8-gb-512-gb-ssd-windows-11-home-x515ja-ej362ws-thin-light-laptop/p/itm8ce53e6fb58bf"
+      },
+      {
+        "name": "DELL Inspiron Athlon Dual Core 3050U - (4 GB/256 GB SSD/Windows 11 Home) INSPIRON 3515 Thin and Light ...",
+        "link": "https://www.flipkart.com/dell-inspiron-athlon-dual-core-3050u-4-gb-256-gb-ssd-windows-11-home-3515-thin-light-laptop/p/itm33a674d9f8df2",
+        "current_price": 33990,
+        "original_price": 42210,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kt8zb0w0/computer/n/m/v/inspiron-3511-thin-and-light-laptop-dell-original-imag6n5kbmfcgxk6.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/dell-inspiron-athlon-dual-core-3050u-4-gb-256-gb-ssd-windows-11-home-3515-thin-light-laptop/p/itm33a674d9f8df2"
+      },
+      {
+        "name": "Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15ITL6 Thin and Light Laptop",
+        "link": "https://www.flipkart.com/lenovo-ideapad-3-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15itl6-thin-light-laptop/p/itm97b9c72c92383",
+        "current_price": 42990,
+        "original_price": 64490,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-ideapad-3-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15itl6-thin-light-laptop/p/itm97b9c72c92383"
+      },
+      {
+        "name": "DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Inspiron 3511 Thin and Lig...",
+        "link": "https://www.flipkart.com/dell-inspiron-core-i3-11th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-11-home-3511-thin-light-laptop/p/itm1f703c82adab2",
+        "current_price": 44990,
+        "original_price": 57479,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kt8zb0w0/computer/n/m/v/inspiron-3511-thin-and-light-laptop-dell-original-imag6n5kbmfcgxk6.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/dell-inspiron-core-i3-11th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-11-home-3511-thin-light-laptop/p/itm1f703c82adab2"
+      },
+      {
+        "name": "MSI Modern 14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B10MW-639IN Notebook",
+        "link": "https://www.flipkart.com/msi-modern-14-core-i5-10th-gen-8-gb-512-gb-ssd-windows-10-home-b10mw-639in-notebook/p/itm9771296f748c4",
+        "current_price": 56541,
+        "original_price": 61990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ko0d6kw0/computer/a/f/n/modern-14-b4mw-410in-notebook-msi-original-imag2km2byc24psz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/msi-modern-14-core-i5-10th-gen-8-gb-512-gb-ssd-windows-10-home-b10mw-639in-notebook/p/itm9771296f748c4"
+      },
+      {
+        "name": "ASUS VivoBook 15 (2021) Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) X515EA-EJ302TS Thin and L...",
+        "link": "https://www.flipkart.com/asus-vivobook-15-2021-core-i3-11th-gen-4-gb-256-gb-ssd-windows-10-home-x515ea-ej302ts-thin-light-laptop/p/itm8f1295ecb07ca",
+        "current_price": 34990,
+        "original_price": 49990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ksyz8280/computer/f/9/9/x515ea-ej302ts-thin-and-light-laptop-asus-original-imag6fc9kxzc6rrh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-vivobook-15-2021-core-i3-11th-gen-4-gb-256-gb-ssd-windows-10-home-x515ea-ej302ts-thin-light-laptop/p/itm8f1295ecb07ca"
+      },
+      {
+        "name": "acer Aspire 7 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 165...",
+        "link": "https://www.flipkart.com/acer-aspire-7-core-i5-10th-gen-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-a715-75g-50ta-a715-75g-41g-a715-75g-52aa-gaming-laptop/p/itm365d5a348ad9c",
+        "current_price": 52990,
+        "original_price": 89999,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kp1imq80/computer/u/b/z/na-gaming-laptop-acer-original-imag3d63hk3h8nm2.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-7-core-i5-10th-gen-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-a715-75g-50ta-a715-75g-41g-a715-75g-52aa-gaming-laptop/p/itm365d5a348ad9c"
+      },
+      {
+        "name": "HP Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14s- dy2506TU Thin and Light Laptop",
+        "link": "https://www.flipkart.com/hp-core-i3-11th-gen-8-gb-256-gb-ssd-windows-11-home-14s-dy2506tu-thin-light-laptop/p/itm6e9f19b41d9c9",
+        "current_price": 40990,
+        "original_price": 55562,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kwdv3bk0/computer/u/q/r/14s-dy2506tu-thin-and-light-laptop-hp-original-imag92vnjakbygyf.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i3-11th-gen-8-gb-256-gb-ssd-windows-11-home-14s-dy2506tu-thin-light-laptop/p/itm6e9f19b41d9c9"
+      },
+      {
+        "name": "ASUS TUF Dash F15 (2021) Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeF...",
+        "link": "https://www.flipkart.com/asus-tuf-dash-f15-2021-core-i5-11th-gen-16-gb-512-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-144-hz-fx516pm-hn156ts-gaming-laptop/p/itme71f506573428",
+        "current_price": 82990,
+        "original_price": 104990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/klscivk0/computer/a/g/a/na-gaming-laptop-asus-original-imagyu7q2bkqcjzz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-tuf-dash-f15-2021-core-i5-11th-gen-16-gb-512-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-144-hz-fx516pm-hn156ts-gaming-laptop/p/itme71f506573428"
+      },
+      {
+        "name": "ASUS Ryzen 3 Dual Core 3250U 3rd Gen - (8 GB/256 GB SSD/Windows 10 Home) M515DA-BQ322TS Thin and Light...",
+        "link": "https://www.flipkart.com/asus-ryzen-3-dual-core-3250u-3rd-gen-8-gb-256-gb-ssd-windows-10-home-m515da-bq322ts-thin-light-laptop/p/itm00d893dc25af4",
+        "current_price": 35990,
+        "original_price": 46990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/computer/y/v/b/na-thin-and-light-laptop-asus-original-imag7bh52qsvjgqh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-ryzen-3-dual-core-3250u-3rd-gen-8-gb-256-gb-ssd-windows-10-home-m515da-bq322ts-thin-light-laptop/p/itm00d893dc25af4"
+      },
+      {
+        "name": "Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15IML05 Thin and Light Laptop",
+        "link": "https://www.flipkart.com/lenovo-ideapad-3-core-i3-10th-gen-8-gb-1-tb-hdd-windows-10-home-15iml05-thin-light-laptop/p/itm92435c2b8b31b",
+        "current_price": 38490,
+        "original_price": 57290,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-ideapad-3-core-i3-10th-gen-8-gb-1-tb-hdd-windows-10-home-15iml05-thin-light-laptop/p/itm92435c2b8b31b"
+      },
+      {
+        "name": "DELL Vostro Ryzen 3 Dual Core R3-3250U - (8 GB/1 TB HDD/Windows 11 Home) Vostro 3405 Thin and Light La...",
+        "link": "https://www.flipkart.com/dell-vostro-ryzen-3-dual-core-r3-3250u-8-gb-1-tb-hdd-windows-11-home-3405-thin-light-laptop/p/itma47a896a440ff",
+        "current_price": 37790,
+        "original_price": 50651,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/krf91u80/computer/2/m/b/na-thin-and-light-laptop-dell-original-imag585xzyrystrc.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/dell-vostro-ryzen-3-dual-core-r3-3250u-8-gb-1-tb-hdd-windows-11-home-3405-thin-light-laptop/p/itma47a896a440ff"
+      },
+      {
+        "name": "MSI Stealth 15M Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 30...",
+        "link": "https://www.flipkart.com/msi-stealth-15m-core-i7-11th-gen-16-gb-1-tb-ssd-windows-10-home-6-gb-graphics-nvidia-geforce-rtx-3060-144-hz-a11uek-227in-gaming-laptop/p/itm1be5a561d9e75",
+        "current_price": 119990,
+        "original_price": 162990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ko7idu80/computer/i/h/u/stealth-15m-a11uek-227in-notebook-msi-original-imag2q57shrhyszs.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/msi-stealth-15m-core-i7-11th-gen-16-gb-1-tb-ssd-windows-10-home-6-gb-graphics-nvidia-geforce-rtx-3060-144-hz-a11uek-227in-gaming-laptop/p/itm1be5a561d9e75"
+      },
+      {
+        "name": "HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-dy3501TU Thin and Light Laptop",
+        "link": "https://www.flipkart.com/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-dy3501tu-thin-light-laptop/p/itm450f55a8c2cb2",
+        "current_price": 43890,
+        "original_price": 49590,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kyt0ya80/computer/s/z/b/-original-imagayc6ahrmg8y7.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-dy3501tu-thin-light-laptop/p/itm450f55a8c2cb2"
+      },
+      {
+        "name": "ASUS VivoBook 15 (2021) Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) X515EA-EJ502TS T...",
+        "link": "https://www.flipkart.com/asus-vivobook-15-2021-core-i5-11th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-x515ea-ej502ts-thin-light-laptop/p/itme6fcdc888c697",
+        "current_price": 49990,
+        "original_price": 70990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kp2y2kw0/computer/y/0/c/na-thin-and-light-laptop-asus-original-imag3ebnzawky4kn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-vivobook-15-2021-core-i5-11th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-x515ea-ej502ts-thin-light-laptop/p/itme6fcdc888c697"
+      },
+      {
+        "name": "acer Aspire 7 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce ...",
+        "link": "https://www.flipkart.com/acer-aspire-7-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-a715-42g-gaming-laptop/p/itm4385fddc2c72c",
+        "current_price": 54990,
+        "original_price": 89000,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/klcmoi80/computer/q/e/3/na-gaming-laptop-acer-original-imagyhwfgwhkf3vv.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-7-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-a715-42g-gaming-laptop/p/itm4385fddc2c72c"
+      },
+      {
+        "name": "Lenovo IdeaPad Gaming 3 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeFor...",
+        "link": "https://www.flipkart.com/lenovo-ideapad-gaming-3-core-i5-11th-gen-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-15ihu6-laptop/p/itme9af20e47eba2",
+        "current_price": 65990,
+        "original_price": 93690,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ks99aq80/computer/y/z/7/na-gaming-laptop-lenovo-original-imag5ve3jvhgvsnx.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-ideapad-gaming-3-core-i5-11th-gen-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-15ihu6-laptop/p/itme9af20e47eba2"
+      },
+      {
+        "name": "ASUS VivoBook K15 OLED (2021) Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) K513EA-L312WS Thin ...",
+        "link": "https://www.flipkart.com/asus-vivobook-k15-oled-2021-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-k513ea-l312ws-thin-light-laptop/p/itm43432ba02fc87",
+        "current_price": 48990,
+        "original_price": 62990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kmmcrrk0/computer/f/o/5/na-thin-and-light-laptop-asus-original-imagfhkhqrxfhetg.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-vivobook-k15-oled-2021-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-k513ea-l312ws-thin-light-laptop/p/itm43432ba02fc87"
+      },
+      {
+        "name": "HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-du3563TU Thin and Light Laptop",
+        "link": "https://www.flipkart.com/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-du3563tu-thin-light-laptop/p/itmbb016707c9145",
+        "current_price": 42990,
+        "original_price": 49590,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kyt0ya80/computer/l/c/3/-original-imagaybuzkt95gmf.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-du3563tu-thin-light-laptop/p/itmbb016707c9145"
+      },
+      {
+        "name": "Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ALC6 Thin and Light Lap...",
+        "link": "https://www.flipkart.com/lenovo-ideapad-3-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-11-home-15alc6-thin-light-laptop/p/itm790def6ef6b6f",
+        "current_price": 49990,
+        "original_price": 68990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-ideapad-3-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-11-home-15alc6-thin-light-laptop/p/itm790def6ef6b6f"
+      },
+      {
+        "name": "MSI Pulse GL66 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 306...",
+        "link": "https://www.flipkart.com/msi-pulse-gl66-core-i7-11th-gen-16-gb-1-tb-ssd-windows-10-home-6-gb-graphics-nvidia-geforce-rtx-3060-144-hz-11uek-248in-gaming-laptop/p/itmbb49a7b567a7a",
+        "current_price": 114990,
+        "original_price": 139990,
+        "product_id" : 1,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kr3tj0w0/computer/b/p/r/na-notebook-msi-original-imag4z5zs2xkvmwh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/msi-pulse-gl66-core-i7-11th-gen-16-gb-1-tb-ssd-windows-10-home-6-gb-graphics-nvidia-geforce-rtx-3060-144-hz-11uek-248in-gaming-laptop/p/itmbb49a7b567a7a"
+      }
+    ]
+  }

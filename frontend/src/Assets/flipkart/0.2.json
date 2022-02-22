@@ -1,0 +1,6 @@
+// 20220217004013
+// https://flipkart-product-stock.herokuapp.com/product?link={product_link}&pincode={pincode}
+
+{
+    "error": "Some error occured while fetching product details"
+  }
