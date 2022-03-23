@@ -1,28 +1,20 @@
-import React from 'react';
-import '../../Style/Deals.css';
-import useFetch from "react-fetch-hook";
+import React from 'react'
+import useFetch from 'react-fetch-hook'
 
-const Deals = () => {
+const shoesUrl = "http://localhost:4000/products?product_id=4"
 
-    const { isLoading, data } = useFetch("http://localhost:4000/random");
-    console.log(isLoading, data);
+const Shoes = () => {
+    const {isLoading, data} = useFetch(shoesUrl);
 
-    return (isLoading ? (
+  return (
+    isLoading ? (
         <></>
-        ) : (
+    ) : (
         <React.Fragment>
             <div className="season deals-of-the-day">
                 <div className="top">
-                    <h4>Deals of the Day</h4>
-                    <img src="https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/timer_a73398.svg" alt="clock" />
-                    <div className="time">
-                        <span>12</span>
-                        <span>:</span>
-                        <span>44</span>
-                        <span>:</span>
-                        <span>34</span>
-                        <span>Left</span>
-                    </div>
+                    <h4>Deals of Laptop</h4>
+                    
 
                     <div className="primary-btn">
                         <button>VIEW ALL</button>
@@ -54,7 +46,8 @@ const Deals = () => {
                 </div>
             </div>
         </React.Fragment>
-    ))
-};
+    )
+  )
+}
 
-export default Deals;
+export default Shoes

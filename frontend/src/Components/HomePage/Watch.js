@@ -1,15 +1,19 @@
-import React from 'react';
+import React from 'react'
+import useFetch from 'react-fetch-hook'
 
-import '../../Style/DealsOfFashion.css';
+const watchUrl = "http://localhost:4000/products?product_id=3"
 
-import first from '../../Assets/JSON/first.json'
+const Watch = () => {
+    const { isLoading, data } = useFetch(watchUrl);
 
-const DealsOfFashion = () => {
-    return (
+    return (isLoading ? (
+        <></>
+    ) : (
         <React.Fragment>
-            <div className="season top-deals-on-fashin">
+            <div className="season deals-of-the-day">
                 <div className="top">
-                    <h4>Top Deals On Fashion</h4>
+                    <h4>Deals of Laptop</h4>
+
 
                     <div className="primary-btn">
                         <button>VIEW ALL</button>
@@ -18,31 +22,32 @@ const DealsOfFashion = () => {
 
                 <div className="bottom">
                     <div className="boxes">
-
                         {
-                            first.map((data,index) => {
+                            data.map((item, index) => {
                                 return (
                                     <div className="box" key={index}>
                                         <div className="img">
-                                            <img src={data.img} alt="img1" />
+                                            <img src={item.image} alt="img1" />
                                         </div>
 
                                         <div className="desc">
-                                            <div className="product">{data.title}</div>
-                                            <div className='tag'>{data.tag}</div>
-                                            <div className="title">{data.desc}</div>
+                                            <div className="product">{item.product_title}</div>
+                                            <div className='tag'>{item.tag.offer_tag}</div>
+                                            <div className="title">{item.tag.deals_tag}</div>
                                         </div>
                                     </div>
                                 )
+
                             })
                         }
-
 
                     </div>
                 </div>
             </div>
         </React.Fragment>
-    );
-};
+    )
 
-export default DealsOfFashion;
+    )
+}
+
+export default Watch

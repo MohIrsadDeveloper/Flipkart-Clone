@@ -1,0 +1,28 @@
+[
+    {
+        "product_type_id" : 1,
+        "brand" : {
+            "brand_name" : "",
+            "brand_id" : 1
+        },
+        "product_name" : "",
+        "product_id" : 1,
+        "price" : [
+            {
+                "current_price" : "",
+                "old_price" : ""
+            }
+        ],
+        "discount" : "Upto 75% off",
+        "rating" : {
+            "rating_star" : 4.5,
+            "rating_review" : ""
+        },
+        "features" : [
+            
+        ],
+        "images" : [
+            
+        ]
+    }
+]

@@ -60,9 +60,14 @@
 .season .bottom .boxes .box .img img {
   height: 100%;
   width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 .season .bottom .boxes .box .desc {
   text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .season .bottom .boxes .box .desc .product {
   margin: 15px 0 0;
@@ -75,4 +80,5 @@
 .season .bottom .boxes .box .desc .title {
   padding: 7px 0 0;
   color: gray;
+  white-space: nowrap;
 }

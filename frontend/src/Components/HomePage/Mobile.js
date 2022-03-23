@@ -1,18 +1,19 @@
-import React from 'react';
-import useFetch from 'react-fetch-hook';
+import React from 'react'
+import useFetch from 'react-fetch-hook'
 
-const Furniture = () => {
+const mobileUrl = "http://localhost:4000/products?product_id=2"
 
-    const { isLoading, data } = useFetch("http://localhost:4000/products?product_id=8")
-
-    return (isLoading ? (
-            <div>Loading...</div>
+const Mobile = () => {
+    const { isLoading, data } = useFetch(mobileUrl);
+    return (
+        isLoading ? (
+            <></>
         ) : (
             <React.Fragment>
-                <div className="season furniture-bestsellers">
+                <div className="season deals-of-the-day">
                     <div className="top">
-                        <h4 className='head'>Furniture Bestsellers</h4>
-                        <span className='sub-head'>Up to 70% OFF</span>
+                        <h4>Deals of Laptop</h4>
+
 
                         <div className="primary-btn">
                             <button>VIEW ALL</button>
@@ -45,7 +46,7 @@ const Furniture = () => {
                 </div>
             </React.Fragment>
         )
-    );
-};
+    )
+}
 
-export default Furniture;
+export default Mobile

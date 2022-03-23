@@ -11,7 +11,8 @@ app.use(bodyParser.json())
 app.use(cors())
 
 const MongoClient = mongo.MongoClient;
-const mongouri = 'mongodb://localhost:27017';
+// const mongouri = 'mongodb://localhost:27017/Flipkart';
+const mongouri = 'mongodb+srv://test:test123@cluster0.wy6xk.mongodb.net/Flipkart?retryWrites=true&w=majority'
 
 let db;
 
@@ -33,18 +34,25 @@ app.get('/', (req, res) => {
 
 
 app.get("/products", (req,res) => {
-    let productId = Number(req.query.productId);
-    console.log(productId);
+    let productId = Number(req.query.product_id);
 
     let query = {}
 
+
     if (productId) {
-        query = { product_id : productId }
+        query = { "product.product_type_id": productId }
     }
     
-    db.collection("products").find(query).toArray((err, result) => {
+    db.collection("Home").find(query).toArray((err, result) => {
         if (err) throw err;
         res.json(result);
+    })
+})
+
+app.get('/random', (req,res) => {
+    db.collection('Home').aggregate([{$sample : {size : 8}}]).toArray((err,result) => {
+        if (err) throw err;
+        res.json(result)
     })
 })
 
