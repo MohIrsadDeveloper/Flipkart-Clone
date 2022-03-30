@@ -125,18 +125,18 @@ $primary-color: #2874f0;
           }
         }
 
-        #more {
-          &:hover ~ .content {
-            height: 400px;
-            width: 300px;
-            background-color: white;
-            position: absolute;
-            top: 60px;
-            left: 200px;
-            z-index: 5;
-            display: block;
-          }
-        }
+        // #more {
+        //   &:hover ~ .content {
+        //     height: 400px;
+        //     width: 300px;
+        //     background-color: white;
+        //     position: absolute;
+        //     top: 60px;
+        //     left: 200px;
+        //     z-index: 5;
+        //     display: block;
+        //   }
+        // }
 
         #more,
         #cart {

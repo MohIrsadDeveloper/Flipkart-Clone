@@ -1,0 +1,226 @@
+// 20220329184838
+// https://flipkart.dvishal485.workers.dev/search/nokia%20smartphone
+
+{
+    "total_result": 24,
+    "query": "nokia%20smartphone",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=nokia%20smartphone",
+    "result": [
+      {
+        "name": "Nokia C01 Plus (Grey, 16 GB)",
+        "link": "https://www.flipkart.com/nokia-c01-plus-grey-16-gb/p/itm4262e04de3712",
+        "current_price": 6160,
+        "original_price": 6499,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktizdzk0/mobile/b/t/k/c01-plus-ta-1396-ds-nokia-original-imag6updf4nzdndh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-c01-plus-grey-16-gb/p/itm4262e04de3712"
+      },
+      {
+        "name": "Nokia G10 (Night | Dark Blue, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-g10-night-dark-blue-64-gb/p/itmf4ff98277c5cf",
+        "current_price": 11439,
+        "original_price": 11459,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktizdzk0/mobile/j/3/h/g10-ta-1334-ds-nokia-original-imag6uph7y985hzz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-g10-night-dark-blue-64-gb/p/itmf4ff98277c5cf"
+      },
+      {
+        "name": "Nokia G10 (Dusk | Purple, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-g10-dusk-purple-64-gb/p/itmf4ff98277c5cf",
+        "current_price": 11439,
+        "original_price": 11496,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktizdzk0/mobile/4/a/4/g10-ta-1334-ds-nokia-original-imag6uphdehzhgjq.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-g10-dusk-purple-64-gb/p/itmf4ff98277c5cf"
+      },
+      {
+        "name": "Nokia C01 Plus (Blue, 16 GB)",
+        "link": "https://www.flipkart.com/nokia-c01-plus-blue-16-gb/p/itm4262e04de3712",
+        "current_price": 6110,
+        "original_price": 6499,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktizdzk0/mobile/p/e/h/c01-plus-ta-1396-ds-nokia-original-imag6updekaksnrp.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-c01-plus-blue-16-gb/p/itm4262e04de3712"
+      },
+      {
+        "name": "Nokia G20 (Glacier, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-g20-glacier-64-gb/p/itm52b65a86c3bf5",
+        "current_price": 12989,
+        "original_price": 13496,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktd9mkw0/mobile/l/o/r/g20-ta-1365-ds-4-64-nokia-g20-nokia-original-imag6q3qqph44qeu.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-g20-glacier-64-gb/p/itm52b65a86c3bf5"
+      },
+      {
+        "name": "Nokia C 30 (White, 32 GB)",
+        "link": "https://www.flipkart.com/nokia-c-30-white-32-gb/p/itm460cdae800f47",
+        "current_price": 9898,
+        "original_price": 9984,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kv5kfww0/mobile/h/q/f/c-30-286662084-nokia-original-imag844tsfvkptzv.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-c-30-white-32-gb/p/itm460cdae800f47"
+      },
+      {
+        "name": "Nokia C01 Plus (Blue, 32 GB)",
+        "link": "https://www.flipkart.com/nokia-c01-plus-blue-32-gb/p/itmf96329abbe2bb",
+        "current_price": 6799,
+        "original_price": 6799,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/l0sgyvk0/mobile/s/u/q/-original-imagchvgyehnhtjj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-c01-plus-blue-32-gb/p/itmf96329abbe2bb"
+      },
+      {
+        "name": "Nokia 3.4 (Fjord BLUE, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-3-4-fjord-blue-64-gb/p/itm73a72497800d0",
+        "current_price": 11499,
+        "original_price": 11499,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kle24cw0/mobile/5/x/c/3-4-hq5020nf37000-nokia-original-imagyja6zgmtnyqa.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-3-4-fjord-blue-64-gb/p/itm73a72497800d0"
+      },
+      {
+        "name": "Nokia C20 Plus Smartphone (Ocean Blue, 32 GB)",
+        "link": "https://www.flipkart.com/nokia-c20-plus-smartphone-ocean-blue-32-gb/p/itmdd59cd914edb5",
+        "current_price": 7999,
+        "original_price": 7999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ks3jjbk0/mobile/2/u/o/c20-plus-sp01z01z2742y-nokia-original-imag5pzfhw4xhwhh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-c20-plus-smartphone-ocean-blue-32-gb/p/itmdd59cd914edb5"
+      },
+      {
+        "name": "Nokia 2.4 (Fjord Blue, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-2-4-fjord-blue-64-gb/p/itm0ba14ef206b83",
+        "current_price": 10169,
+        "original_price": 10398,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/khuvxjk0/mobile/h/f/u/nokia-2-4-719901129431-original-imafxrufucgy4x7h.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-2-4-fjord-blue-64-gb/p/itm0ba14ef206b83"
+      },
+      {
+        "name": "Nokia 2.4 (Dusk Purple, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-2-4-dusk-purple-64-gb/p/itmc59892f09caad",
+        "current_price": 11499,
+        "original_price": 11499,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/khuvxjk0/mobile/u/5/b/nokia-2-4-719901129421-original-imafxrufjffe3kw5.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-2-4-dusk-purple-64-gb/p/itmc59892f09caad"
+      },
+      {
+        "name": "Nokia C20 Plus Smartphone (Dark Grey, 32 GB)",
+        "link": "https://www.flipkart.com/nokia-c20-plus-smartphone-dark-grey-32-gb/p/itmbe82bd5aa95b8",
+        "current_price": 8799,
+        "original_price": 8799,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ks3jjbk0/mobile/f/e/q/c20-plus-sp01z01z2744y-nokia-original-imag5pzbctssdwc9.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-c20-plus-smartphone-dark-grey-32-gb/p/itmbe82bd5aa95b8"
+      },
+      {
+        "name": "Nokia 2.4 (Charcoal Grey, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-2-4-charcoal-grey-64-gb/p/itmc59892f09caad",
+        "current_price": 11499,
+        "original_price": 11499,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/khuvxjk0/mobile/f/4/h/nokia-2-4-719901129411-original-imafxrufh7pc6hv5.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-2-4-charcoal-grey-64-gb/p/itmc59892f09caad"
+      },
+      {
+        "name": "Nokia 3.4 (Dusk Purple, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-3-4-dusk-purple-64-gb/p/itm37c4fa474aa20",
+        "current_price": 11427,
+        "original_price": 11427,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kle24cw0/mobile/c/7/4/3-4-hq5020nf38000-nokia-original-imagyja6zxn6zgfz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-3-4-dusk-purple-64-gb/p/itm37c4fa474aa20"
+      },
+      {
+        "name": "Nokia G20 (Dark Blue, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-g20-dark-blue-64-gb/p/itm52b65a86c3bf5",
+        "current_price": 13990,
+        "original_price": 13990,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktq4l8w0/mobile/n/i/z/g20-g20-ta-1365-ds-nokia-original-imag7y4auxg3rmun.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-g20-dark-blue-64-gb/p/itm52b65a86c3bf5"
+      },
+      {
+        "name": "Nokia C 30 (Green, 32 GB)",
+        "link": "https://www.flipkart.com/nokia-c-30-green-32-gb/p/itm47608c0b7481f",
+        "current_price": 9995,
+        "original_price": 9995,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kv5kfww0/mobile/l/v/o/c-30-286662076-nokia-original-imag844tna6dk966.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-c-30-green-32-gb/p/itm47608c0b7481f"
+      },
+      {
+        "name": "Nokia 2.2 (Black, 32 GB)",
+        "link": "https://www.flipkart.com/nokia-2-2-black-32-gb/p/itmfd9577b9a457b",
+        "current_price": 9599,
+        "original_price": 9599,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/p/r/q/2-2-32-c-hq5020da07000-nokia-3-original-imafh7gag4ptkxtq.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-2-2-black-32-gb/p/itmfd9577b9a457b"
+      },
+      {
+        "name": "Nokia 105 DS (Blue, 4 MB)",
+        "link": "https://www.flipkart.com/nokia-105-ds-blue-4-mb/p/itm1e9f9959f6904",
+        "current_price": 1200,
+        "original_price": 1200,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jyxaw7k0/mobile/z/p/v/nokia-105-ds-ta-1034-original-imafbsxgvverdn7u.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-105-ds-blue-4-mb/p/itm1e9f9959f6904"
+      },
+      {
+        "name": "Nokia 5.4 (Polar Night, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-5-4-polar-night-64-gb/p/itmda0c85979b02c",
+        "current_price": 12999,
+        "original_price": 16799,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kkwwu4w0/mobile/u/i/w/5-4-hq5020m514000-nokia-original-imagy5bqcnefyzdk.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-5-4-polar-night-64-gb/p/itmda0c85979b02c"
+      },
+      {
+        "name": "Nokia 5.4 (Dusk, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-5-4-dusk-64-gb/p/itm930d349751702",
+        "current_price": 12999,
+        "original_price": 16799,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kkwwu4w0/mobile/s/t/7/5-4-hq5020m517000-nokia-original-imagy5bqmghczguz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-5-4-dusk-64-gb/p/itm930d349751702"
+      },
+      {
+        "name": "Nokia 3.4 (Charcoal GREY, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-3-4-charcoal-grey-64-gb/p/itm3961973b4bc4e",
+        "current_price": 13999,
+        "original_price": 13999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kle24cw0/mobile/b/s/j/3-4-hq5020nf39000-nokia-original-imagyja6gf49rkhb.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-3-4-charcoal-grey-64-gb/p/itm3961973b4bc4e"
+      },
+      {
+        "name": "Nokia G20 (Night Dark Blue, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-g20-night-dark-blue-64-gb/p/itmb96e02b5b1193",
+        "current_price": 12599,
+        "original_price": 12599,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktizdzk0/mobile/y/4/i/g20-ta-1365-nokia-original-imag6uttggksgjtf.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-g20-night-dark-blue-64-gb/p/itmb96e02b5b1193"
+      },
+      {
+        "name": "Nokia C20 Plus Smartphone (Ocean Blue, 32 GB)",
+        "link": "https://www.flipkart.com/nokia-c20-plus-smartphone-ocean-blue-32-gb/p/itma406124fb5693",
+        "current_price": 8990,
+        "original_price": 8990,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ks3jjbk0/mobile/2/u/o/c20-plus-sp01z01z2742y-nokia-original-imag5pzfhw4xhwhh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-c20-plus-smartphone-ocean-blue-32-gb/p/itma406124fb5693"
+      },
+      {
+        "name": "Nokia C 30 (Green, 64 GB)",
+        "link": "https://www.flipkart.com/nokia-c-30-green-64-gb/p/itma1b2391e59dfc",
+        "current_price": 11999,
+        "original_price": 11999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kv5kfww0/mobile/l/v/o/c-30-286662076-nokia-original-imag844tna6dk966.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/nokia-c-30-green-64-gb/p/itma1b2391e59dfc"
+      }
+    ]
+  }

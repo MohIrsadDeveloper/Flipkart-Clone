@@ -1,0 +1,450 @@
+// 20220330075857
+// https://flipkart.dvishal485.workers.dev/search/puma
+
+{
+    "total_result": 40,
+    "query": "puma",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=puma",
+    "result": [
+      {
+        "name": "Printed Men V Neck Blue T-Shirt",
+        "link": "https://www.flipkart.com/puma-printed-men-v-neck-blue-t-shirt/p/itm1e8cd1f2c188a",
+        "current_price": 1349,
+        "original_price": 1999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-printed-men-v-neck-blue-t-shirt/p/itm1e8cd1f2c188a"
+      },
+      {
+        "name": "Ms Pants TR I Solid Men Grey Track Pants",
+        "link": "https://www.flipkart.com/puma-ms-pants-tr-solid-men-grey-track/p/itmdb73e87bf19c6",
+        "current_price": 1269,
+        "original_price": 3299,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-ms-pants-tr-solid-men-grey-track/p/itmdb73e87bf19c6"
+      },
+      {
+        "name": "Hustle V2 Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-hustle-v2-running-shoes-men/p/itm08befb67b95f8",
+        "current_price": 1649,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-hustle-v2-running-shoes-men/p/itm08befb67b95f8"
+      },
+      {
+        "name": "Hustle V2 Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-hustle-v2-running-shoes-men/p/itm7827dd756c4f3",
+        "current_price": 1649,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-hustle-v2-running-shoes-men/p/itm7827dd756c4f3"
+      },
+      {
+        "name": "Hustle V2 Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-hustle-v2-running-shoes-men/p/itmcd0577310563b",
+        "current_price": 1649,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-hustle-v2-running-shoes-men/p/itmcd0577310563b"
+      },
+      {
+        "name": "Hustle V2 Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-hustle-v2-running-shoes-men/p/itm95cb6c25022cd",
+        "current_price": 1649,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-hustle-v2-running-shoes-men/p/itm95cb6c25022cd"
+      },
+      {
+        "name": "Lazy Knit Slip On Walking Shoes For Men",
+        "link": "https://www.flipkart.com/puma-lazy-knit-slip-walking-shoes-men/p/itm540d96ccb19af",
+        "current_price": 1599,
+        "original_price": 2999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-lazy-knit-slip-walking-shoes-men/p/itm540d96ccb19af"
+      },
+      {
+        "name": "Mens Graphic Pants 11 Solid Men Black Track Pants",
+        "link": "https://www.flipkart.com/puma-mens-graphic-pants-11-solid-men-black-track/p/itmc86ec155c2b39",
+        "current_price": 1674,
+        "original_price": 2299,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-mens-graphic-pants-11-solid-men-black-track/p/itmc86ec155c2b39"
+      },
+      {
+        "name": "Troy MU Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-troy-mu-running-shoes-men/p/itmb8bbef858ead8",
+        "current_price": 2269,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-troy-mu-running-shoes-men/p/itmb8bbef858ead8"
+      },
+      {
+        "name": "Zod Runner V3 Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-zod-runner-v3-running-shoes-men/p/itme55e2f7a312bd",
+        "current_price": 1549,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-zod-runner-v3-running-shoes-men/p/itme55e2f7a312bd"
+      },
+      {
+        "name": "Hustle V2 Wns Running Shoes For Women",
+        "link": "https://www.flipkart.com/puma-hustle-v2-wns-running-shoes-women/p/itmd39005230fde5",
+        "current_price": 1299,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-hustle-v2-wns-running-shoes-women/p/itmd39005230fde5"
+      },
+      {
+        "name": "Loop X Wns Running Shoes For Women",
+        "link": "https://www.flipkart.com/puma-loop-x-wns-running-shoes-women/p/itma8c267feb2c2d",
+        "current_price": 1489,
+        "original_price": 2999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-loop-x-wns-running-shoes-women/p/itma8c267feb2c2d"
+      },
+      {
+        "name": "Puma Smash v2 L Sneakers For Men",
+        "link": "https://www.flipkart.com/puma-smash-v2-l-sneakers-men/p/itmf6ygh4f4qsffz",
+        "current_price": 1301,
+        "original_price": 3499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-smash-v2-l-sneakers-men/p/itmf6ygh4f4qsffz"
+      },
+      {
+        "name": "Solid Baseball Cap Cap",
+        "link": "https://www.flipkart.com/puma-solid-baseball-cap/p/itm9eb981d17095e",
+        "current_price": 499,
+        "original_price": 499,
+        "discounted": false,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-solid-baseball-cap/p/itm9eb981d17095e"
+      },
+      {
+        "name": "Deed V2 Flip Flops",
+        "link": "https://www.flipkart.com/puma-deed-v2-flip-flops/p/itmbce4fddfa85fc",
+        "current_price": 833,
+        "original_price": 1699,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-deed-v2-flip-flops/p/itmbce4fddfa85fc"
+      },
+      {
+        "name": "Solid Men Polo Neck Grey T-Shirt",
+        "link": "https://www.flipkart.com/puma-solid-men-polo-neck-grey-t-shirt/p/itme2ec2f5f9cd6e",
+        "current_price": 749,
+        "original_price": 1999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-solid-men-polo-neck-grey-t-shirt/p/itme2ec2f5f9cd6e"
+      },
+      {
+        "name": "Solid Men Black Regular Shorts",
+        "link": "https://www.flipkart.com/puma-solid-men-black-regular-shorts/p/itm26815d1baf3b6",
+        "current_price": 773,
+        "original_price": 1299,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-solid-men-black-regular-shorts/p/itm26815d1baf3b6"
+      },
+      {
+        "name": "Solid Men Black Regular Shorts",
+        "link": "https://www.flipkart.com/puma-solid-men-black-regular-shorts/p/itm26815d1baf3b6",
+        "current_price": 773,
+        "original_price": 1299,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-solid-men-black-regular-shorts/p/itm26815d1baf3b6"
+      },
+      {
+        "name": "Anti - Slip Reversible Yoga Mat- 6 MM thickness Green 6...",
+        "link": "https://www.flipkart.com/puma-anti-slip-reversible-yoga-mat-6-mm-thickness-green-mat/p/itm96d73e1573b3c",
+        "current_price": 1119,
+        "original_price": 1499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-anti-slip-reversible-yoga-mat-6-mm-thickness-green-mat/p/itm96d73e1573b3c"
+      },
+      {
+        "name": "Printed Men Round Neck White T-Shirt",
+        "link": "https://www.flipkart.com/puma-printed-men-round-neck-white-t-shirt/p/itm414d4b7f4940f",
+        "current_price": 999,
+        "original_price": 1799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-printed-men-round-neck-white-t-shirt/p/itm414d4b7f4940f"
+      },
+      {
+        "name": "Flex Bar Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-flex-bar-running-shoes-men/p/itm5a11c32310ccc",
+        "current_price": 1549,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-flex-bar-running-shoes-men/p/itm5a11c32310ccc"
+      },
+      {
+        "name": "Loop X Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-loop-x-running-shoes-men/p/itm6c499f51cc16c",
+        "current_price": 1689,
+        "original_price": 2999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-loop-x-running-shoes-men/p/itm6c499f51cc16c"
+      },
+      {
+        "name": "Player Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-player-running-shoes-men/p/itm60f39b4bcbe20",
+        "current_price": 1549,
+        "original_price": 4299,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-player-running-shoes-men/p/itm60f39b4bcbe20"
+      },
+      {
+        "name": "Full Sleeve Solid Men Sweatshirt",
+        "link": "https://www.flipkart.com/puma-full-sleeve-solid-men-sweatshirt/p/itm3463c2c5474fe",
+        "current_price": 2849,
+        "original_price": 4999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-full-sleeve-solid-men-sweatshirt/p/itm3463c2c5474fe"
+      },
+      {
+        "name": "Manitoba V2 Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-manitoba-v2-running-shoes-men/p/itmd5ebcff91b291",
+        "current_price": 2559,
+        "original_price": 4499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-manitoba-v2-running-shoes-men/p/itmd5ebcff91b291"
+      },
+      {
+        "name": "Zod Runner NM Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-zod-runner-nm-running-shoes-men/p/itm0839501b7da05",
+        "current_price": 2269,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-zod-runner-nm-running-shoes-men/p/itm0839501b7da05"
+      },
+      {
+        "name": "Rigel Sneakers For Men",
+        "link": "https://www.flipkart.com/puma-rigel-sneakers-men/p/itma87d7ac3c8c44",
+        "current_price": 1573,
+        "original_price": 2799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-rigel-sneakers-men/p/itma87d7ac3c8c44"
+      },
+      {
+        "name": "SPEED SUTAMINA 2 Wns Running Shoes For Women",
+        "link": "https://www.flipkart.com/puma-speed-sutamina-2-wns-running-shoes-women/p/itm1320f40bc78e3",
+        "current_price": 3770,
+        "original_price": 8999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-speed-sutamina-2-wns-running-shoes-women/p/itm1320f40bc78e3"
+      },
+      {
+        "name": "Baseball Cap Cap",
+        "link": "https://www.flipkart.com/puma-baseball-cap/p/itm38c25031f5549",
+        "current_price": 439,
+        "original_price": 799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-baseball-cap/p/itm38c25031f5549"
+      },
+      {
+        "name": "x KL Chandler Slippers",
+        "link": "https://www.flipkart.com/puma-x-kl-chandler-slippers/p/itm87f0c61cbfeaf",
+        "current_price": 997,
+        "original_price": 1999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-x-kl-chandler-slippers/p/itm87f0c61cbfeaf"
+      },
+      {
+        "name": "Epsom V1 Flip Flops",
+        "link": "https://www.flipkart.com/puma-epsom-v1-flip-flops/p/itmb015d1d5f52eb",
+        "current_price": 379,
+        "original_price": 699,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-epsom-v1-flip-flops/p/itmb015d1d5f52eb"
+      },
+      {
+        "name": "Graphic Print Women Round Neck Black T-Shirt",
+        "link": "https://www.flipkart.com/puma-graphic-print-women-round-neck-black-t-shirt/p/itm4cb4f6d8fbb1a",
+        "current_price": 1361,
+        "original_price": 1799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-graphic-print-women-round-neck-black-t-shirt/p/itm4cb4f6d8fbb1a"
+      },
+      {
+        "name": "Solid Men Black Regular Shorts",
+        "link": "https://www.flipkart.com/puma-solid-men-black-regular-shorts/p/itm26815d1baf3b6",
+        "current_price": 773,
+        "original_price": 1299,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-solid-men-black-regular-shorts/p/itm26815d1baf3b6"
+      },
+      {
+        "name": "Solid Men Black Regular Shorts",
+        "link": "https://www.flipkart.com/puma-solid-men-black-regular-shorts/p/itm26815d1baf3b6",
+        "current_price": 773,
+        "original_price": 1299,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-solid-men-black-regular-shorts/p/itm26815d1baf3b6"
+      },
+      {
+        "name": "Anti - Slip Reversible Yoga Mat- 6 MM thickness Black 6...",
+        "link": "https://www.flipkart.com/puma-anti-slip-reversible-yoga-mat-6-mm-thickness-black-mat/p/itm96d73e1573b3c",
+        "current_price": 1119,
+        "original_price": 1499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-anti-slip-reversible-yoga-mat-6-mm-thickness-black-mat/p/itm96d73e1573b3c"
+      },
+      {
+        "name": "Graphic Print Women Round Neck White T-Shirt",
+        "link": "https://www.flipkart.com/puma-graphic-print-women-round-neck-white-t-shirt/p/itmef60fdae567a1",
+        "current_price": 1361,
+        "original_price": 1799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-graphic-print-women-round-neck-white-t-shirt/p/itmef60fdae567a1"
+      },
+      {
+        "name": "Cell Vive Evo Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-cell-vive-evo-running-shoes-men/p/itm69a4b611ea877",
+        "current_price": 3309,
+        "original_price": 5999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-cell-vive-evo-running-shoes-men/p/itm69a4b611ea877"
+      },
+      {
+        "name": "Loop X Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-loop-x-running-shoes-men/p/itmdae7088405d1d",
+        "current_price": 1689,
+        "original_price": 2999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-loop-x-running-shoes-men/p/itmdae7088405d1d"
+      },
+      {
+        "name": "Zod Runner NM Running Shoes For Men",
+        "link": "https://www.flipkart.com/puma-zod-runner-nm-running-shoes-men/p/itmeb62677309966",
+        "current_price": 1349,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-zod-runner-nm-running-shoes-men/p/itmeb62677309966"
+      },
+      {
+        "name": "Printed Men Round Neck White T-Shirt",
+        "link": "https://www.flipkart.com/puma-printed-men-round-neck-white-t-shirt/p/itm27380445fec79",
+        "current_price": 939,
+        "original_price": 1799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/puma-printed-men-round-neck-white-t-shirt/p/itm27380445fec79"
+      }
+    ]
+  }

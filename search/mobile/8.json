@@ -1,0 +1,370 @@
+// 20220329185020
+// https://flipkart.dvishal485.workers.dev/search/realme
+
+{
+    "total_result": 40,
+    "query": "realme",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=realme",
+    "result": [
+      {
+        "name": "realme C11 2021 (Cool Grey, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c11-2021-cool-grey-32-gb/p/itmbd856acb97c38",
+        "current_price": null,
+        "original_price": null,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kqjtd3k0/mobile/s/b/8/c11-2021-rmx3231-realme-original-imag4j4xkqchhfxk.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c11-2021-cool-grey-32-gb/p/itmbd856acb97c38"
+      },
+      {
+        "name": "realme C11 2021 (Cool Grey, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c11-2021-cool-grey-64-gb/p/itmbd856acb97c38",
+        "current_price": 8999,
+        "original_price": 9999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kqjtd3k0/mobile/s/b/8/c11-2021-rmx3231-realme-original-imag4j4xkqchhfxk.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c11-2021-cool-grey-64-gb/p/itmbd856acb97c38"
+      },
+      {
+        "name": "realme C11 2021 (Cool Blue, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c11-2021-cool-blue-64-gb/p/itmbd856acb97c38",
+        "current_price": 8999,
+        "original_price": 9999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kqjtd3k0/mobile/o/4/x/c11-2021-rmx3231-realme-original-imag4j4yrdt7d9cj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c11-2021-cool-blue-64-gb/p/itmbd856acb97c38"
+      },
+      {
+        "name": "realme C11 2021 (Cool Blue, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c11-2021-cool-blue-32-gb/p/itmbd856acb97c38",
+        "current_price": 7499,
+        "original_price": 7999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kqjtd3k0/mobile/o/4/x/c11-2021-rmx3231-realme-original-imag4j4yrdt7d9cj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c11-2021-cool-blue-32-gb/p/itmbd856acb97c38"
+      },
+      {
+        "name": "realme C20 (Cool Blue, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c20-cool-blue-32-gb/p/itmea1903897436b",
+        "current_price": 7499,
+        "original_price": 7999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kn7sdjk0/mobile/w/h/q/c20-rmx3063-realme-original-imagfxfzay72jqvh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c20-cool-blue-32-gb/p/itmea1903897436b"
+      },
+      {
+        "name": "realme C20 (Cool Grey, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c20-cool-grey-32-gb/p/itmea1903897436b",
+        "current_price": 7499,
+        "original_price": 7999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kn7sdjk0/mobile/7/9/u/c20-rmx3063-realme-original-imagfxfzjrkqtbhe.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c20-cool-grey-32-gb/p/itmea1903897436b"
+      },
+      {
+        "name": "realme C25Y (Metal Grey, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c25y-metal-grey-64-gb/p/itm14ec0239363bc",
+        "current_price": 10999,
+        "original_price": 12999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktlu9ow0/mobile/p/c/u/c25y-rmx3265-realme-original-imag6wmjczbfhk4w.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c25y-metal-grey-64-gb/p/itm14ec0239363bc"
+      },
+      {
+        "name": "realme C21Y (Cross Black, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c21y-cross-black-64-gb/p/itm2a2e4f7554a21",
+        "current_price": 10499,
+        "original_price": 10999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c21y-cross-black-64-gb/p/itm2a2e4f7554a21"
+      },
+      {
+        "name": "realme C21Y (Cross Blue, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c21y-cross-blue-64-gb/p/itm2a2e4f7554a21",
+        "current_price": 10499,
+        "original_price": 10999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ksnjp8w0/mobile/k/o/m/c21y-rmx3261-realme-original-imag65kcytrk8dtr.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c21y-cross-blue-64-gb/p/itm2a2e4f7554a21"
+      },
+      {
+        "name": "realme C21Y (Cross Black, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c21y-cross-black-32-gb/p/itm2a2e4f7554a21",
+        "current_price": 9190,
+        "original_price": 9999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c21y-cross-black-32-gb/p/itm2a2e4f7554a21"
+      },
+      {
+        "name": "realme C21Y (Cross Blue, 32 GB)",
+        "link": "https://www.flipkart.com/realme-c21y-cross-blue-32-gb/p/itm2a2e4f7554a21",
+        "current_price": 9275,
+        "original_price": 9275,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ksnjp8w0/mobile/k/o/m/c21y-rmx3261-realme-original-imag65kcytrk8dtr.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c21y-cross-blue-32-gb/p/itm2a2e4f7554a21"
+      },
+      {
+        "name": "realme C35 (Glowing Green, 64 GB)",
+        "link": "https://www.flipkart.com/realme-c35-glowing-green-64-gb/p/itmafb045222b2cf",
+        "current_price": 11999,
+        "original_price": 13999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/l0fm07k0/mobile/y/g/i/-original-imagc7ryyhrrcgxh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c35-glowing-green-64-gb/p/itmafb045222b2cf"
+      },
+      {
+        "name": "realme C35 (Glowing Black, 128 GB)",
+        "link": "https://www.flipkart.com/realme-c35-glowing-black-128-gb/p/itmafb045222b2cf",
+        "current_price": 12999,
+        "original_price": 14999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/l0fm07k0/mobile/1/k/g/-original-imagc7ukmgugpdfy.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-c35-glowing-black-128-gb/p/itmafb045222b2cf"
+      },
+      {
+        "name": "realme 9i (Prism Black, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9i-prism-black-128-gb/p/itm3e9987219f652",
+        "current_price": 14999,
+        "original_price": 16999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ky90scw0/mobile/m/r/u/-original-imagagnffruu7ptd.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9i-prism-black-128-gb/p/itm3e9987219f652"
+      },
+      {
+        "name": "realme 8 (Cyber Black, 128 GB)",
+        "link": "https://www.flipkart.com/realme-8-cyber-black-128-gb/p/itm63bda3bf5b1db",
+        "current_price": 15999,
+        "original_price": 15999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kmmcrrk0/mobile/4/g/a/8-rmx3085-realme-original-imagfgpfdkyc29zc.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-8-cyber-black-128-gb/p/itm63bda3bf5b1db"
+      },
+      {
+        "name": "realme 8 (Cyber Silver, 128 GB)",
+        "link": "https://www.flipkart.com/realme-8-cyber-silver-128-gb/p/itm63bda3bf5b1db",
+        "current_price": 15999,
+        "original_price": 16999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kmmcrrk0/mobile/y/o/q/8-rmx3085-realme-original-imagfgpgmm6h8ptt.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-8-cyber-silver-128-gb/p/itm63bda3bf5b1db"
+      },
+      {
+        "name": "realme 9i (Prism Blue, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9i-prism-blue-128-gb/p/itm3e9987219f652",
+        "current_price": 15999,
+        "original_price": 17999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9i-prism-blue-128-gb/p/itm3e9987219f652"
+      },
+      {
+        "name": "realme 9i (Prism Black, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9i-prism-black-128-gb/p/itm3e9987219f652",
+        "current_price": 15999,
+        "original_price": 17999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ky90scw0/mobile/m/r/u/-original-imagagnffruu7ptd.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9i-prism-black-128-gb/p/itm3e9987219f652"
+      },
+      {
+        "name": "realme 9i (Prism Blue, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9i-prism-blue-128-gb/p/itm3e9987219f652",
+        "current_price": 14999,
+        "original_price": 16999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9i-prism-blue-128-gb/p/itm3e9987219f652"
+      },
+      {
+        "name": "realme 8 (Cyber Silver, 128 GB)",
+        "link": "https://www.flipkart.com/realme-8-cyber-silver-128-gb/p/itm63bda3bf5b1db",
+        "current_price": 17999,
+        "original_price": 18999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kmmcrrk0/mobile/y/o/q/8-rmx3085-realme-original-imagfgpgmm6h8ptt.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-8-cyber-silver-128-gb/p/itm63bda3bf5b1db"
+      },
+      {
+        "name": "realme 8 (Cyber Black, 128 GB)",
+        "link": "https://www.flipkart.com/realme-8-cyber-black-128-gb/p/itm63bda3bf5b1db",
+        "current_price": 17999,
+        "original_price": 18999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kmmcrrk0/mobile/4/g/a/8-rmx3085-realme-original-imagfgpfdkyc29zc.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-8-cyber-black-128-gb/p/itm63bda3bf5b1db"
+      },
+      {
+        "name": "realme 9 5G (Stargaze White, 64 GB)",
+        "link": "https://www.flipkart.com/realme-9-5g-stargaze-white-64-gb/p/itm4f3814d50ff53",
+        "current_price": 14999,
+        "original_price": 18999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/l0jwbrk0/mobile/a/p/r/-original-imagcb64gwkhzdk5.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-5g-stargaze-white-64-gb/p/itm4f3814d50ff53"
+      },
+      {
+        "name": "realme 9 5G (Meteor Black, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-5g-meteor-black-128-gb/p/itm4f3814d50ff53",
+        "current_price": 17499,
+        "original_price": 20999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/l0jwbrk0/mobile/e/f/b/-original-imagcb64e6mywt9j.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-5g-meteor-black-128-gb/p/itm4f3814d50ff53"
+      },
+      {
+        "name": "realme 9 5G (Stargaze White, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-5g-stargaze-white-128-gb/p/itm4f3814d50ff53",
+        "current_price": 17499,
+        "original_price": 20999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/l0jwbrk0/mobile/a/p/r/-original-imagcb64gwkhzdk5.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-5g-stargaze-white-128-gb/p/itm4f3814d50ff53"
+      },
+      {
+        "name": "realme 8s 5G (Universe Purple, 128 GB)",
+        "link": "https://www.flipkart.com/realme-8s-5g-universe-purple-128-gb/p/itm79fdf59bdbe44",
+        "current_price": 17999,
+        "original_price": 18049,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktbu6q80/mobile/f/s/e/8s-5g-rmx3381-realme-original-imag6zhgra57dtqe.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-8s-5g-universe-purple-128-gb/p/itm79fdf59bdbe44"
+      },
+      {
+        "name": "realme 9 Pro 5G (Midnight Black, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-pro-5g-midnight-black-128-gb/p/itmce357e4a0ca24",
+        "current_price": 17999,
+        "original_price": 21999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzogn0w0/mobile/9/u/s/-original-imagbmf2fttpg4xb.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-pro-5g-midnight-black-128-gb/p/itmce357e4a0ca24"
+      },
+      {
+        "name": "realme 9 Pro 5G (Aurora Green, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-pro-5g-aurora-green-128-gb/p/itmce357e4a0ca24",
+        "current_price": 17999,
+        "original_price": 21999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzogn0w0/mobile/t/2/y/-original-imagbmf26xbmzhk7.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-pro-5g-aurora-green-128-gb/p/itmce357e4a0ca24"
+      },
+      {
+        "name": "realme Narzo 30 5G (Racing Blue, 128 GB)",
+        "link": "https://www.flipkart.com/realme-narzo-30-5g-racing-blue-128-gb/p/itm56837fcb0d6f3",
+        "current_price": 16999,
+        "original_price": 17999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kq18n0w0/mobile/d/l/f/narzo-30-5g-rmx3242-realme-original-imag45yjdkgxddvh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-narzo-30-5g-racing-blue-128-gb/p/itm56837fcb0d6f3"
+      },
+      {
+        "name": "realme 9 Pro 5G (Sunrise Blue, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-pro-5g-sunrise-blue-128-gb/p/itmce357e4a0ca24",
+        "current_price": 17999,
+        "original_price": 21999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzogn0w0/mobile/v/c/v/-original-imagbmf2gztrhvzr.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-pro-5g-sunrise-blue-128-gb/p/itmce357e4a0ca24"
+      },
+      {
+        "name": "realme 9 5G (Meteor Black, 64 GB)",
+        "link": "https://www.flipkart.com/realme-9-5g-meteor-black-64-gb/p/itm4f3814d50ff53",
+        "current_price": 14999,
+        "original_price": 14999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/l0jwbrk0/mobile/e/f/b/-original-imagcb64e6mywt9j.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-5g-meteor-black-64-gb/p/itm4f3814d50ff53"
+      },
+      {
+        "name": "realme 8s 5G (Universe Purple, 128 GB)",
+        "link": "https://www.flipkart.com/realme-8s-5g-universe-purple-128-gb/p/itm79fdf59bdbe44",
+        "current_price": 19999,
+        "original_price": 19999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktbu6q80/mobile/f/s/e/8s-5g-rmx3381-realme-original-imag6zhgra57dtqe.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-8s-5g-universe-purple-128-gb/p/itm79fdf59bdbe44"
+      },
+      {
+        "name": "realme 8s 5G (Universe Blue, 128 GB)",
+        "link": "https://www.flipkart.com/realme-8s-5g-universe-blue-128-gb/p/itm79fdf59bdbe44",
+        "current_price": 17999,
+        "original_price": 17999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktbu6q80/mobile/2/m/c/8s-5g-rmx3381-realme-original-imag6zhgghpzegzp.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-8s-5g-universe-blue-128-gb/p/itm79fdf59bdbe44"
+      },
+      {
+        "name": "realme Narzo 30 5G (Racing Silver, 128 GB)",
+        "link": "https://www.flipkart.com/realme-narzo-30-5g-racing-silver-128-gb/p/itm56837fcb0d6f3",
+        "current_price": 16999,
+        "original_price": 16999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kq18n0w0/mobile/d/b/6/narzo-30-5g-rmx3242-realme-original-imag45yjub2vdrzx.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-narzo-30-5g-racing-silver-128-gb/p/itm56837fcb0d6f3"
+      },
+      {
+        "name": "realme 9 Pro 5G (Aurora Green, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-pro-5g-aurora-green-128-gb/p/itmce357e4a0ca24",
+        "current_price": 20999,
+        "original_price": 23999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzogn0w0/mobile/t/2/y/-original-imagbmf26xbmzhk7.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-pro-5g-aurora-green-128-gb/p/itmce357e4a0ca24"
+      },
+      {
+        "name": "realme 8s 5G (Universe Blue, 128 GB)",
+        "link": "https://www.flipkart.com/realme-8s-5g-universe-blue-128-gb/p/itm79fdf59bdbe44",
+        "current_price": 19999,
+        "original_price": 19999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktbu6q80/mobile/2/m/c/8s-5g-rmx3381-realme-original-imag6zhgghpzegzp.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-8s-5g-universe-blue-128-gb/p/itm79fdf59bdbe44"
+      },
+      {
+        "name": "realme 9 Pro+ 5G (Midnight Black, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-pro-5g-midnight-black-128-gb/p/itm15e7a06fe9352",
+        "current_price": 26999,
+        "original_price": 29999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzogn0w0/mobile/f/v/c/-original-imagbmf2hbxazyf3.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-pro-5g-midnight-black-128-gb/p/itm15e7a06fe9352"
+      },
+      {
+        "name": "realme 9 Pro+ 5G (Aurora Green, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-pro-5g-aurora-green-128-gb/p/itm15e7a06fe9352",
+        "current_price": 24999,
+        "original_price": 27999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzogn0w0/mobile/u/v/p/-original-imagbmf3zehwydcw.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-pro-5g-aurora-green-128-gb/p/itm15e7a06fe9352"
+      },
+      {
+        "name": "realme 9 Pro+ 5G (Sunrise Blue, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-pro-5g-sunrise-blue-128-gb/p/itm15e7a06fe9352",
+        "current_price": 26999,
+        "original_price": 29999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzogn0w0/mobile/m/p/2/-original-imagbmf4qsurna5j.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-pro-5g-sunrise-blue-128-gb/p/itm15e7a06fe9352"
+      },
+      {
+        "name": "realme 9 5G SE (Starry Glow, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-5g-se-starry-glow-128-gb/p/itmc13efe78f2116",
+        "current_price": 22999,
+        "original_price": 22999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/l0jwbrk0/mobile/a/i/f/-original-imagcb65xhtbvfkx.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-5g-se-starry-glow-128-gb/p/itmc13efe78f2116"
+      },
+      {
+        "name": "realme 9 Pro 5G (Midnight Black, 128 GB)",
+        "link": "https://www.flipkart.com/realme-9-pro-5g-midnight-black-128-gb/p/itmce357e4a0ca24",
+        "current_price": 20999,
+        "original_price": 23999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzogn0w0/mobile/9/u/s/-original-imagbmf2fttpg4xb.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/realme-9-pro-5g-midnight-black-128-gb/p/itmce357e4a0ca24"
+      }
+    ]
+  }

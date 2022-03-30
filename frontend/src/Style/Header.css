@@ -109,16 +109,6 @@
 .header .header-top .button .link #login:hover ~ .content {
   display: block;
 }
-.header .header-top .button .link #more:hover ~ .content {
-  height: 400px;
-  width: 300px;
-  background-color: white;
-  position: absolute;
-  top: 60px;
-  left: 200px;
-  z-index: 5;
-  display: block;
-}
 .header .header-top .button .link #more,
 .header .header-top .button .link #cart {
   background-color: transparent;

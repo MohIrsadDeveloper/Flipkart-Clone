@@ -1,0 +1,450 @@
+// 20220329192616
+// https://flipkart.dvishal485.workers.dev/search/selvee%20bag
+
+{
+    "total_result": 40,
+    "query": "selvee%20bag",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=selvee%20bag",
+    "result": [
+      {
+        "name": "Alifiya 15.6 Inch Laptop Sleeve / Slip Case Cover Bag W...",
+        "link": "https://www.flipkart.com/alifiya-15-6-inch-laptop-sleeve-slip-case-cover-bag-handle-l22-grey-sleeve-cover/p/itm2df8a6ec6d5d0",
+        "current_price": 279,
+        "original_price": 439,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/alifiya-15-6-inch-laptop-sleeve-slip-case-cover-bag-handle-l22-grey-sleeve-cover/p/itm2df8a6ec6d5d0"
+      },
+      {
+        "name": "Shopoflux 15.6 Inch Laptop Sleeve Slip Case Cover Bag f...",
+        "link": "https://www.flipkart.com/shopoflux-15-6-inch-laptop-sleeve-slip-case-cover-bag-men-women-handle-waterproof-sleeve-cover/p/itm2fdcd7b39f228",
+        "current_price": 249,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/shopoflux-15-6-inch-laptop-sleeve-slip-case-cover-bag-men-women-handle-waterproof-sleeve-cover/p/itm2fdcd7b39f228"
+      },
+      {
+        "name": "Alifiya 15.6 Inch Laptop Sleeve / Slip Case Cover Bag (...",
+        "link": "https://www.flipkart.com/alifiya-15-6-inch-laptop-sleeve-slip-case-cover-bag-l20-grey-sleeve-cover/p/itm60f13686fe95b",
+        "current_price": 279,
+        "original_price": 409,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/alifiya-15-6-inch-laptop-sleeve-slip-case-cover-bag-l20-grey-sleeve-cover/p/itm60f13686fe95b"
+      },
+      {
+        "name": "Medium 30 L Laptop Backpack Medium 30 L Laptop Backpack...",
+        "link": "https://www.flipkart.com/goldstar-medium-30-l-laptop-backpack-casual-waterproof-backpack-office-bag-school-bag-college-bag-business-bag-unisex-travel/p/itm90163469770f0",
+        "current_price": 440,
+        "original_price": 1999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/goldstar-medium-30-l-laptop-backpack-casual-waterproof-backpack-office-bag-school-bag-college-bag-business-bag-unisex-travel/p/itm90163469770f0"
+      },
+      {
+        "name": "Straplt Laptop Sleeve Carrying Case 15.6-16 Inch Compat...",
+        "link": "https://www.flipkart.com/straplt-laptop-sleeve-carrying-case-15-6-16-inch-compatible-16-macbook-pro-15-surface-book-3-laptop-4-hp-pavilion-asus-acer-samsung-chromebook-computer-cover-bag-handle-grey-waterproof-sleeve-cover/p/itm2300689a732d0",
+        "current_price": 249,
+        "original_price": 799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/straplt-laptop-sleeve-carrying-case-15-6-16-inch-compatible-16-macbook-pro-15-surface-book-3-laptop-4-hp-pavilion-asus-acer-samsung-chromebook-computer-cover-bag-handle-grey-waterproof-sleeve-cover/p/itm2300689a732d0"
+      },
+      {
+        "name": "Bennett Mystic 15.6 inch Laptop Shoulder Messenger Slin...",
+        "link": "https://www.flipkart.com/bennett-mystic-15-6-inch-laptop-shoulder-messenger-sling-office-bag-waterproof-sleeve-cover/p/itm02d49da3ea4d2",
+        "current_price": 462,
+        "original_price": 1499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/bennett-mystic-15-6-inch-laptop-shoulder-messenger-sling-office-bag-waterproof-sleeve-cover/p/itm02d49da3ea4d2"
+      },
+      {
+        "name": "Gizga Essentials Laptop Bag Sleeve for 14.1 Inch Laptop...",
+        "link": "https://www.flipkart.com/gizga-essentials-laptop-bag-sleeve-14-1-inch-macbook-protective-nylon-fabric-sleeve-cover/p/itm444a499f434ab",
+        "current_price": 329,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/gizga-essentials-laptop-bag-sleeve-14-1-inch-macbook-protective-nylon-fabric-sleeve-cover/p/itm444a499f434ab"
+      },
+      {
+        "name": "Large 40 L Laptop Backpack PR-7801-GREY Multi-Purpose L...",
+        "link": "https://www.flipkart.com/provogue-pr-7801-grey-multi-purpose-laptop-bag-rain-cover-men-women-40-l-backpack/p/itmbd60ca1b385c0",
+        "current_price": 679,
+        "original_price": 4900,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/provogue-pr-7801-grey-multi-purpose-laptop-bag-rain-cover-men-women-40-l-backpack/p/itmbd60ca1b385c0"
+      },
+      {
+        "name": "Straplt Laptop Sleeve Case 15.6-16 Inch Waterproof Bag ...",
+        "link": "https://www.flipkart.com/straplt-laptop-sleeve-case-15-6-16-inch-waterproof-bag-tablet-handle-black-sleeve-cover/p/itmc07d426b749a0",
+        "current_price": 219,
+        "original_price": 599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/straplt-laptop-sleeve-case-15-6-16-inch-waterproof-bag-tablet-handle-black-sleeve-cover/p/itmc07d426b749a0"
+      },
+      {
+        "name": "Straplt Laptop Sleeve Case 14.6-15 Inch HP,Dell,Macbook...",
+        "link": "https://www.flipkart.com/straplt-laptop-sleeve-case-14-6-15-inch-hp-dell-macbook-lenovo-asus-bag-back-strap-waterproof-sleeve-cover/p/itmb3e37b10f7284",
+        "current_price": 219,
+        "original_price": 899,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/straplt-laptop-sleeve-case-14-6-15-inch-hp-dell-macbook-lenovo-asus-bag-back-strap-waterproof-sleeve-cover/p/itmb3e37b10f7284"
+      },
+      {
+        "name": "Alifiya 14 Inch Laptop Sleeve / Slip Case Cover Bag Wit...",
+        "link": "https://www.flipkart.com/alifiya-14-inch-laptop-sleeve-slip-case-cover-bag-handle-l22-grey-sleeve-cover/p/itmbf64f686b9c7b",
+        "current_price": 279,
+        "original_price": 439,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/alifiya-14-inch-laptop-sleeve-slip-case-cover-bag-handle-l22-grey-sleeve-cover/p/itmbf64f686b9c7b"
+      },
+      {
+        "name": "Large 35 L Laptop Backpack Stylish Light Weight Backpac...",
+        "link": "https://www.flipkart.com/isparro-stylish-light-weight-backpack-35-l/p/itm44a0c097d48e4",
+        "current_price": 518,
+        "original_price": 1700,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/isparro-stylish-light-weight-backpack-35-l/p/itm44a0c097d48e4"
+      },
+      {
+        "name": "EMMCRAZ 15.6 Inch Laptop Sleeve / Slip Case Cover Bag W...",
+        "link": "https://www.flipkart.com/emmcraz-15-6-inch-laptop-sleeve-slip-case-cover-bag-charger-pouch-waterproof-sleeve-cover/p/itm685a8e3e2a1d1",
+        "current_price": 349,
+        "original_price": 799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/emmcraz-15-6-inch-laptop-sleeve-slip-case-cover-bag-charger-pouch-waterproof-sleeve-cover/p/itm685a8e3e2a1d1"
+      },
+      {
+        "name": "Large 35 L Laptop Backpack Spacy unisex backpack with r...",
+        "link": "https://www.flipkart.com/provogue-spacy-unisex-backpack-rain-cover-reflective-strip-35-l/p/itm3addbe2b465c0",
+        "current_price": 749,
+        "original_price": 2999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/provogue-spacy-unisex-backpack-rain-cover-reflective-strip-35-l/p/itm3addbe2b465c0"
+      },
+      {
+        "name": "Large 43 L Laptop Backpack Daredevil",
+        "link": "https://www.flipkart.com/wildcraft-daredevil-43-l-laptop-backpack/p/itmfejkcgrbkzfcr",
+        "current_price": 1319,
+        "original_price": 2899,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/wildcraft-daredevil-43-l-laptop-backpack/p/itmfejkcgrbkzfcr"
+      },
+      {
+        "name": "Small 15 L Laptop Backpack DT-BP-BMLT26",
+        "link": "https://www.flipkart.com/ducati-dt-bp-bmlt26-15-l-laptop-backpack/p/itm146da19ef3be1",
+        "current_price": 1522,
+        "original_price": 2499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/ducati-dt-bp-bmlt26-15-l-laptop-backpack/p/itm146da19ef3be1"
+      },
+      {
+        "name": "Large 35 L Laptop Backpack Spacy unisex backpack with r...",
+        "link": "https://www.flipkart.com/provogue-spacy-unisex-backpack-rain-cover-reflective-strip-35-l/p/itmf8ca684d5c41b",
+        "current_price": 749,
+        "original_price": 2999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/provogue-spacy-unisex-backpack-rain-cover-reflective-strip-35-l/p/itmf8ca684d5c41b"
+      },
+      {
+        "name": "Men Tan Messenger Bag - Extra Spacious",
+        "link": "https://www.flipkart.com/sm-men-tan-messenger-bag/p/itmfew44f6gq8uxf",
+        "current_price": 994,
+        "original_price": 2499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/sm-men-tan-messenger-bag/p/itmfew44f6gq8uxf"
+      },
+      {
+        "name": "Yumin 15.6 Inch Laptop Sleeve Slip Case Cover Bag Water...",
+        "link": "https://www.flipkart.com/yumin-15-6-inch-laptop-sleeve-slip-case-cover-bag-waterproof-handle-ys11/p/itmb5aee35b689df",
+        "current_price": 249,
+        "original_price": 799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/yumin-15-6-inch-laptop-sleeve-slip-case-cover-bag-waterproof-handle-ys11/p/itmb5aee35b689df"
+      },
+      {
+        "name": "Tom &amp; Gee Laptop Sleeve Case Bag, Slip Case Laptop Bag",
+        "link": "https://www.flipkart.com/tom-gee-laptop-sleeve-case-bag-slip-bag/p/itm59fa4730fb3ad",
+        "current_price": 289,
+        "original_price": 699,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/tom-gee-laptop-sleeve-case-bag-slip-bag/p/itm59fa4730fb3ad"
+      },
+      {
+        "name": "Straplt Laptop Sleeve Case 15.6-16 Inch HP,Dell,Macbook...",
+        "link": "https://www.flipkart.com/straplt-laptop-sleeve-case-15-6-16-inch-hp-dell-macbook-lenovo-asus-bag-back-strap-waterproof-sleeve-cover/p/itm48de1e9d3f8cd",
+        "current_price": 219,
+        "original_price": 599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/straplt-laptop-sleeve-case-15-6-16-inch-hp-dell-macbook-lenovo-asus-bag-back-strap-waterproof-sleeve-cover/p/itm48de1e9d3f8cd"
+      },
+      {
+        "name": "AirCase C46 Laptop Bag Sleeve for 15.6 Inch Laptop MacB...",
+        "link": "https://www.flipkart.com/aircase-c46-laptop-bag-sleeve-15-6-inch-macbook-protective-neoprene-sleeve-cover/p/itm9fe5ca0c92ade",
+        "current_price": 399,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/aircase-c46-laptop-bag-sleeve-15-6-inch-macbook-protective-neoprene-sleeve-cover/p/itm9fe5ca0c92ade"
+      },
+      {
+        "name": "FLORICAN Laptop Sleeve for 13.3 Inch Laptops | Laptop S...",
+        "link": "https://www.flipkart.com/florican-laptop-sleeve-13-3-inch-laptops-sleeve-cover/p/itmcf3ea8774fd3b",
+        "current_price": 199,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/florican-laptop-sleeve-13-3-inch-laptops-sleeve-cover/p/itmcf3ea8774fd3b"
+      },
+      {
+        "name": "Medium 30 L Laptop Backpack Men &amp; Women",
+        "link": "https://www.flipkart.com/fast-fashion-men-women-30-l-laptop-backpack/p/itm276369cbe748d",
+        "current_price": 399,
+        "original_price": 1599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/fast-fashion-men-women-30-l-laptop-backpack/p/itm276369cbe748d"
+      },
+      {
+        "name": "Shopoflux 15.6 Inch Laptop Sleeve Slip Case Cover Bag f...",
+        "link": "https://www.flipkart.com/shopoflux-15-6-inch-laptop-sleeve-slip-case-cover-bag-men-women-front-pocket-waterproof-sleeve-cover/p/itm0de8e3a554db7",
+        "current_price": 279,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/shopoflux-15-6-inch-laptop-sleeve-slip-case-cover-bag-men-women-front-pocket-waterproof-sleeve-cover/p/itm0de8e3a554db7"
+      },
+      {
+        "name": "AirCase 13 Inch-13.3 Inch Laptop Sleeve, Protective, Ne...",
+        "link": "https://www.flipkart.com/aircase-13-inch-13-3-inch-laptop-sleeve-protective-neoprene-bag/p/itm0199054635b48",
+        "current_price": 399,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/aircase-13-inch-13-3-inch-laptop-sleeve-protective-neoprene-bag/p/itm0199054635b48"
+      },
+      {
+        "name": "Alifiya 14 Inch Laptop Sleeve / Slip Case Cover Bag (L2...",
+        "link": "https://www.flipkart.com/alifiya-14-inch-laptop-sleeve-slip-case-cover-bag-l20-grey-sleeve-cover/p/itm4e8f6d4e2e5a8",
+        "current_price": 279,
+        "original_price": 409,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/alifiya-14-inch-laptop-sleeve-slip-case-cover-bag-l20-grey-sleeve-cover/p/itm4e8f6d4e2e5a8"
+      },
+      {
+        "name": "Medium 28 L Laptop Backpack Unisex Polyester School Bag...",
+        "link": "https://www.flipkart.com/optima-unisex-polyester-school-bags-waterproof-hiking-cool-sports-laptop-rucksack-school-fits-up-15-6inch-macbook-lightweight-for-office-28-l-backpack/p/itm33aaf6a26feb1",
+        "current_price": 424,
+        "original_price": 1399,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/optima-unisex-polyester-school-bags-waterproof-hiking-cool-sports-laptop-rucksack-school-fits-up-15-6inch-macbook-lightweight-for-office-28-l-backpack/p/itm33aaf6a26feb1"
+      },
+      {
+        "name": "Acort Sleeve premium 15.6 inch Waterproof Laptop Sleeve...",
+        "link": "https://www.flipkart.com/acort-sleeve-premium-15-6-inch-waterproof-laptop-sleeve-cover/p/itm10394bc95dcad",
+        "current_price": 310,
+        "original_price": 599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acort-sleeve-premium-15-6-inch-waterproof-laptop-sleeve-cover/p/itm10394bc95dcad"
+      },
+      {
+        "name": "BIRJIS 15.6 Inch Waterproof Laptop Sleeve Waterproof La...",
+        "link": "https://www.flipkart.com/birjis-15-6-inch-waterproof-laptop-sleeve-sleeve-cover/p/itm4c857d240a865",
+        "current_price": 248,
+        "original_price": 900,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/birjis-15-6-inch-waterproof-laptop-sleeve-sleeve-cover/p/itm4c857d240a865"
+      },
+      {
+        "name": "AirCase 15.6 Inch Laptop Sleeve, Protective, Neoprene L...",
+        "link": "https://www.flipkart.com/aircase-15-6-inch-laptop-sleeve-protective-neoprene-bag/p/itmd556da342186a",
+        "current_price": 399,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/aircase-15-6-inch-laptop-sleeve-protective-neoprene-bag/p/itmd556da342186a"
+      },
+      {
+        "name": "Medium 30 L Laptop Backpack 30L Casual Waterproof Lapto...",
+        "link": "https://www.flipkart.com/sbcollection-30l-casual-waterproof-laptop-backpack-office-bag-school-bag-college-bag-business-bag-bag-casual-backpack-unisex-travel-backpack-30-l/p/itm31761f45fef96",
+        "current_price": 429,
+        "original_price": 1999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/sbcollection-30l-casual-waterproof-laptop-backpack-office-bag-school-bag-college-bag-business-bag-bag-casual-backpack-unisex-travel-backpack-30-l/p/itm31761f45fef96"
+      },
+      {
+        "name": "Medium 30 L Laptop Backpack Khadi Textured Hi storage",
+        "link": "https://www.flipkart.com/metronaut-khadi-textured-hi-storage-30-l-laptop-backpack/p/itm71544c598e419",
+        "current_price": 424,
+        "original_price": 1599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/metronaut-khadi-textured-hi-storage-30-l-laptop-backpack/p/itm71544c598e419"
+      },
+      {
+        "name": "Medium 30 L Laptop Backpack simna.1361/2 red grey casua...",
+        "link": "https://www.flipkart.com/flycraft-simna-1361-2-red-grey-casual-unisex-travel-office-massenger-school-backpack-30-l/p/itm6929dff7b2e4f",
+        "current_price": 449,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/flycraft-simna-1361-2-red-grey-casual-unisex-travel-office-massenger-school-backpack-30-l/p/itm6929dff7b2e4f"
+      },
+      {
+        "name": "Large 35 L Laptop Backpack Spacy unisex backpack with r...",
+        "link": "https://www.flipkart.com/provogue-spacy-unisex-backpack-rain-cover-reflective-strip-35-l/p/itmdd81b1d59f7b5",
+        "current_price": 749,
+        "original_price": 2999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/provogue-spacy-unisex-backpack-rain-cover-reflective-strip-35-l/p/itmdd81b1d59f7b5"
+      },
+      {
+        "name": "Large 35 L Laptop Backpack STYLISH-35 LTR LAPTOP BACKPA...",
+        "link": "https://www.flipkart.com/provogue-stylish-35-ltr-laptop-backpack-17-inch-laptop-35-l/p/itma985c3728456f",
+        "current_price": 709,
+        "original_price": 2499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/provogue-stylish-35-ltr-laptop-backpack-17-inch-laptop-35-l/p/itma985c3728456f"
+      },
+      {
+        "name": "Men Brown Messenger Bag - Extra Spacious",
+        "link": "https://www.flipkart.com/sm-men-brown-messenger-bag/p/itm3db2ccb9bd6de",
+        "current_price": 994,
+        "original_price": 1999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/sm-men-brown-messenger-bag/p/itm3db2ccb9bd6de"
+      },
+      {
+        "name": "Kefi 15.6 inch laptop bag / cover/ slipcase / sleeve fo...",
+        "link": "https://www.flipkart.com/kefi-15-6-inch-laptop-bag-cover-slipcase-sleeve-dell-hp-lenovo-asus-chromebook-surface-pro-macbook-waterproof-sleeve-cover/p/itmd647a8178a2bc",
+        "current_price": 299,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/kefi-15-6-inch-laptop-bag-cover-slipcase-sleeve-dell-hp-lenovo-asus-chromebook-surface-pro-macbook-waterproof-sleeve-cover/p/itmd647a8178a2bc"
+      },
+      {
+        "name": "Probus 15.6 Inch Triple Pocket Laptop Bag With Shoulder...",
+        "link": "https://www.flipkart.com/probus-15-6-inch-triple-pocket-laptop-bag-shoulder-strap-grey-sleeve-cover/p/itm1423b101e3a8d",
+        "current_price": 1469,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/probus-15-6-inch-triple-pocket-laptop-bag-shoulder-strap-grey-sleeve-cover/p/itm1423b101e3a8d"
+      },
+      {
+        "name": "Large 35 L Laptop Backpack Troy",
+        "link": "https://www.flipkart.com/acrux-troy-35-l-laptop-backpack/p/itm4106044ecc235",
+        "current_price": 424,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acrux-troy-35-l-laptop-backpack/p/itm4106044ecc235"
+      }
+    ]
+  }

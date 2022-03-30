@@ -1,15 +1,17 @@
 import React from 'react';
 import '../../Style/Deals.css';
 import useFetch from "react-fetch-hook";
+import { Link } from 'react-router-dom';
+
+// const randomUrl = "http://localhost:4000/random";
+const randomUrl = "https://flipkarturl.herokuapp.com/random";
 
 const Deals = () => {
-
-    const { isLoading, data } = useFetch("http://localhost:4000/random");
-    console.log(isLoading, data);
+    const { isLoading, data } = useFetch(randomUrl);
 
     return (isLoading ? (
         <></>
-        ) : (
+    ) : (
         <React.Fragment>
             <div className="season deals-of-the-day">
                 <div className="top">
@@ -25,7 +27,9 @@ const Deals = () => {
                     </div>
 
                     <div className="primary-btn">
-                        <button>VIEW ALL</button>
+                        <Link to={"/list"}>
+                            <button>VIEW ALL</button>
+                        </Link>
                     </div>
                 </div>
 
@@ -35,15 +39,17 @@ const Deals = () => {
                             data.map((item, index) => {
                                 return (
                                     <div className="box" key={index}>
-                                        <div className="img">
-                                            <img src={item.image} alt="img1" />
-                                        </div>
+                                        <Link to={`/list/${item.product.product_type_id}/${item.brand.brand_id}`} style={{ textDecoration: "none" }}>
+                                            <div className="img">
+                                                <img src={item.image} alt="img1" />
+                                            </div>
 
-                                        <div className="desc">
-                                            <div className="product">{item.product_title}</div>
-                                            <div className='tag'>{item.tag.offer_tag}</div>
-                                            <div className="title">{item.tag.deals_tag}</div>
-                                        </div>
+                                            <div className="desc">
+                                                <h5 className="product">{item.product_title}</h5>
+                                                <div className='tag'>{item.tag.offer_tag}</div>
+                                                <div className="title">{item.tag.deals_tag}</div>
+                                            </div>
+                                        </Link>
                                     </div>
                                 )
 

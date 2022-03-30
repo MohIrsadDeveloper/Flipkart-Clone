@@ -1,0 +1,370 @@
+// 20220325114406
+// https://flipkart.dvishal485.workers.dev/search/asus
+
+{
+    "total_result": 40,
+    "query": "asus",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=asus",
+    "result": [
+      {
+        "name": "ASUS ROG 5s (Phantom Black, 128 GB)",
+        "link": "https://www.flipkart.com/asus-rog-5s-phantom-black-128-gb/p/itm0aa8f13814a44",
+        "current_price": null,
+        "original_price": null,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ky7lci80/mobile/t/x/j/-original-imagahvge92r5fmm.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-5s-phantom-black-128-gb/p/itm0aa8f13814a44"
+      },
+      {
+        "name": "ASUS ROG 5s (Storm White, 256 GB)",
+        "link": "https://www.flipkart.com/asus-rog-5s-storm-white-256-gb/p/itm360bb6ee4b326",
+        "current_price": 57999,
+        "original_price": 63999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ky7lci80/mobile/d/m/m/-original-imagahvnbfxfbsc4.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-5s-storm-white-256-gb/p/itm360bb6ee4b326"
+      },
+      {
+        "name": "ASUS ROG 5s (Storm White, 128 GB)",
+        "link": "https://www.flipkart.com/asus-rog-5s-storm-white-128-gb/p/itm79760fe82f827",
+        "current_price": 49999,
+        "original_price": 55999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ky7lci80/mobile/h/b/g/-original-imagahvgwyctt3uv.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-5s-storm-white-128-gb/p/itm79760fe82f827"
+      },
+      {
+        "name": "ASUS ROG Zephyrus G15 Ryzen 9 Octa Core 5900HS - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA ...",
+        "link": "https://www.flipkart.com/asus-rog-zephyrus-g15-ryzen-9-octa-core-5900hs-16-gb-1-tb-ssd-windows-10-home-6-gb-graphics-nvidia-geforce-rtx-3060-165-hz-ga503qm-hq172ts-gaming-laptop/p/itm22adaf8101aa2",
+        "current_price": 141990,
+        "original_price": 189990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/computer/w/a/y/na-gaming-laptop-asus-original-imag7bhdzwkvd4hm.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-zephyrus-g15-ryzen-9-octa-core-5900hs-16-gb-1-tb-ssd-windows-10-home-6-gb-graphics-nvidia-geforce-rtx-3060-165-hz-ga503qm-hq172ts-gaming-laptop/p/itm22adaf8101aa2"
+      },
+      {
+        "name": "ASUS ZenFone Max M2 (Black, 32 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-max-m2-black-32-gb/p/itmfb22grnygzfy5",
+        "current_price": 12999,
+        "original_price": 12999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jp02t8w0/mobile/z/z/e/asus-zenfone-max-m2-zb632kl-4a004in-original-imafbcafmv6tgqjz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-max-m2-black-32-gb/p/itmfb22grnygzfy5"
+      },
+      {
+        "name": "ASUS 8z (-2A-BLACK, 128 GB)",
+        "link": "https://www.flipkart.com/asus-8z-2a-black-128-gb/p/itm40e208f358f09",
+        "current_price": 42999,
+        "original_price": 48999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzd147k0/mobile/n/n/l/-original-imagbe7wev2ershk.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-8z-2a-black-128-gb/p/itm40e208f358f09"
+      },
+      {
+        "name": "ASUS ROG 5s (Phantom Black, 256 GB)",
+        "link": "https://www.flipkart.com/asus-rog-5s-phantom-black-256-gb/p/itmc7b1386155564",
+        "current_price": 57999,
+        "original_price": 63999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ky7lci80/mobile/l/w/z/-original-imagahvnzfgdg8jy.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-5s-phantom-black-256-gb/p/itmc7b1386155564"
+      },
+      {
+        "name": "ASUS ASUS TUF Gaming Ryzen 7 Octa Core 4800H - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA ...",
+        "link": "https://www.flipkart.com/asus-tuf-gaming-ryzen-7-octa-core-4800h-16-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-rtx-3050-144-hz-fa766ic-hx005t-laptop/p/itm5b99d91a11dfa",
+        "current_price": 80990,
+        "original_price": 107990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/computer/7/6/5/na-gaming-laptop-asus-original-imag7bhdcztzhpez.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-tuf-gaming-ryzen-7-octa-core-4800h-16-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-rtx-3050-144-hz-fa766ic-hx005t-laptop/p/itm5b99d91a11dfa"
+      },
+      {
+        "name": "ASUS ROG Phone 3 (Black, 128 GB)",
+        "link": "https://www.flipkart.com/asus-rog-phone-3-black-128-gb/p/itmf8623d755871d",
+        "current_price": 49999,
+        "original_price": 57999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kcuug7k0/mobile/g/h/e/asus-rog-phone-3-zs661ks-6a006in-original-imaftwc6nmyuyekd.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-phone-3-black-128-gb/p/itmf8623d755871d"
+      },
+      {
+        "name": "ASUS ZenFone Max M2 (Black, 64 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-max-m2-black-64-gb/p/itmfb22gcq5detk3",
+        "current_price": 14999,
+        "original_price": 14999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jp02t8w0/mobile/z/z/e/asus-zenfone-max-m2-zb632kl-4a004in-original-imafbcafmv6tgqjz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-max-m2-black-64-gb/p/itmfb22gcq5detk3"
+      },
+      {
+        "name": "ASUS 8z (-8J-SILVER, 128 GB)",
+        "link": "https://www.flipkart.com/asus-8z-8j-silver-128-gb/p/itm17a1e5e91b198",
+        "current_price": 42999,
+        "original_price": 48999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzd147k0/mobile/o/v/y/-original-imagbe7wpagygwtf.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-8z-8j-silver-128-gb/p/itm17a1e5e91b198"
+      },
+      {
+        "name": "ASUS ROG Flow X13 Ryzen 7 Octa Core 5800HS - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeFo...",
+        "link": "https://www.flipkart.com/asus-rog-flow-x13-ryzen-7-octa-core-5800hs-16-gb-1-tb-ssd-windows-10-home-4-gb-graphics-nvidia-geforce-gtx-1650-120-hz-gv301qh-k6463ts-2-1-gaming-laptop/p/itma931643df91fc",
+        "current_price": 99990,
+        "original_price": 162990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/koixwnk0/computer/b/i/z/na-gaming-laptop-asus-original-imag2ygghykjhv95.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-flow-x13-ryzen-7-octa-core-5800hs-16-gb-1-tb-ssd-windows-10-home-4-gb-graphics-nvidia-geforce-gtx-1650-120-hz-gv301qh-k6463ts-2-1-gaming-laptop/p/itma931643df91fc"
+      },
+      {
+        "name": "ASUS Zenfone Max Pro M1 (Grey, 64 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-max-pro-m1-grey-64-gb/p/itmf79gxzkfg7tqk",
+        "current_price": 17999,
+        "original_price": 17999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jhp5si80/mobile/q/z/e/asus-zenfone-max-pro-m1-zb601kl-original-imaf5nr8qjrdyzb4.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-max-pro-m1-grey-64-gb/p/itmf79gxzkfg7tqk"
+      },
+      {
+        "name": "ASUS ZenFone 5Z (Meteor Silver, 256 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-5z-meteor-silver-256-gb/p/itmf6h76zwwwf7ga",
+        "current_price": 43999,
+        "original_price": 43999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jj4ln680/mobile/9/x/v/asus-zenfone-5z-zs621kl-2h003in-zs621kl-2h013in-original-imaf6rn9vgzfh7cd.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-5z-meteor-silver-256-gb/p/itmf6h76zwwwf7ga"
+      },
+      {
+        "name": "ASUS VivoBook 15 (2021) Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515JA-EJ362WS Thin and L...",
+        "link": "https://www.flipkart.com/asus-vivobook-15-2021-core-i3-10th-gen-8-gb-512-gb-ssd-windows-11-home-x515ja-ej362ws-thin-light-laptop/p/itm8ce53e6fb58bf",
+        "current_price": 37990,
+        "original_price": 50990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ksyz8280/computer/f/9/9/x515ea-ej302ts-thin-and-light-laptop-asus-original-imag6fc9kxzc6rrh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-vivobook-15-2021-core-i3-10th-gen-8-gb-512-gb-ssd-windows-11-home-x515ja-ej362ws-thin-light-laptop/p/itm8ce53e6fb58bf"
+      },
+      {
+        "name": "ASUS ROG Strix G15 (2021) Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVI...",
+        "link": "https://www.flipkart.com/asus-rog-strix-g15-2021-ryzen-7-octa-core-4800h-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-144-hz-g513ih-hn086t-gaming-laptop/p/itm2b93a4b3d7a76",
+        "current_price": 75990,
+        "original_price": 90990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/computer/j/5/j/na-gaming-laptop-asus-original-imag7bhddrbuzrvs.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-strix-g15-2021-ryzen-7-octa-core-4800h-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-144-hz-g513ih-hn086t-gaming-laptop/p/itm2b93a4b3d7a76"
+      },
+      {
+        "name": "ASUS Twin View Dock  Gamepad",
+        "link": "https://www.flipkart.com/asus-twin-view-dock-gamepad/p/itmff301f8cf742c",
+        "current_price": 20599,
+        "original_price": 21999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/k226oi80/gamepad/asus-proprietory-connector/a/a/4/asus-twinview-dock-original-imafhhvhftqyhkhn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-twin-view-dock-gamepad/p/itmff301f8cf742c"
+      },
+      {
+        "name": "ASUS Back Cover for ROG 5, ROG 5s",
+        "link": "https://www.flipkart.com/asus-back-cover-rog-5-5s/p/itm191b0d29b3787",
+        "current_price": 2999,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kzegk280/cases-covers/back-cover/q/u/q/zs673kscs-lighting-armor-case-asus-original-imagbeyx4kvwxp7a.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-back-cover-rog-5-5s/p/itm191b0d29b3787"
+      },
+      {
+        "name": "ASUS Zenfone 3 (White, 32 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-3-white-32-gb/p/itmevt7wqgeqf4fy",
+        "current_price": 22999,
+        "original_price": 22999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/6/n/z/asus-zenfone-3-5-2-ze520kl-1b036in-original-imaehfzz33ndke3k.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-3-white-32-gb/p/itmevt7wqgeqf4fy"
+      },
+      {
+        "name": "ASUS ROG Strix Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce...",
+        "link": "https://www.flipkart.com/asus-rog-strix-ryzen-7-octa-core-4800h-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-rtx-3050-144-hz-g513ic-hn025t-gaming-laptop/p/itmeedb79f5305af",
+        "current_price": 82990,
+        "original_price": 103990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/computer/j/5/j/na-gaming-laptop-asus-original-imag7bhddrbuzrvs.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-strix-ryzen-7-octa-core-4800h-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-rtx-3050-144-hz-g513ic-hn025t-gaming-laptop/p/itmeedb79f5305af"
+      },
+      {
+        "name": "ASUS Zenfone Max Pro M1 (Black, 64 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-max-pro-m1-black-64-gb/p/itmf79gxwfs6yt8m",
+        "current_price": 17999,
+        "original_price": 17999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jhp5si80/mobile/h/7/z/asus-zenfone-max-pro-m1-zb601kl-original-imaf5nraywcuea9e.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-max-pro-m1-black-64-gb/p/itmf79gxwfs6yt8m"
+      },
+      {
+        "name": "ASUS ROG Phone 5 (Black, 128 GB)",
+        "link": "https://www.flipkart.com/asus-rog-phone-5-black-128-gb/p/itm8e381f6b8521f",
+        "current_price": 49999,
+        "original_price": 55999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/km2clu80/mobile/8/r/x/rog-phone-5-zs673ks-1a053in-asus-original-imagff5hufbu4eg5.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-phone-5-black-128-gb/p/itm8e381f6b8521f"
+      },
+      {
+        "name": "ASUS Zenfone Max Pro M1 (Black, 32 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-max-pro-m1-black-32-gb/p/itmf4hg44xkefz58",
+        "current_price": 13199,
+        "original_price": 13199,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jh80ia80/mobile/u/b/p/asus-zenfone-max-pro-m1-zb601kl-4a010in-zb601kl-4a020in-original-imaf5ab8qv2qusfu.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-max-pro-m1-black-32-gb/p/itmf4hg44xkefz58"
+      },
+      {
+        "name": "ASUS ASUS TUF Gaming A17 Ryzen 7 Octa Core 4800H - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVI...",
+        "link": "https://www.flipkart.com/asus-tuf-gaming-a17-ryzen-7-octa-core-4800h-16-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-rtx-3050-fa706ic-hx003t-laptop/p/itmccc79bbd17e07",
+        "current_price": 79990,
+        "original_price": 106990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kpodocw0/computer/s/h/k/na-gaming-laptop-asus-original-imag3v8ds72qfgwf.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-tuf-gaming-a17-ryzen-7-octa-core-4800h-16-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-rtx-3050-fa706ic-hx003t-laptop/p/itmccc79bbd17e07"
+      },
+      {
+        "name": "ASUS ZenFone 5Z (Midnight Blue, 128 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-5z-midnight-blue-128-gb/p/itmf5g47reyumstg",
+        "current_price": 36299,
+        "original_price": 36299,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jj4ln680/mobile/y/d/w/asus-zenfone-5z-zs621kl-2a001in-zs621kl-2a011in-original-imaf6rn7eyfngknj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-5z-midnight-blue-128-gb/p/itmf5g47reyumstg"
+      },
+      {
+        "name": "ASUS ZenFone Max M1 (Black, 64 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-max-m1-black-64-gb/p/itm5d8720dee5452",
+        "current_price": 9599,
+        "original_price": 9599,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jyyqc280/mobile-refurbished/d/m/h/zenfone-max-m1-32-z-zb556kl-4a001in-asus-3-original-imafbhyw2xhpne7y.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-max-m1-black-64-gb/p/itm5d8720dee5452"
+      },
+      {
+        "name": "ASUS ZenFone Max M2 (Blue, 32 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-max-m2-blue-32-gb/p/itmfb22ghjtyxzg6",
+        "current_price": 12999,
+        "original_price": 12999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jp02t8w0/mobile/m/j/q/asus-zenfone-max-m2-zb632kl-4d005in-original-imafbcafbyehstsx.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-max-m2-blue-32-gb/p/itmfb22ghjtyxzg6"
+      },
+      {
+        "name": "ASUS ROG Strix SCAR 15 (2021) Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics...",
+        "link": "https://www.flipkart.com/asus-rog-strix-scar-15-2021-ryzen-9-octa-core-5900hx-16-gb-1-tb-ssd-windows-10-home-8-gb-graphics-nvidia-geforce-rtx-3080-300-hz-g533qs-hf210ts-gaming-laptop/p/itm1c582a8ea8885",
+        "current_price": 193990,
+        "original_price": 259990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/knoxnrk0/computer/k/c/y/na-gaming-laptop-asus-original-imag2besvwkhg8xc.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-strix-scar-15-2021-ryzen-9-octa-core-5900hx-16-gb-1-tb-ssd-windows-10-home-8-gb-graphics-nvidia-geforce-rtx-3080-300-hz-g533qs-hf210ts-gaming-laptop/p/itm1c582a8ea8885"
+      },
+      {
+        "name": "ASUS Zenfone Max Pro M1 (Grey, 32 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-max-pro-m1-grey-32-gb/p/itmf4hg4z55waayn",
+        "current_price": 13199,
+        "original_price": 13199,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jh80ia80/mobile/2/b/z/asus-zenfone-max-pro-m1-zb601kl-4h050in-zb601kl-4h060in-original-imaf5a93jh2ph4tn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-max-pro-m1-grey-32-gb/p/itmf4hg4z55waayn"
+      },
+      {
+        "name": "ASUS 6Z (Black, 64 GB)",
+        "link": "https://www.flipkart.com/asus-6z-black-64-gb/p/itmfg5hgqf3hwaj4",
+        "current_price": 35999,
+        "original_price": 35999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jx0prbk0/mobile/y/t/v/asus-6z-zs630kl-2a014ww-original-imafhkqythzfmjp8.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-6z-black-64-gb/p/itmfg5hgqf3hwaj4"
+      },
+      {
+        "name": "ASUS Zenfone Max Pro M1 (Blue, 64 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-max-pro-m1-blue-64-gb/p/itmf7gcrdmjh97cv",
+        "current_price": 15599,
+        "original_price": 15599,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jk1grrk0/mobile/8/x/n/asus-zenfone-max-pro-m1-zb601kl-4d102in-original-imaf7hajxvhhkckh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-max-pro-m1-blue-64-gb/p/itmf7gcrdmjh97cv"
+      },
+      {
+        "name": "ASUS Ryzen 7 Octa Core 5800HS - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) GA401QH-HZ080TS Thin ...",
+        "link": "https://www.flipkart.com/asus-ryzen-7-octa-core-5800hs-16-gb-512-gb-ssd-windows-10-home-4-graphics-ga401qh-hz080ts-thin-light-laptop/p/itm1aca09315ad33",
+        "current_price": 79990,
+        "original_price": 131990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/kxf0jgw0/computer/0/h/b/na-thin-and-light-laptop-asus-original-imag9vtn6zbvahxx.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-ryzen-7-octa-core-5800hs-16-gb-512-gb-ssd-windows-10-home-4-graphics-ga401qh-hz080ts-thin-light-laptop/p/itm1aca09315ad33"
+      },
+      {
+        "name": "ASUS ROG Phone II (Black, 128 GB)",
+        "link": "https://www.flipkart.com/asus-rog-phone-ii-black-128-gb/p/itm99be8e028a908",
+        "current_price": 40999,
+        "original_price": 40999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/k6fd47k0/mobile/z/g/r/asus-rog-phone-ii-zs660kl-1a017in-original-imafkkbmyuv5vygg.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-phone-ii-black-128-gb/p/itm99be8e028a908"
+      },
+      {
+        "name": "ASUS VivoBook 15 (2021) Core i3 10th Gen - (8 GB/1 TB HDD/Windows 11 Home) X515JA-BQ302W Thin and Ligh...",
+        "link": "https://www.flipkart.com/asus-vivobook-15-2021-core-i3-10th-gen-8-gb-1-tb-hdd-windows-11-home-x515ja-bq302w-thin-light-laptop/p/itm0ce5107af18ef",
+        "current_price": 34990,
+        "original_price": 43990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ksyz8280/computer/f/9/9/x515ea-ej302ts-thin-and-light-laptop-asus-original-imag6fc9kxzc6rrh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-vivobook-15-2021-core-i3-10th-gen-8-gb-1-tb-hdd-windows-11-home-x515ja-bq302w-thin-light-laptop/p/itm0ce5107af18ef"
+      },
+      {
+        "name": "ASUS TUF Gaming K3 - RA05 Wired USB Gaming Keyboard",
+        "link": "https://www.flipkart.com/asus-tuf-gaming-k3-ra05-wired-usb-keyboard/p/itm146fafe9a1431",
+        "current_price": 7999,
+        "original_price": 8000,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/knyxqq80/keyboard/gaming-keyboard/l/v/0/tuf-gaming-k3-ra05-asus-original-imag2j6nx25wdfep.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-tuf-gaming-k3-ra05-wired-usb-keyboard/p/itm146fafe9a1431"
+      },
+      {
+        "name": "ASUS ROG Zephyrus G14 Ryzen 7 Octa Core 4800HS - (8 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA G...",
+        "link": "https://www.flipkart.com/asus-rog-zephyrus-g14-ryzen-7-octa-core-4800hs-8-gb-1-tb-ssd-windows-10-home-4-gb-graphics-nvidia-geforce-gtx-1650-120-hz-ga401ihr-k2066ts-gaming-laptop/p/itm68e3c36bfaf2e",
+        "current_price": 74990,
+        "original_price": 123990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/computer/6/p/p/na-thin-and-light-laptop-asus-original-imag7bhgbhprepfu.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-zephyrus-g14-ryzen-7-octa-core-4800hs-8-gb-1-tb-ssd-windows-10-home-4-gb-graphics-nvidia-geforce-gtx-1650-120-hz-ga401ihr-k2066ts-gaming-laptop/p/itm68e3c36bfaf2e"
+      },
+      {
+        "name": "ASUS NVIDIA GeForce GT 730 2 GB GDDR5 Graphics Card",
+        "link": "https://www.flipkart.com/asus-nvidia-geforce-gt-730-2-gb-gddr5-graphics-card/p/itm31b8ed5c3e5b6",
+        "current_price": 4640,
+        "original_price": 7540,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ks99aq80/graphics-card/p/9/g/geforce-gt-730-asus-original-imag5v72yeytvtjn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-nvidia-geforce-gt-730-2-gb-gddr5-graphics-card/p/itm31b8ed5c3e5b6"
+      },
+      {
+        "name": "ASUS Zenfone 3s Max (Black, 32 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-3s-max-black-32-gb/p/itmeqrytx9err2hm",
+        "current_price": 14999,
+        "original_price": 14999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/6/f/v/asus-zenfone-3s-max-zc521tl-4a004in-original-imaeqvh3jgprawsy.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-3s-max-black-32-gb/p/itmeqrytx9err2hm"
+      },
+      {
+        "name": "ASUS ZenFone 5Z (Midnight Blue, 256 GB)",
+        "link": "https://www.flipkart.com/asus-zenfone-5z-midnight-blue-256-gb/p/itmf6h76gfhpgdfn",
+        "current_price": 43999,
+        "original_price": 43999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jj4ln680/mobile/y/d/w/asus-zenfone-5z-zs621kl-2a001in-zs621kl-2a011in-original-imaf6rn7eyfngknj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-zenfone-5z-midnight-blue-256-gb/p/itmf6h76gfhpgdfn"
+      },
+      {
+        "name": "ASUS ROG Strix Ryzen 9 Octa Core 5900HX - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce...",
+        "link": "https://www.flipkart.com/asus-rog-strix-ryzen-9-octa-core-5900hx-16-gb-1-tb-ssd-windows-10-home-4-gb-graphics-nvidia-geforce-rtx-3050-ti-300-hz-g513qe-hf145t-gaming-laptop/p/itm5fab491e76bbd",
+        "current_price": 117990,
+        "original_price": 162990,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/computer/j/5/j/na-gaming-laptop-asus-original-imag7bhddrbuzrvs.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/asus-rog-strix-ryzen-9-octa-core-5900hx-16-gb-1-tb-ssd-windows-10-home-4-gb-graphics-nvidia-geforce-rtx-3050-ti-300-hz-g513qe-hf145t-gaming-laptop/p/itm5fab491e76bbd"
+      }
+    ]
+  }

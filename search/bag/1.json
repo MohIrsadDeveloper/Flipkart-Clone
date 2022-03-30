@@ -1,0 +1,450 @@
+// 20220329192312
+// https://flipkart.dvishal485.workers.dev/search/safari%20bag
+
+{
+    "total_result": 40,
+    "query": "safari%20bag",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=safari%20bag",
+    "result": [
+      {
+        "name": "by SG QUAD 45 Large 45 L Laptop Backpack QUAD",
+        "link": "https://www.flipkart.com/greenlands-sg-quad-45-l-backpack/p/itm68d4a5aac20ba",
+        "current_price": 1999,
+        "original_price": 2049,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/greenlands-sg-quad-45-l-backpack/p/itm68d4a5aac20ba"
+      },
+      {
+        "name": "by SG Trpdo 35 Large 35 L Laptop Backpack TORPEDO (Red)...",
+        "link": "https://www.flipkart.com/greenlands-sg-trpdo-35-torpedo-red-sg-backpack-lightweight-durable-water-resistant-fabrics-casual-school-bag-college-bag-laptop-bag-travel-bag-made-india-l/p/itm47d8e6b21315c",
+        "current_price": 1699,
+        "original_price": 1749,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/greenlands-sg-trpdo-35-torpedo-red-sg-backpack-lightweight-durable-water-resistant-fabrics-casual-school-bag-college-bag-laptop-bag-travel-bag-made-india-l/p/itm47d8e6b21315c"
+      },
+      {
+        "name": "Small 15 L Backpack DAYPACK",
+        "link": "https://www.flipkart.com/safari-daypack-15-l-backpack/p/itm53a94e29c7e68",
+        "current_price": 299,
+        "original_price": 799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-daypack-15-l-backpack/p/itm53a94e29c7e68"
+      },
+      {
+        "name": "Medium 26 L Backpack Brute",
+        "link": "https://www.flipkart.com/safari-brute-26-l-backpack/p/itm1ec8bb6f0a7d4",
+        "current_price": 981,
+        "original_price": 2599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-brute-26-l-backpack/p/itm1ec8bb6f0a7d4"
+      },
+      {
+        "name": "Medium 26 L Backpack Stroke",
+        "link": "https://www.flipkart.com/safari-stroke-26-l-backpack/p/itmbbf7511f17a29",
+        "current_price": 699,
+        "original_price": 2599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-stroke-26-l-backpack/p/itmbbf7511f17a29"
+      },
+      {
+        "name": "Medium 26 L Backpack Streak",
+        "link": "https://www.flipkart.com/safari-streak-26-l-backpack/p/itmf2332f63cd5a6",
+        "current_price": 989,
+        "original_price": 2599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-streak-26-l-backpack/p/itmf2332f63cd5a6"
+      },
+      {
+        "name": "23.5 L Backpack FIND",
+        "link": "https://www.flipkart.com/safari-find-23-5-l-backpack/p/itmff26zgbzuwfxs",
+        "current_price": 879,
+        "original_price": 1958,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-find-23-5-l-backpack/p/itmff26zgbzuwfxs"
+      },
+      {
+        "name": "Medium 23 L Laptop Backpack Halogen Black 23L Led Panel...",
+        "link": "https://www.flipkart.com/safari-halogen-black-23l-led-panel-laptop-backpack-bags-23-l/p/itm35daa2c085282",
+        "current_price": 3140,
+        "original_price": 5830,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-halogen-black-23l-led-panel-laptop-backpack-bags-23-l/p/itm35daa2c085282"
+      },
+      {
+        "name": "Medium 29 L Laptop Backpack SPREEUSB 19 CASUAL BACKPACK...",
+        "link": "https://www.flipkart.com/safari-spreeusb-19-casual-backpack-grey-29-l-laptop/p/itmf8zxdyvawcf6z",
+        "current_price": 1048,
+        "original_price": 2599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-spreeusb-19-casual-backpack-grey-29-l-laptop/p/itmf8zxdyvawcf6z"
+      },
+      {
+        "name": "Medium 29 L Laptop Backpack SPREEUSB 19 CASUAL BACKPACK...",
+        "link": "https://www.flipkart.com/safari-spreeusb-19-casual-backpack-wine-29-l-medium-laptop/p/itmf8j9nnfkrahzz",
+        "current_price": 849,
+        "original_price": 2599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-spreeusb-19-casual-backpack-wine-29-l-medium-laptop/p/itmf8j9nnfkrahzz"
+      },
+      {
+        "name": "Small 15 L Backpack DAYPACK",
+        "link": "https://www.flipkart.com/safari-daypack-15-l-backpack/p/itm43d9eec197b7f",
+        "current_price": 299,
+        "original_price": 799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-daypack-15-l-backpack/p/itm43d9eec197b7f"
+      },
+      {
+        "name": "44.2 L Laptop Backpack DRAWSTRING 20 CB NAV",
+        "link": "https://www.flipkart.com/safari-drawstring-20-cb-nav-44-2-l-large-laptop-backpack/p/itmf3yjczvyy7gaf",
+        "current_price": 1566,
+        "original_price": 2499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-drawstring-20-cb-nav-44-2-l-large-laptop-backpack/p/itmf3yjczvyy7gaf"
+      },
+      {
+        "name": "26.5 L Backpack VAGND",
+        "link": "https://www.flipkart.com/safari-vagnd-26-5-l-backpack/p/itmff2hghzv8zywu",
+        "current_price": 799,
+        "original_price": 2348,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-vagnd-26-5-l-backpack/p/itmff2hghzv8zywu"
+      },
+      {
+        "name": "Large 37 L Backpack TRIO 5",
+        "link": "https://www.flipkart.com/safari-trio-5-37-l-backpack/p/itm019bc0b257156",
+        "current_price": 1299,
+        "original_price": 1915,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-trio-5-37-l-backpack/p/itm019bc0b257156"
+      },
+      {
+        "name": "Large 37 L Backpack TRIO 3",
+        "link": "https://www.flipkart.com/safari-trio-3-37-l-backpack/p/itm47cee7a9e3efe",
+        "current_price": 940,
+        "original_price": 1915,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-trio-3-37-l-backpack/p/itm47cee7a9e3efe"
+      },
+      {
+        "name": "Large 45 L Laptop Backpack Ultimate Premium Waterproof ...",
+        "link": "https://www.flipkart.com/megastar-ultimate-premium-waterproof-bag-travelling-trekking-rucksack-hiking-camping-45-l-laptop-backpack/p/itm5f905d34aa0f3",
+        "current_price": 1119,
+        "original_price": 4599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/megastar-ultimate-premium-waterproof-bag-travelling-trekking-rucksack-hiking-camping-45-l-laptop-backpack/p/itm5f905d34aa0f3"
+      },
+      {
+        "name": "Medium 29 L Backpack SPREEUSB 19 CASUAL BACKPACK BLUE",
+        "link": "https://www.flipkart.com/safari-spreeusb-19-casual-backpack-blue-29-l-medium/p/itmf8j9zfgpe3u9z",
+        "current_price": 849,
+        "original_price": 2599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-spreeusb-19-casual-backpack-blue-29-l-medium/p/itmf8j9zfgpe3u9z"
+      },
+      {
+        "name": "Large 32 L Laptop Backpack BERSERK RED",
+        "link": "https://www.flipkart.com/safari-berserk-red-32-l-laptop-backpack/p/itmfep9s2fm8pagd",
+        "current_price": 899,
+        "original_price": 1686,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-berserk-red-32-l-laptop-backpack/p/itmfep9s2fm8pagd"
+      },
+      {
+        "name": "45.792 L Laptop Backpack SEEK 45L 21 OB BLK",
+        "link": "https://www.flipkart.com/safari-seek-45l-21-ob-blk-45-792-l-large-laptop-backpack/p/itmf3yjc6dazjprt",
+        "current_price": 3150,
+        "original_price": 5099,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-seek-45l-21-ob-blk-45-792-l-large-laptop-backpack/p/itmf3yjc6dazjprt"
+      },
+      {
+        "name": "Large 32 L Backpack Freckle USB Backpack",
+        "link": "https://www.flipkart.com/safari-freckle-usb-backpack-32-l-medium/p/itmfa8gfz39h7nzy",
+        "current_price": 899,
+        "original_price": 2599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-freckle-usb-backpack-32-l-medium/p/itmfa8gfz39h7nzy"
+      },
+      {
+        "name": "Small 12 L Backpack Daypack Crazy",
+        "link": "https://www.flipkart.com/safari-daypack-crazy-12-l-backpack/p/itmf50d95b5759ee",
+        "current_price": 463,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-daypack-crazy-12-l-backpack/p/itmf50d95b5759ee"
+      },
+      {
+        "name": "Medium 21 L Backpack Sting",
+        "link": "https://www.flipkart.com/safari-sting-21-l-backpack/p/itm726a1756de044",
+        "current_price": 599,
+        "original_price": 2010,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-sting-21-l-backpack/p/itm726a1756de044"
+      },
+      {
+        "name": "23.5 L Backpack QUINT 19 CB CRIMSON RED",
+        "link": "https://www.flipkart.com/safari-quint-19-cb-crimson-red-23-5-l-backpack/p/itmff24qgy8w3yz5",
+        "current_price": 877,
+        "original_price": 2199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-quint-19-cb-crimson-red-23-5-l-backpack/p/itmff24qgy8w3yz5"
+      },
+      {
+        "name": "Medium 21 L Backpack Sting",
+        "link": "https://www.flipkart.com/safari-sting-21-l-backpack/p/itm6ed26754bea64",
+        "current_price": 599,
+        "original_price": 2010,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-sting-21-l-backpack/p/itm6ed26754bea64"
+      },
+      {
+        "name": "Medium 30 L Laptop Backpack Storm Buster CRW10",
+        "link": "https://www.flipkart.com/carriway-storm-buster-crw10-30-l-laptop-backpack/p/itm5f55d5b6b7d66",
+        "current_price": 549,
+        "original_price": 2199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/carriway-storm-buster-crw10-30-l-laptop-backpack/p/itm5f55d5b6b7d66"
+      },
+      {
+        "name": "23.5 L Backpack QUINT 19 CB COSMIC BLUE",
+        "link": "https://www.flipkart.com/safari-quint-19-cb-cosmic-blue-23-5-l-backpack/p/itmff24qdvzgqa4p",
+        "current_price": 879,
+        "original_price": 2199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-quint-19-cb-cosmic-blue-23-5-l-backpack/p/itmff24qdvzgqa4p"
+      },
+      {
+        "name": "Large 40 L Laptop Backpack Brisk",
+        "link": "https://www.flipkart.com/safari-brisk-40-l-medium-laptop-backpack/p/itmf3um3rnvh8fwe",
+        "current_price": 1149,
+        "original_price": 2699,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-brisk-40-l-medium-laptop-backpack/p/itmf3um3rnvh8fwe"
+      },
+      {
+        "name": "Small 15 L Laptop Backpack Sirius Two Way Laptop Backpa...",
+        "link": "https://www.flipkart.com/safari-sirius-two-way-laptop-backpack-satchel-15-l/p/itm3a75735b0c13a",
+        "current_price": 1916,
+        "original_price": 3999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-sirius-two-way-laptop-backpack-satchel-15-l/p/itm3a75735b0c13a"
+      },
+      {
+        "name": "Medium 26 L Laptop Backpack Grit",
+        "link": "https://www.flipkart.com/safari-grit-26-l-backpack/p/itmfea9d99786348",
+        "current_price": 1087,
+        "original_price": 2899,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-grit-26-l-backpack/p/itmfea9d99786348"
+      },
+      {
+        "name": "Large 40 L Laptop Backpack Brisk",
+        "link": "https://www.flipkart.com/safari-brisk-40-l-medium-laptop-backpack/p/itmf3umaz3vhhfyz",
+        "current_price": 1149,
+        "original_price": 2699,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-brisk-40-l-medium-laptop-backpack/p/itmf3umaz3vhhfyz"
+      },
+      {
+        "name": "Large 34 L Laptop Backpack DELTA LAPTOP BACKPACK 34L BL...",
+        "link": "https://www.flipkart.com/safari-delta-laptop-backpack-34l-black-34-l/p/itm483a9f09b7ec3",
+        "current_price": 1449,
+        "original_price": 2165,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-delta-laptop-backpack-34l-black-34-l/p/itm483a9f09b7ec3"
+      },
+      {
+        "name": "Large 34 L Laptop Backpack DELTA",
+        "link": "https://www.flipkart.com/safari-delta-34-l-laptop-backpack/p/itmff1e1d09c02d8",
+        "current_price": 1449,
+        "original_price": 2165,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-delta-34-l-laptop-backpack/p/itmff1e1d09c02d8"
+      },
+      {
+        "name": "Large 32 L Backpack LABEL BLUE",
+        "link": "https://www.flipkart.com/safari-label-blue-32-l-backpack/p/itmfegy287mj7pnz",
+        "current_price": 870,
+        "original_price": 1811,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-label-blue-32-l-backpack/p/itmfegy287mj7pnz"
+      },
+      {
+        "name": "Medium 27 L Backpack Footy",
+        "link": "https://www.flipkart.com/safari-footy-27-l-medium-backpack/p/itmf9rhreggeaykj",
+        "current_price": 870,
+        "original_price": 1958,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-footy-27-l-medium-backpack/p/itmf9rhreggeaykj"
+      },
+      {
+        "name": "Medium 26 L Laptop Backpack Acheiver",
+        "link": "https://www.flipkart.com/safari-acheiver-26-l-backpack/p/itm75f77f619c80d",
+        "current_price": 1206,
+        "original_price": 2899,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-acheiver-26-l-backpack/p/itm75f77f619c80d"
+      },
+      {
+        "name": "Medium 21 L Backpack Stark",
+        "link": "https://www.flipkart.com/safari-stark-21-l-backpack/p/itm3f898cdcfad72",
+        "current_price": 858,
+        "original_price": 2010,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-stark-21-l-backpack/p/itm3f898cdcfad72"
+      },
+      {
+        "name": "Large 32 L Laptop Backpack Rover",
+        "link": "https://www.flipkart.com/safari-rover-32-l-medium-laptop-backpack/p/itmf3um6zm89tynv",
+        "current_price": 1482,
+        "original_price": 2699,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-rover-32-l-medium-laptop-backpack/p/itmf3um6zm89tynv"
+      },
+      {
+        "name": "Large 36 L Backpack NYC BROWN",
+        "link": "https://www.flipkart.com/safari-nyc-brown-36-l-backpack/p/itmfejbjwxf6hpwy",
+        "current_price": 1109,
+        "original_price": 1686,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-nyc-brown-36-l-backpack/p/itmfejbjwxf6hpwy"
+      },
+      {
+        "name": "Large 37 L Backpack TRIO 2 19 CB PURPLE",
+        "link": "https://www.flipkart.com/safari-trio-2-19-cb-purple-37-l-backpack/p/itm04f845fa79e6e",
+        "current_price": 1440,
+        "original_price": 1915,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-trio-2-19-cb-purple-37-l-backpack/p/itm04f845fa79e6e"
+      },
+      {
+        "name": "Medium 26 L Backpack Stroke",
+        "link": "https://www.flipkart.com/safari-stroke-26-l-backpack/p/itmed3681e52380f",
+        "current_price": 699,
+        "original_price": 2599,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safari-stroke-26-l-backpack/p/itmed3681e52380f"
+      }
+    ]
+  }

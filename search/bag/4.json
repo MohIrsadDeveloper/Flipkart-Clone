@@ -1,0 +1,118 @@
+// 20220329192601
+// https://flipkart.dvishal485.workers.dev/search/safwan%20bag
+
+{
+    "total_result": 10,
+    "query": "safwan%20bag",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=safwan%20bag",
+    "result": [
+      {
+        "name": "Medium 25 L Laptop Backpack Lightweight",
+        "link": "https://www.flipkart.com/safwan-lightweight-25-l-backpack/p/itmd936b7d6b0934",
+        "current_price": 309,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-lightweight-25-l-backpack/p/itmd936b7d6b0934"
+      },
+      {
+        "name": "Medium 25 L Laptop Backpack Lightweight",
+        "link": "https://www.flipkart.com/safwan-lightweight-25-l-backpack/p/itmd1234610b17c3",
+        "current_price": 349,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-lightweight-25-l-backpack/p/itmd1234610b17c3"
+      },
+      {
+        "name": "Medium 25 L Laptop Backpack Ultra Lightweight",
+        "link": "https://www.flipkart.com/safwan-ultra-lightweight-25-l-backpack/p/itmaef62d13b3147",
+        "current_price": 259,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-ultra-lightweight-25-l-backpack/p/itmaef62d13b3147"
+      },
+      {
+        "name": "Medium 25 L Laptop Backpack NAVY BLUE",
+        "link": "https://www.flipkart.com/safwan-navy-blue-25-l-laptop-backpack/p/itm28aaaf17a18e5",
+        "current_price": 279,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-navy-blue-25-l-laptop-backpack/p/itm28aaaf17a18e5"
+      },
+      {
+        "name": "Medium 25 L Laptop Backpack UNISEX",
+        "link": "https://www.flipkart.com/safwan-unisex-25-l-backpack/p/itmc48ad1a7db5a0",
+        "current_price": 339,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-unisex-25-l-backpack/p/itmc48ad1a7db5a0"
+      },
+      {
+        "name": "Medium 25 L Laptop Backpack Extra Spacious",
+        "link": "https://www.flipkart.com/safwan-extra-spacious-25-l-backpack/p/itmf3465b05b2a91",
+        "current_price": 279,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-extra-spacious-25-l-backpack/p/itmf3465b05b2a91"
+      },
+      {
+        "name": "Safwan Lightweight Waterproof School Bag",
+        "link": "https://www.flipkart.com/safwan-lightweight-waterproof-school-bag/p/itm874544b6d031d",
+        "current_price": 309,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-lightweight-waterproof-school-bag/p/itm874544b6d031d"
+      },
+      {
+        "name": "Safwan UNISEX Waterproof School Bag",
+        "link": "https://www.flipkart.com/safwan-unisex-waterproof-school-bag/p/itmc54694d6f9e27",
+        "current_price": 359,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": "//static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/placeholder_fcebae.svg",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-unisex-waterproof-school-bag/p/itmc54694d6f9e27"
+      },
+      {
+        "name": "Safwan DARK BLUE Waterproof School Bag",
+        "link": "https://www.flipkart.com/safwan-dark-blue-waterproof-school-bag/p/itmd529e2519018c",
+        "current_price": 358,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-dark-blue-waterproof-school-bag/p/itmd529e2519018c"
+      },
+      {
+        "name": "Safwan Lightweight Waterproof School Bag",
+        "link": "https://www.flipkart.com/safwan-lightweight-waterproof-school-bag/p/itm874544b6d031d",
+        "current_price": 349,
+        "original_price": 1199,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/safwan-lightweight-waterproof-school-bag/p/itm874544b6d031d"
+      }
+    ]
+  }

@@ -1,0 +1,450 @@
+// 20220330074933
+// https://flipkart.dvishal485.workers.dev/search/bata%20shoes
+
+{
+  "total_result": 40,
+  "query": "bata%20shoes",
+  "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=bata%20shoes",
+  "result": [
+    {
+      "name": "Loafers For Men",
+      "link": "https://www.flipkart.com/bata-loafers-men/p/itm0f6b5a981110f",
+      "current_price": 960,
+      "original_price": 1189,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-loafers-men/p/itm0f6b5a981110f"
+    },
+    {
+      "name": "Party Wear Shoes|| Semi Formal Shoes|| Loafers For Men",
+      "link": "https://www.flipkart.com/bata-party-wear-shoes-semi-formal-loafers-men/p/itmf4c49b57e5ba8",
+      "current_price": 820,
+      "original_price": 899,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-party-wear-shoes-semi-formal-loafers-men/p/itmf4c49b57e5ba8"
+    },
+    {
+      "name": "Canvas Sneaker Sneakers For Men",
+      "link": "https://www.flipkart.com/bata-canvas-sneaker-sneakers-men/p/itm0bc2c4b2a5045",
+      "current_price": 448,
+      "original_price": 499,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-canvas-sneaker-sneakers-men/p/itm0bc2c4b2a5045"
+    },
+    {
+      "name": "Canvas Sneaker Sneakers For Men",
+      "link": "https://www.flipkart.com/bata-canvas-sneaker-sneakers-men/p/itm6296a6dc00e1f",
+      "current_price": 449,
+      "original_price": 499,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-canvas-sneaker-sneakers-men/p/itm6296a6dc00e1f"
+    },
+    {
+      "name": "Sports Shoes Casuals For Men",
+      "link": "https://www.flipkart.com/bata-sports-shoes-casuals-men/p/itmcc87181d8752c",
+      "current_price": 1510,
+      "original_price": 1799,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-sports-shoes-casuals-men/p/itmcc87181d8752c"
+    },
+    {
+      "name": "Slip On For Men",
+      "link": "https://www.flipkart.com/bata-slip-men/p/itm14298a9db2cfe",
+      "current_price": 714,
+      "original_price": 899,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-slip-men/p/itm14298a9db2cfe"
+    },
+    {
+      "name": "Loafers For Men",
+      "link": "https://www.flipkart.com/bata-loafers-men/p/itm4c4a1fdf93798",
+      "current_price": 649,
+      "original_price": 699,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-loafers-men/p/itm4c4a1fdf93798"
+    },
+    {
+      "name": "Formal Office Wear Shoes Slip On For Men",
+      "link": "https://www.flipkart.com/bata-formal-office-wear-shoes-slip-men/p/itm17310eb084933",
+      "current_price": 969,
+      "original_price": 1199,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-formal-office-wear-shoes-slip-men/p/itm17310eb084933"
+    },
+    {
+      "name": "851-6674 Slip On For Men",
+      "link": "https://www.flipkart.com/bata-851-6674-slip-men/p/itmd06ffc3b88368",
+      "current_price": 569,
+      "original_price": 699,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-851-6674-slip-men/p/itmd06ffc3b88368"
+    },
+    {
+      "name": "Corporate Derby Lace Up Derby For Men",
+      "link": "https://www.flipkart.com/bata-corporate-derby-lace-up-men/p/itmfec99xzebxnye",
+      "current_price": 849,
+      "original_price": 999,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-corporate-derby-lace-up-men/p/itmfec99xzebxnye"
+    },
+    {
+      "name": "Office Formal Shoes Slip On For Men",
+      "link": "https://www.flipkart.com/bata-office-formal-shoes-slip-men/p/itme7d6ee0ba7447",
+      "current_price": 669,
+      "original_price": 799,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-office-formal-shoes-slip-men/p/itme7d6ee0ba7447"
+    },
+    {
+      "name": "JALSA Jutis For Men",
+      "link": "https://www.flipkart.com/bata-jalsa-jutis-men/p/itma45af047e4a90",
+      "current_price": 399,
+      "original_price": 449,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-jalsa-jutis-men/p/itma45af047e4a90"
+    },
+    {
+      "name": "Canvas Sneaker Sneakers For Men",
+      "link": "https://www.flipkart.com/bata-canvas-sneaker-sneakers-men/p/itm843ee848d81fb",
+      "current_price": 449,
+      "original_price": 499,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-canvas-sneaker-sneakers-men/p/itm843ee848d81fb"
+    },
+    {
+      "name": "Casuals For Men",
+      "link": "https://www.flipkart.com/bata-casuals-men/p/itmfd87ff10e84ed",
+      "current_price": 2199,
+      "original_price": 2499,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-casuals-men/p/itmfd87ff10e84ed"
+    },
+    {
+      "name": "Outdoor Slip On Loafers For Men",
+      "link": "https://www.flipkart.com/bata-outdoor-slip-loafers-men/p/itm01977feea08f9",
+      "current_price": 1029,
+      "original_price": 1199,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-outdoor-slip-loafers-men/p/itm01977feea08f9"
+    },
+    {
+      "name": "Loafers For Men",
+      "link": "https://www.flipkart.com/bata-loafers-men/p/itm236c1fc9cc3dc",
+      "current_price": 459,
+      "original_price": 599,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-loafers-men/p/itm236c1fc9cc3dc"
+    },
+    {
+      "name": "Outdoors For Men",
+      "link": "https://www.flipkart.com/bata-outdoors-men/p/itmfeywkzthfbbtr",
+      "current_price": 936,
+      "original_price": 1160,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-outdoors-men/p/itmfeywkzthfbbtr"
+    },
+    {
+      "name": "Canvas Shoes For Men",
+      "link": "https://www.flipkart.com/bata-canvas-shoes-men/p/itm2f663ddff2fb3",
+      "current_price": 249,
+      "original_price": 349,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-canvas-shoes-men/p/itm2f663ddff2fb3"
+    },
+    {
+      "name": "Casuals For Men",
+      "link": "https://www.flipkart.com/bata-casuals-men/p/itm34fc77aebe387",
+      "current_price": 825,
+      "original_price": 1030,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-casuals-men/p/itm34fc77aebe387"
+    },
+    {
+      "name": "MURPHY Loafers For Men",
+      "link": "https://www.flipkart.com/bata-murphy-loafers-men/p/itmad2e7815a3227",
+      "current_price": 871,
+      "original_price": 1799,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-murphy-loafers-men/p/itmad2e7815a3227"
+    },
+    {
+      "name": "Corporate Dress Shoes Derby For Men",
+      "link": "https://www.flipkart.com/bata-corporate-dress-shoes-derby-men/p/itmfcf9qzcux8s6f",
+      "current_price": 787,
+      "original_price": 985,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-corporate-dress-shoes-derby-men/p/itmfcf9qzcux8s6f"
+    },
+    {
+      "name": "Lace Up For Men",
+      "link": "https://www.flipkart.com/bata-lace-up-men/p/itmca2e25a6489f4",
+      "current_price": 799,
+      "original_price": 999,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-lace-up-men/p/itmca2e25a6489f4"
+    },
+    {
+      "name": "Men's Formal Lace Up Shoe Lace Up For Men",
+      "link": "https://www.flipkart.com/bata-men-s-formal-lace-up-shoe-men/p/itmc192c44f57e27",
+      "current_price": 829,
+      "original_price": 899,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-men-s-formal-lace-up-shoe-men/p/itmc192c44f57e27"
+    },
+    {
+      "name": "Lace Up For Men",
+      "link": "https://www.flipkart.com/bata-lace-up-men/p/itm1da1503366810",
+      "current_price": 759,
+      "original_price": 899,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-lace-up-men/p/itm1da1503366810"
+    },
+    {
+      "name": "Bellies For Women",
+      "link": "https://www.flipkart.com/bata-bellies-women/p/itmeb8548f3e6c57",
+      "current_price": 207,
+      "original_price": 299,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-bellies-women/p/itmeb8548f3e6c57"
+    },
+    {
+      "name": "Sneakers For Men",
+      "link": "https://www.flipkart.com/bata-sneakers-men/p/itm1529d77814152",
+      "current_price": 499,
+      "original_price": 549,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-sneakers-men/p/itm1529d77814152"
+    },
+    {
+      "name": "Casuals For Men",
+      "link": "https://www.flipkart.com/bata-casuals-men/p/itm95edaec01094d",
+      "current_price": 1394,
+      "original_price": 1699,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-casuals-men/p/itm95edaec01094d"
+    },
+    {
+      "name": "Casuals For Men",
+      "link": "https://www.flipkart.com/bata-casuals-men/p/itm0eaef049e1f7b",
+      "current_price": 459,
+      "original_price": 599,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-casuals-men/p/itm0eaef049e1f7b"
+    },
+    {
+      "name": "Mojaris Casuals For Men",
+      "link": "https://www.flipkart.com/bata-mojaris-casuals-men/p/itm69a4506cb487a",
+      "current_price": 349,
+      "original_price": 709,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-mojaris-casuals-men/p/itm69a4506cb487a"
+    },
+    {
+      "name": "Sports Shoes Casuals For Men",
+      "link": "https://www.flipkart.com/bata-sports-shoes-casuals-men/p/itmda757f1f67015",
+      "current_price": 1471,
+      "original_price": 1790,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-sports-shoes-casuals-men/p/itmda757f1f67015"
+    },
+    {
+      "name": "SWIFT Slip On Sneakers For Men",
+      "link": "https://www.flipkart.com/bata-swift-slip-sneakers-men/p/itm9bf2446ba0ecf",
+      "current_price": 749,
+      "original_price": 799,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-swift-slip-sneakers-men/p/itm9bf2446ba0ecf"
+    },
+    {
+      "name": "Corporate Casuals For Men",
+      "link": "https://www.flipkart.com/bata-corporate-casuals-men/p/itm930aaffff22a5",
+      "current_price": 1479,
+      "original_price": 1699,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-corporate-casuals-men/p/itm930aaffff22a5"
+    },
+    {
+      "name": "Loafers For Men",
+      "link": "https://www.flipkart.com/bata-loafers-men/p/itm7930b4a7dfc98",
+      "current_price": 669,
+      "original_price": 799,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-loafers-men/p/itm7930b4a7dfc98"
+    },
+    {
+      "name": "Formal Dress Shoes Slip On For Men",
+      "link": "https://www.flipkart.com/bata-formal-dress-shoes-slip-men/p/itm060748af4d0b8",
+      "current_price": 714,
+      "original_price": 899,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-formal-dress-shoes-slip-men/p/itm060748af4d0b8"
+    },
+    {
+      "name": "Walking Shoes For Men",
+      "link": "https://www.flipkart.com/bata-walking-shoes-men/p/itm4a433f225655a",
+      "current_price": 999,
+      "original_price": 2099,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-walking-shoes-men/p/itm4a433f225655a"
+    },
+    {
+      "name": "Grip-Remo M1 Slip On For Men",
+      "link": "https://www.flipkart.com/bata-grip-remo-m1-slip-men/p/itm3f3d23e428612",
+      "current_price": 759,
+      "original_price": 899,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-grip-remo-m1-slip-men/p/itm3f3d23e428612"
+    },
+    {
+      "name": "Office Wear Lace Up For Men",
+      "link": "https://www.flipkart.com/bata-office-wear-lace-up-men/p/itmaa84f930cc4fb",
+      "current_price": 759,
+      "original_price": 899,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-office-wear-lace-up-men/p/itmaa84f930cc4fb"
+    },
+    {
+      "name": "Casual Slip On Shoes Bellies For Women",
+      "link": "https://www.flipkart.com/bata-casual-slip-shoes-bellies-women/p/itmf87a83c878f43",
+      "current_price": 290,
+      "original_price": 399,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-casual-slip-shoes-bellies-women/p/itmf87a83c878f43"
+    },
+    {
+      "name": "Lace Up For Men",
+      "link": "https://www.flipkart.com/bata-lace-up-men/p/itmfgk2akqytyaup",
+      "current_price": 880,
+      "original_price": 1049,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-lace-up-men/p/itmfgk2akqytyaup"
+    },
+    {
+      "name": "Loafers For Men",
+      "link": "https://www.flipkart.com/bata-loafers-men/p/itmcfc82bb234eed",
+      "current_price": 699,
+      "original_price": 799,
+      "discounted": true,
+      "thumbnail": [
+        
+      ],
+      "query_url": "https://flipkart.dvishal485.workers.dev/product/bata-loafers-men/p/itmcfc82bb234eed"
+    }
+  ]
+}

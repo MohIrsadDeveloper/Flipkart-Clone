@@ -1,0 +1,226 @@
+// 20220325113401
+// https://flipkart.dvishal485.workers.dev/search/acer
+
+{
+    "total_result": 24,
+    "query": "acer",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=acer",
+    "result": [
+      {
+        "name": "acer Aspire 7 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 165...",
+        "link": "https://www.flipkart.com/acer-aspire-7-core-i5-10th-gen-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-a715-75g-50ta-a715-75g-41g-a715-75g-52aa-gaming-laptop/p/itm365d5a348ad9c",
+        "current_price": null,
+        "original_price": null,
+        "discounted": false,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kp1imq80/computer/u/b/z/na-gaming-laptop-acer-original-imag3d63hk3h8nm2.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-7-core-i5-10th-gen-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-a715-75g-50ta-a715-75g-41g-a715-75g-52aa-gaming-laptop/p/itm365d5a348ad9c"
+      },
+      {
+        "name": "acer Aspire 3 Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) A315-23 Laptop",
+        "link": "https://www.flipkart.com/acer-aspire-3-ryzen-dual-core-3250u-8-gb-512-gb-ssd-windows-11-home-a315-23-laptop/p/itmb8fe582c41a06",
+        "current_price": 36990,
+        "original_price": 44999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ktketu80/computer/n/r/0/a315-23-laptop-acer-original-imag6w27yw7bmdz5.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-3-ryzen-dual-core-3250u-8-gb-512-gb-ssd-windows-11-home-a315-23-laptop/p/itmb8fe582c41a06"
+      },
+      {
+        "name": "acer Aspire 7 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce ...",
+        "link": "https://www.flipkart.com/acer-aspire-7-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-a715-42g-gaming-laptop/p/itm4385fddc2c72c",
+        "current_price": 54990,
+        "original_price": 89000,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/klcmoi80/computer/q/e/3/na-gaming-laptop-acer-original-imagyhwfgwhkf3vv.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-7-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-a715-42g-gaming-laptop/p/itm4385fddc2c72c"
+      },
+      {
+        "name": "acer Aspire 5 Ryzen 5 Hexa Core AMD Ryzen 5-5500U hexa-core - (8 GB/512 GB SSD/Windows 10 Home) A515-4...",
+        "link": "https://www.flipkart.com/acer-aspire-5-ryzen-hexa-core-amd-5-5500u-hexa-core-8-gb-512-gb-ssd-windows-10-home-a515-45-thin-light-laptop/p/itm5af53ffa1b2a3",
+        "current_price": 55990,
+        "original_price": 65000,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/krf91u80/computer/n/y/q/aspire-5-thin-and-light-laptop-acer-original-imag57xygyzhxaa7.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-5-ryzen-hexa-core-amd-5-5500u-hexa-core-8-gb-512-gb-ssd-windows-10-home-a515-45-thin-light-laptop/p/itm5af53ffa1b2a3"
+      },
+      {
+        "name": "acer Aspire 3 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 11 Home) A315-58 Thin and Light Laptop",
+        "link": "https://www.flipkart.com/acer-aspire-3-core-i3-11th-gen-4-gb-256-gb-ssd-windows-11-home-a315-58-thin-light-laptop/p/itmd2f3c926a8bb5",
+        "current_price": 36999,
+        "original_price": 50000,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kshtxu80/computer/2/a/s/aspire-3-thin-and-light-laptop-acer-original-imag6fvccahrjyv6.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-3-core-i3-11th-gen-4-gb-256-gb-ssd-windows-11-home-a315-58-thin-light-laptop/p/itmd2f3c926a8bb5"
+      },
+      {
+        "name": "acer Nitro 5 Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA ...",
+        "link": "https://www.flipkart.com/acer-nitro-5-ryzen-hexa-core-4600h-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-an515-44-an515-44-r9qa-an515-44-r8vs-gaming-laptop/p/itmc1273c0dab274",
+        "current_price": 59990,
+        "original_price": 99999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kuvkcy80/computer/n/y/n/na-gaming-laptop-acer-original-imag7whp9urft8mf.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-nitro-5-ryzen-hexa-core-4600h-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-an515-44-an515-44-r9qa-an515-44-r8vs-gaming-laptop/p/itmc1273c0dab274"
+      },
+      {
+        "name": "acer Predator Helios 300 Core i9 11th Gen - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...",
+        "link": "https://www.flipkart.com/acer-predator-helios-300-core-i9-11th-gen-16-gb-1-tb-ssd-windows-11-home-6-gb-graphics-nvidia-geforce-rtx-3060-ph315-54-gaming-laptop/p/itm21fc3a31d7275",
+        "current_price": 139990,
+        "original_price": 179999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/krwec280/computer/k/p/a/na-gaming-laptop-acer-original-imag5h9fxvakhnv8.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-predator-helios-300-core-i9-11th-gen-16-gb-1-tb-ssd-windows-11-home-6-gb-graphics-nvidia-geforce-rtx-3060-ph315-54-gaming-laptop/p/itm21fc3a31d7275"
+      },
+      {
+        "name": "acer Aspire 5 Ryzen 7 Octa Core 5700U - (8 GB/512 GB SSD/Windows 10 Home) A515-45-R9PX Thin and Light ...",
+        "link": "https://www.flipkart.com/acer-aspire-5-ryzen-7-octa-core-5700u-8-gb-512-gb-ssd-windows-10-home-a515-45-r9px-thin-light-laptop/p/itmc0a8a0b5224cc",
+        "current_price": 79999,
+        "original_price": 79999,
+        "discounted": false,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/computer/t/o/4/a515-45-r9px-thin-and-light-laptop-acer-original-imagbmx3nr6xex9g.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-5-ryzen-7-octa-core-5700u-8-gb-512-gb-ssd-windows-10-home-a515-45-r9px-thin-light-laptop/p/itmc0a8a0b5224cc"
+      },
+      {
+        "name": "acer Travelmate Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) TravelMate P214-53 Noteb...",
+        "link": "https://www.flipkart.com/acer-travelmate-core-i5-11th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-p214-53-notebook/p/itmdab5e2902b4a9",
+        "current_price": 53290,
+        "original_price": 60000,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kr58yvk0/computer/1/f/i/na-business-laptop-acer-original-imag5y57uuuaya3u.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-travelmate-core-i5-11th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-p214-53-notebook/p/itmdab5e2902b4a9"
+      },
+      {
+        "name": "acer Aspire 5 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) A514-54 Thin and Light Laptop",
+        "link": "https://www.flipkart.com/acer-aspire-5-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-a514-54-thin-light-laptop/p/itm3a76042f48d03",
+        "current_price": 55999,
+        "original_price": 75999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kshtxu80/computer/r/a/5/aspire-5-thin-and-light-laptop-acer-original-imag6fvcagqsvvhh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-5-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-a514-54-thin-light-laptop/p/itm3a76042f48d03"
+      },
+      {
+        "name": "acer Predator Helios 300 Core i9 11th Gen - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeFor...",
+        "link": "https://www.flipkart.com/acer-predator-helios-300-core-i9-11th-gen-32-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-3070-ph315-54-gaming-laptop/p/itma65cbd7b3dfe8",
+        "current_price": 169990,
+        "original_price": 199999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/krwec280/computer/k/p/a/na-gaming-laptop-acer-original-imag5h9fxvakhnv8.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-predator-helios-300-core-i9-11th-gen-32-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-3070-ph315-54-gaming-laptop/p/itma65cbd7b3dfe8"
+      },
+      {
+        "name": "acer Aspire 5 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) A515-56-51EV Thin and Light Laptop",
+        "link": "https://www.flipkart.com/acer-aspire-5-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-a515-56-51ev-thin-light-laptop/p/itmadba2f44aaf44",
+        "current_price": 53990,
+        "original_price": 75999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kruyw7k0/computer/b/6/w/aspire-5-thin-and-light-laptop-acer-original-imag5k3stszyggb3.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-5-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-a515-56-51ev-thin-light-laptop/p/itmadba2f44aaf44"
+      },
+      {
+        "name": "acer Nitro 5 Ryzen 7 Octa Core 5800H - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA...",
+        "link": "https://www.flipkart.com/acer-nitro-5-ryzen-7-octa-core-5800h-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-rtx-3050-ti-an515-45-an515-45-r3fb-gaming-laptop/p/itmc3147687b9638",
+        "current_price": 84990,
+        "original_price": 119900,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kshtxu80/computer/4/s/t/nitro-5-gaming-laptop-acer-original-imag6fvdgvjhqqbj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-nitro-5-ryzen-7-octa-core-5800h-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-rtx-3050-ti-an515-45-an515-45-r3fb-gaming-laptop/p/itmc3147687b9638"
+      },
+      {
+        "name": "acer Nitro 5 Ryzen 7 Octa Core 5800H - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA...",
+        "link": "https://www.flipkart.com/acer-nitro-5-ryzen-7-octa-core-5800h-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-144-hz-an515-45-an515-45-r2gl-gaming-laptop/p/itma1ea7a5c6d853",
+        "current_price": 98990,
+        "original_price": 119990,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kmns7m80/computer/o/0/x/na-gaming-laptop-acer-original-imagfgq66pufmnny.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-nitro-5-ryzen-7-octa-core-5800h-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-144-hz-an515-45-an515-45-r2gl-gaming-laptop/p/itma1ea7a5c6d853"
+      },
+      {
+        "name": "acer Nitro 5 Ryzen 5 Hexa Core 5600H - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA...",
+        "link": "https://www.flipkart.com/acer-nitro-5-ryzen-hexa-core-5600h-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-144-hz-an515-45-r3tc-gaming-laptop/p/itm8cb7bd1b888cb",
+        "current_price": 93700,
+        "original_price": 139000,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kuvkcy80/computer/b/0/t/na-gaming-laptop-acer-original-imag7whqd6hhyhu3.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-nitro-5-ryzen-hexa-core-5600h-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-144-hz-an515-45-r3tc-gaming-laptop/p/itm8cb7bd1b888cb"
+      },
+      {
+        "name": "acer Aspire 5 Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) A515-56 Thin and Light Lap...",
+        "link": "https://www.flipkart.com/acer-aspire-5-core-i5-11th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-a515-56-thin-light-laptop/p/itm07ce514e25a5d",
+        "current_price": 53290,
+        "original_price": 64999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/knhsgi80/computer/u/y/4/na-thin-and-light-laptop-acer-original-imag25zfahpqmyjm.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-5-core-i5-11th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-a515-56-thin-light-laptop/p/itm07ce514e25a5d"
+      },
+      {
+        "name": "acer Predator Helios 300 Core i7 11th Gen - (16 GB/1 TB HDD/512 GB SSD/Windows 10 Home/6 GB Graphics/N...",
+        "link": "https://www.flipkart.com/acer-predator-helios-300-core-i7-11th-gen-16-gb-1-tb-hdd-512-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-165-hz-ph315-54-gaming-laptop/p/itm8174f86902eaa",
+        "current_price": 119990,
+        "original_price": 140990,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ksgehzk0/computer/r/c/k/predator-helios-300-gaming-laptop-acer-original-imag6yjdmwdrksyn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-predator-helios-300-core-i7-11th-gen-16-gb-1-tb-hdd-512-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-165-hz-ph315-54-gaming-laptop/p/itm8174f86902eaa"
+      },
+      {
+        "name": "acer Swift X Ryzen 7 Octa Core 5800U - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics) SFX14-41G Thin a...",
+        "link": "https://www.flipkart.com/acer-swift-x-ryzen-7-octa-core-5800u-16-gb-1-tb-ssd-windows-11-home-4-gb-graphics-sfx14-41g-thin-light-laptop/p/itmc8260e9eda86d",
+        "current_price": 99990,
+        "original_price": 139999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/ktketu80/computer/m/0/w/sfx14-41g-thin-and-light-laptop-acer-original-imag6w29ebkv9y6z.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-swift-x-ryzen-7-octa-core-5800u-16-gb-1-tb-ssd-windows-11-home-4-gb-graphics-sfx14-41g-thin-light-laptop/p/itmc8260e9eda86d"
+      },
+      {
+        "name": "acer Predator Helios 300 Octa Core i7 10th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graph...",
+        "link": "https://www.flipkart.com/acer-predator-helios-300-octa-core-i7-10th-gen-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-144-hz-ph315-53-gaming-laptop/p/itmb2022d3889ada",
+        "current_price": 109990,
+        "original_price": 149999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kuvkcy80/computer/x/s/4/na-gaming-laptop-acer-original-imag7whp2f8fgpaz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-predator-helios-300-octa-core-i7-10th-gen-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-6-graphics-nvidia-geforce-rtx-3060-144-hz-ph315-53-gaming-laptop/p/itmb2022d3889ada"
+      },
+      {
+        "name": "acer Swift 3 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) SF314-43 Thin and Light Lapto...",
+        "link": "https://www.flipkart.com/acer-swift-3-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-10-home-sf314-43-thin-light-laptop/p/itm2e14e47e7f287",
+        "current_price": 53990,
+        "original_price": 89999,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kt4ozgw0/computer/k/r/h/swift-3-thin-and-light-laptop-acer-original-imag6jer4nhrjth2.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-swift-3-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-10-home-sf314-43-thin-light-laptop/p/itm2e14e47e7f287"
+      },
+      {
+        "name": "acer Predator Triton 300 Core i7 10th Gen - (16 GB/2 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeFor...",
+        "link": "https://www.flipkart.com/acer-predator-triton-300-core-i7-10th-gen-16-gb-2-tb-ssd-windows-10-home-8-gb-graphics-nvidia-geforce-rtx-2070-max-q-design-pt315-52-gaming-laptop/p/itm868679c081b00",
+        "current_price": 159990,
+        "original_price": 160190,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/khz693k0/computer/m/8/q/acer-original-imafxvhdhvbhfzt6.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-predator-triton-300-core-i7-10th-gen-16-gb-2-tb-ssd-windows-10-home-8-gb-graphics-nvidia-geforce-rtx-2070-max-q-design-pt315-52-gaming-laptop/p/itm868679c081b00"
+      },
+      {
+        "name": "acer Predator Helios 300 Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeFor...",
+        "link": "https://www.flipkart.com/acer-predator-helios-300-core-i7-11th-gen-16-gb-1-tb-ssd-windows-10-home-6-gb-graphics-nvidia-geforce-rtx-3060-165-hz-ph315-54-78cp-ph315-54-gaming-laptop/p/itm8160aa59c1a94",
+        "current_price": 129990,
+        "original_price": 149990,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kt1u3rk0/computer/b/u/m/na-gaming-laptop-acer-original-imag6h7gsyzcpwrb.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-predator-helios-300-core-i7-11th-gen-16-gb-1-tb-ssd-windows-10-home-6-gb-graphics-nvidia-geforce-rtx-3060-165-hz-ph315-54-78cp-ph315-54-gaming-laptop/p/itm8160aa59c1a94"
+      },
+      {
+        "name": "acer Aspire Vero(Green PC ) Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) AV15-51 Thin and Ligh...",
+        "link": "https://www.flipkart.com/acer-aspire-vero-green-pc-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-av15-51-thin-light-laptop/p/itm2906fb2c66914",
+        "current_price": 57990,
+        "original_price": 60990,
+        "discounted": true,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/kyt0ya80/computer/c/3/k/-original-imagayazehw3hcgz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-aspire-vero-green-pc-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-av15-51-thin-light-laptop/p/itm2906fb2c66914"
+      },
+      {
+        "name": "acer Predator Helios 300 Core i5 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics/NVI...",
+        "link": "https://www.flipkart.com/acer-predator-helios-300-core-i5-7th-gen-8-gb-1-tb-hdd-128-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1050ti-g3-572-gaming-laptop/p/itmf3s3fgfy36h67",
+        "current_price": 129999,
+        "original_price": 129999,
+        "discounted": false,
+        "thumbnail": "https://rukminim1.flixcart.com/image/312/312/j5ws0i80/computer/g/p/d/acer-na-notebook-original-imaewhwtbtzwe7ct.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/acer-predator-helios-300-core-i5-7th-gen-8-gb-1-tb-hdd-128-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1050ti-g3-572-gaming-laptop/p/itmf3s3fgfy36h67"
+      }
+    ]
+  }

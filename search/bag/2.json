@@ -1,0 +1,450 @@
+// 20220329192449
+// https://flipkart.dvishal485.workers.dev/search/sky%20bag
+
+{
+    "total_result": 40,
+    "query": "sky%20bag",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=sky%20bag",
+    "result": [
+      {
+        "name": "Medium 30 L Backpack New Neon 07",
+        "link": "https://www.flipkart.com/skybags-new-neon-07-30-l-backpack/p/itmfgw5ehjv4qjg4",
+        "current_price": 1225,
+        "original_price": 1900,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-new-neon-07-30-l-backpack/p/itmfgw5ehjv4qjg4"
+      },
+      {
+        "name": "Medium 30 L Backpack Stream",
+        "link": "https://www.flipkart.com/skybags-stream-30-l-backpack/p/itmfewxsnpkvjszf",
+        "current_price": 878,
+        "original_price": 2398,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-stream-30-l-backpack/p/itmfewxsnpkvjszf"
+      },
+      {
+        "name": "Large 34 L Backpack astro plus",
+        "link": "https://www.flipkart.com/skybags-astro-plus-34-l-backpack/p/itmf2c5a6c837108",
+        "current_price": 1579,
+        "original_price": 2050,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-astro-plus-34-l-backpack/p/itmf2c5a6c837108"
+      },
+      {
+        "name": "21.65 L Backpack BRAT",
+        "link": "https://www.flipkart.com/skybags-brat-21-65-l-backpack/p/itm04aff3ff6fb19",
+        "current_price": 859,
+        "original_price": 2010,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-brat-21-65-l-backpack/p/itm04aff3ff6fb19"
+      },
+      {
+        "name": "Large 34 L Laptop Backpack CRUZE COLLEGE LAPTOP BACKPAC...",
+        "link": "https://www.flipkart.com/skybags-cruze-college-laptop-backpack-black-34-l/p/itm4b2c4ae81279b",
+        "current_price": 1958,
+        "original_price": 3170,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-cruze-college-laptop-backpack-black-34-l/p/itm4b2c4ae81279b"
+      },
+      {
+        "name": "Medium 22 L Backpack FLEX 22L BACKPACK BLITH",
+        "link": "https://www.flipkart.com/skybags-flex-22l-backpack-blith-22-l/p/itmb703d4f492603",
+        "current_price": 1249,
+        "original_price": 1698,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-flex-22l-backpack-blith-22-l/p/itmb703d4f492603"
+      },
+      {
+        "name": "Large 34 L Backpack Astro Nxt 08 With Pencil Pocket",
+        "link": "https://www.flipkart.com/skybags-astro-nxt-08-pencil-pocket-34-l-backpack/p/itm375c04dc51e3b",
+        "current_price": 1399,
+        "original_price": 2549,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-astro-nxt-08-pencil-pocket-34-l-backpack/p/itm375c04dc51e3b"
+      },
+      {
+        "name": "Medium 22 L Backpack RONAN EXTRA 05 (H)",
+        "link": "https://www.flipkart.com/skybags-ronan-extra-05-h-22-l-backpack/p/itm4c44985049b31",
+        "current_price": 1640,
+        "original_price": 3200,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-ronan-extra-05-h-22-l-backpack/p/itm4c44985049b31"
+      },
+      {
+        "name": "Medium 30 L Backpack New Neon 14",
+        "link": "https://www.flipkart.com/skybags-new-neon-14-30-l-backpack/p/itmfgw5ejsbbrnhg",
+        "current_price": 1299,
+        "original_price": 1998,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-new-neon-14-30-l-backpack/p/itmfgw5ejsbbrnhg"
+      },
+      {
+        "name": "Medium 30 L Backpack Large 30 L Backpack New Neon 03 (B...",
+        "link": "https://www.flipkart.com/skybags-large-30-l-backpack-new-neon-03-black-green/p/itm8387c8b7cf948",
+        "current_price": 1149,
+        "original_price": 1900,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-large-30-l-backpack-new-neon-03-black-green/p/itm8387c8b7cf948"
+      },
+      {
+        "name": "Medium 27 L Laptop Backpack BEATLE PRO LAPTOP BACKPACK ...",
+        "link": "https://www.flipkart.com/skybags-beatle-pro-laptop-backpack-grey-27-l/p/itmbcaa29f559e95",
+        "current_price": 1139,
+        "original_price": 2800,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-beatle-pro-laptop-backpack-grey-27-l/p/itmbcaa29f559e95"
+      },
+      {
+        "name": "Large 34 L Backpack Astro Nxt 10",
+        "link": "https://www.flipkart.com/skybags-astro-nxt-10-34-l-backpack/p/itm06544bd72f8ba",
+        "current_price": 1440,
+        "original_price": 2200,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-astro-nxt-10-34-l-backpack/p/itm06544bd72f8ba"
+      },
+      {
+        "name": "Small 10 L Backpack DC Light Weight Small Tracking Attr...",
+        "link": "https://www.flipkart.com/dezire-crafts-dc-light-weight-small-tracking-attractive-tution-bags-10-l-backpack/p/itm21f0ec0035133",
+        "current_price": 241,
+        "original_price": 1499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/dezire-crafts-dc-light-weight-small-tracking-attractive-tution-bags-10-l-backpack/p/itm21f0ec0035133"
+      },
+      {
+        "name": "Large 32 L Backpack MARVEL",
+        "link": "https://www.flipkart.com/skybags-marvel-32-l-backpack/p/itmf3umdfbwbgpgk",
+        "current_price": 1399,
+        "original_price": 2160,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-marvel-32-l-backpack/p/itmf3umdfbwbgpgk"
+      },
+      {
+        "name": "Large 32 L Backpack FIGO 01 BACKPACK (E) BLACK",
+        "link": "https://www.flipkart.com/skybags-figo-01-backpack-e-black-32-l/p/itmc6ee0159d7c09",
+        "current_price": 1569,
+        "original_price": 2750,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-figo-01-backpack-e-black-32-l/p/itmc6ee0159d7c09"
+      },
+      {
+        "name": "Medium 30 L Backpack Unisex FROZEN 03 Backpack",
+        "link": "https://www.flipkart.com/skybags-unisex-frozen-03-backpack-30-l/p/itmbe61b6cebe550",
+        "current_price": 1490,
+        "original_price": 3500,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-unisex-frozen-03-backpack-30-l/p/itmbe61b6cebe550"
+      },
+      {
+        "name": "Medium 30 L Backpack New Neon 15",
+        "link": "https://www.flipkart.com/skybags-new-neon-15-30-l-backpack/p/itmfgw7a6ktrb6mg",
+        "current_price": 1549,
+        "original_price": 1998,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-new-neon-15-30-l-backpack/p/itmfgw7a6ktrb6mg"
+      },
+      {
+        "name": "Large 36 L Backpack Astro Extra 01 With Raincover",
+        "link": "https://www.flipkart.com/skybags-astro-extra-01-raincover-36-l-backpack/p/itmc65c4e2d68c72",
+        "current_price": 2260,
+        "original_price": 2400,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-astro-extra-01-raincover-36-l-backpack/p/itmc65c4e2d68c72"
+      },
+      {
+        "name": "Large 33 L Laptop Backpack Campus Plus Xl 02",
+        "link": "https://www.flipkart.com/skybags-campus-plus-xl-02-33-l-laptop-backpack/p/itm3c4a298d7c105",
+        "current_price": 2035,
+        "original_price": 3100,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-campus-plus-xl-02-33-l-laptop-backpack/p/itm3c4a298d7c105"
+      },
+      {
+        "name": "Large 32 L Backpack NEW NEON 13 SCHOOL BAG (H) BLUE",
+        "link": "https://www.flipkart.com/skybags-new-neon-13-school-bag-h-blue-32-l-laptop-backpack/p/itm33415593fb6ac",
+        "current_price": 949,
+        "original_price": 2498,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-new-neon-13-school-bag-h-blue-32-l-laptop-backpack/p/itm33415593fb6ac"
+      },
+      {
+        "name": "Large 35 L Backpack Marvel Extra 03 Blue",
+        "link": "https://www.flipkart.com/skybags-marvel-extra-03-blue-35-l-backpack/p/itmfdzwpqw7jrnsd",
+        "current_price": 2149,
+        "original_price": 2600,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-marvel-extra-03-blue-35-l-backpack/p/itmfdzwpqw7jrnsd"
+      },
+      {
+        "name": "Large 32 L Backpack MARVEL 10 BACKPACK RED",
+        "link": "https://www.flipkart.com/skybags-marvel-10-backpack-red-32-l/p/itmfdnzf2pspgksj",
+        "current_price": 1599,
+        "original_price": 2190,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-marvel-10-backpack-red-32-l/p/itmfdnzf2pspgksj"
+      },
+      {
+        "name": "Large 32 L Backpack Astro 04",
+        "link": "https://www.flipkart.com/skybags-astro-04-32-l-backpack/p/itmb01f4cb1a9bca",
+        "current_price": 1450,
+        "original_price": 1750,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-astro-04-32-l-backpack/p/itmb01f4cb1a9bca"
+      },
+      {
+        "name": "Large 35 L Backpack Marvel Extra 04 Black",
+        "link": "https://www.flipkart.com/skybags-marvel-extra-04-black-35-l-backpack/p/itmfdznmfqjxc87c",
+        "current_price": 2149,
+        "original_price": 2999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-marvel-extra-04-black-35-l-backpack/p/itmfdznmfqjxc87c"
+      },
+      {
+        "name": "Medium 30 L Backpack Unisex MARVEL EXTRA Backpack",
+        "link": "https://www.flipkart.com/skybags-unisex-marvel-extra-backpack-30-l/p/itmdba087290529b",
+        "current_price": 2149,
+        "original_price": 3000,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-unisex-marvel-extra-backpack-30-l/p/itmdba087290529b"
+      },
+      {
+        "name": "Medium 29 L Laptop Backpack Laptop Bag for Men and Wome...",
+        "link": "https://www.flipkart.com/japsbag-laptop-bag-men-women-waterproof-backpack-school-bags-kids-office-15-6-inch-black-29-l/p/itmfdckfnxgcnwfx",
+        "current_price": 519,
+        "original_price": 1799,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/japsbag-laptop-bag-men-women-waterproof-backpack-school-bags-kids-office-15-6-inch-black-29-l/p/itmfdckfnxgcnwfx"
+      },
+      {
+        "name": "Medium 30 L Backpack Luke 01",
+        "link": "https://www.flipkart.com/skybags-luke-01-30-l-backpack/p/itmf3umcvmnf6gfc",
+        "current_price": 1149,
+        "original_price": 1450,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-luke-01-30-l-backpack/p/itmf3umcvmnf6gfc"
+      },
+      {
+        "name": "Medium 27 L Backpack BEATLE 2 BACKPACK GREEN-BLUE",
+        "link": "https://www.flipkart.com/skybags-beatle-2-backpack-green-blue-27-l/p/itmfdnzyyvhzynyz",
+        "current_price": 969,
+        "original_price": 1450,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-beatle-2-backpack-green-blue-27-l/p/itmfdnzyyvhzynyz"
+      },
+      {
+        "name": "Large 34 L Backpack FIGO EXTRA 02 BACKPACK (E) GREY",
+        "link": "https://www.flipkart.com/skybags-figo-extra-02-backpack-e-grey-34-l/p/itm4e95f4d895ad1",
+        "current_price": 1834,
+        "original_price": 3150,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-figo-extra-02-backpack-e-grey-34-l/p/itm4e95f4d895ad1"
+      },
+      {
+        "name": "Medium 28 L Backpack BFF",
+        "link": "https://www.flipkart.com/skybags-bff-28-l-backpack/p/itm6268b9a9e5d91",
+        "current_price": 1130,
+        "original_price": 1498,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-bff-28-l-backpack/p/itm6268b9a9e5d91"
+      },
+      {
+        "name": "Medium 30 L Backpack New Neon 08",
+        "link": "https://www.flipkart.com/skybags-new-neon-08-30-l-backpack/p/itmfgw7b7nxjt4er",
+        "current_price": 1349,
+        "original_price": 1998,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-new-neon-08-30-l-backpack/p/itmfgw7b7nxjt4er"
+      },
+      {
+        "name": "Large 31 L Backpack SB MARVEL (E) 07",
+        "link": "https://www.flipkart.com/skybags-sb-marvel-e-07-31-l-backpack/p/itmfbhy9pw63x7wg",
+        "current_price": 1549,
+        "original_price": 2160,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-sb-marvel-e-07-31-l-backpack/p/itmfbhy9pw63x7wg"
+      },
+      {
+        "name": "Small 19 L Backpack SB MARVEL (E) CHAMP 07",
+        "link": "https://www.flipkart.com/skybags-sb-marvel-e-champ-07-19-l-backpack/p/itmfbkxyhyjuchvy",
+        "current_price": 899,
+        "original_price": 1840,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-sb-marvel-e-champ-07-19-l-backpack/p/itmfbkxyhyjuchvy"
+      },
+      {
+        "name": "Large 32 L Backpack New Neon 03 Grey",
+        "link": "https://www.flipkart.com/skybags-new-neon-03-grey-32-l-backpack/p/itmfdznmmf6rjrnu",
+        "current_price": 1149,
+        "original_price": 1900,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-new-neon-03-grey-32-l-backpack/p/itmfdznmmf6rjrnu"
+      },
+      {
+        "name": "Medium 29 L Backpack TAZ 1BACKPACK BLUE",
+        "link": "https://www.flipkart.com/skybags-taz-1backpack-blue-29-l-backpack/p/itmf6ryy8stfmkey",
+        "current_price": 1005,
+        "original_price": 3499,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-taz-1backpack-blue-29-l-backpack/p/itmf6ryy8stfmkey"
+      },
+      {
+        "name": "Medium 22 L Backpack VOXEL 22L BACKPACK ORANG",
+        "link": "https://www.flipkart.com/skybags-voxel-22l-backpack-orang-22-l/p/itmd93caccf30497",
+        "current_price": 1255,
+        "original_price": 1698,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-voxel-22l-backpack-orang-22-l/p/itmd93caccf30497"
+      },
+      {
+        "name": "Medium 27 L Backpack BEATLE3 BACKPACK (E) GREY-RED",
+        "link": "https://www.flipkart.com/skybags-beatle3-backpack-e-grey-red-27-l/p/itma31ea9bd79fc9",
+        "current_price": 1199,
+        "original_price": 2300,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-beatle3-backpack-e-grey-red-27-l/p/itma31ea9bd79fc9"
+      },
+      {
+        "name": "Medium 27 L Backpack Beatle 01 Grey",
+        "link": "https://www.flipkart.com/skybags-beatle-01-grey-27-l-backpack/p/itmfdxcxcs2vgmzu",
+        "current_price": 1140,
+        "original_price": 2800,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-beatle-01-grey-27-l-backpack/p/itmfdxcxcs2vgmzu"
+      },
+      {
+        "name": "Large 36 L Backpack ASTRO EXTRA",
+        "link": "https://www.flipkart.com/skybags-astro-extra-36-l-backpack/p/itm17dcade113ec5",
+        "current_price": 2260,
+        "original_price": 2400,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-astro-extra-36-l-backpack/p/itm17dcade113ec5"
+      },
+      {
+        "name": "Small 18 L Backpack RAGER 04",
+        "link": "https://www.flipkart.com/skybags-rager-04-18-l-backpack/p/itmacc73b523213a",
+        "current_price": 869,
+        "original_price": 1298,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/skybags-rager-04-18-l-backpack/p/itmacc73b523213a"
+      }
+    ]
+  }

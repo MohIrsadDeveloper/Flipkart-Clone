@@ -1,0 +1,226 @@
+// 20220329184705
+// https://flipkart.dvishal485.workers.dev/search/mobile%20lenovo
+
+{
+    "total_result": 24,
+    "query": "mobile%20lenovo",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=mobile%20lenovo",
+    "result": [
+      {
+        "name": "Lenovo Z6 Pro (Black, 128 GB)",
+        "link": "https://www.flipkart.com/lenovo-z6-pro-black-128-gb/p/itme25fb88e19ce9",
+        "current_price": 39999,
+        "original_price": 39999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/k070zgw0/mobile/z/4/3/lenovo-z6-pro-l78051-original-imafkfuwrgzct8ah.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-z6-pro-black-128-gb/p/itme25fb88e19ce9"
+      },
+      {
+        "name": "Lenovo S930 (Silver, 8 GB)",
+        "link": "https://www.flipkart.com/lenovo-s930-silver-8-gb/p/itmdsn9rwdsnetyc",
+        "current_price": 13604,
+        "original_price": 13604,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/m/v/y/lenovo-s930-original-imadsn9sezabcwaj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-s930-silver-8-gb/p/itmdsn9rwdsnetyc"
+      },
+      {
+        "name": "Lenovo K10 Plus (Black, 64 GB)",
+        "link": "https://www.flipkart.com/lenovo-k10-plus-black-64-gb/p/itm1c7ad0d673ca4",
+        "current_price": 13999,
+        "original_price": 13999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/k0tw13k0/mobile/f/g/f/lenovo-k10-plus-pagw0014in-original-imafkjayuyv8vg9z.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k10-plus-black-64-gb/p/itm1c7ad0d673ca4"
+      },
+      {
+        "name": "Lenovo A6 Note (Blue, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-a6-note-blue-32-gb/p/itm80feb891eaafe",
+        "current_price": 9999,
+        "original_price": 9999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/k0h12fk0/mobile/e/6/n/lenovo-a6-note-pagk0026in-original-imafkyahwrfnpghn.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-a6-note-blue-32-gb/p/itm80feb891eaafe"
+      },
+      {
+        "name": "Lenovo K8 Plus (Venom Black, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-k8-plus-venom-black-32-gb/p/itmex9kpgkxmgpzc",
+        "current_price": 10999,
+        "original_price": 10999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/j7gi6q80/mobile/p/t/d/lenovo-k8-plus-pa8c0003in-original-imaexp2rupxj9w5f.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k8-plus-venom-black-32-gb/p/itmex9kpgkxmgpzc"
+      },
+      {
+        "name": "Lenovo K3 Note (Yellow, 16 GB)",
+        "link": "https://www.flipkart.com/lenovo-k3-note-yellow-16-gb/p/itmeuydazkswhfrr",
+        "current_price": 7993,
+        "original_price": 7993,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/c/m/x/lenovo-k3-note-na-original-imae8hstdadwgmzp.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k3-note-yellow-16-gb/p/itmeuydazkswhfrr"
+      },
+      {
+        "name": "Lenovo K9 (Black, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-k9-black-32-gb/p/itmf9wa8bfrfudez",
+        "current_price": 9999,
+        "original_price": 9999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jnamvm80/mobile/u/8/y/lenovo-k9-padv0031cn-original-imafayegk6nxqtjr.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k9-black-32-gb/p/itmf9wa8bfrfudez"
+      },
+      {
+        "name": "Lenovo K6 Power (Gold, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-k6-power-gold-32-gb/p/itmezenfghddrfmc",
+        "current_price": 10999,
+        "original_price": 10999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/j44h7680/mobile/g/w/f/lenovo-k6-power-k33a42-original-imaev3qtzzby5wzz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k6-power-gold-32-gb/p/itmezenfghddrfmc"
+      },
+      {
+        "name": "Lenovo K9 Note (Gold, 64 GB)",
+        "link": "https://www.flipkart.com/lenovo-k9-note-gold-64-gb/p/itmf9wa87yfruhau",
+        "current_price": 11999,
+        "original_price": 11999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jz7az680pkrrdj/mobile/w/q/u/lenovo-k9-note-padd0015cn-original-imafg8vn6zrgjgsg.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k9-note-gold-64-gb/p/itmf9wa87yfruhau"
+      },
+      {
+        "name": "Lenovo K8 Plus (Venom Black, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-k8-plus-venom-black-32-gb/p/itmex9kpkcgf7xf7",
+        "current_price": 11999,
+        "original_price": 11999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/j7gi6q80/mobile/p/t/d/lenovo-k8-plus-pa8c0003in-original-imaexp2rupxj9w5f.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k8-plus-venom-black-32-gb/p/itmex9kpkcgf7xf7"
+      },
+      {
+        "name": "Lenovo K10 Note (Black, 64 GB)",
+        "link": "https://www.flipkart.com/lenovo-k10-note-black-64-gb/p/itm10a90e32b668e",
+        "current_price": 16999,
+        "original_price": 16999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/k05ljm80/mobile/z/6/e/lenovo-k10-note-pafr0026in-original-imafkyarhbp9dqxk.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k10-note-black-64-gb/p/itm10a90e32b668e"
+      },
+      {
+        "name": "Lenovo K9 Note (Black, 64 GB)",
+        "link": "https://www.flipkart.com/lenovo-k9-note-black-64-gb/p/itmf9wa8ysrrm4ky",
+        "current_price": 11999,
+        "original_price": 11999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jz7az680pkrrdj/mobile/d/y/c/lenovo-k9-note-padd0014cn-original-imafg8vnwp6urvgg.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k9-note-black-64-gb/p/itmf9wa8ysrrm4ky"
+      },
+      {
+        "name": "Lenovo Vibe K5 Note (Gold, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-vibe-k5-note-gold-32-gb/p/itmejj6kczvxej4g",
+        "current_price": 12499,
+        "original_price": 12499,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/g/4/7/lenovo-k5-note-pa330010in-original-imaekyazjhfqveze.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-vibe-k5-note-gold-32-gb/p/itmejj6kczvxej4g"
+      },
+      {
+        "name": "Lenovo K8 Plus (Fine Gold, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-k8-plus-fine-gold-32-gb/p/itmex9kpqjfgwbkq",
+        "current_price": 10999,
+        "original_price": 10999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/j81xsi80/mobile/v/p/g/lenovo-k8-plus-pa8c0019in-pa8c0023in-original-imaey5hzkryjswmu.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-k8-plus-fine-gold-32-gb/p/itmex9kpqjfgwbkq"
+      },
+      {
+        "name": "Lenovo A6 Note (Black, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-a6-note-black-32-gb/p/itmdaa9870be4499",
+        "current_price": 9999,
+        "original_price": 9999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/k05ljm80/mobile/w/e/c/lenovo-a6-note-arizona-pagk0027in-original-imafkyahy8ccjg5w.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-a6-note-black-32-gb/p/itmdaa9870be4499"
+      },
+      {
+        "name": "Lenovo VIBE P1m (White, 16 GB)",
+        "link": "https://www.flipkart.com/lenovo-vibe-p1m-white-16-gb/p/itmeuyd7g5a7g4zt",
+        "current_price": 6999,
+        "original_price": 6999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/v/5/p/lenovo-vibe-p1m-pa1g0034in-original-imaec3g3m9sfwdwj.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-vibe-p1m-white-16-gb/p/itmeuyd7g5a7g4zt"
+      },
+      {
+        "name": "Lenovo A5 (Gold, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-a5-gold-32-gb/p/itmf9wa84xfxghhh",
+        "current_price": 7999,
+        "original_price": 7999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jnamvm80/mobile/f/t/q/lenovo-a5-padj0041cn-original-imafaygyfzzddzng.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-a5-gold-32-gb/p/itmf9wa84xfxghhh"
+      },
+      {
+        "name": "Lenovo A5 (Black, 16 GB)",
+        "link": "https://www.flipkart.com/lenovo-a5-black-16-gb/p/itmf9wa8vv2rcyja",
+        "current_price": 6999,
+        "original_price": 6999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/jnamvm80/mobile/f/2/g/lenovo-a5-padj0040cn-original-imafaycjjekkx5fg.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-a5-black-16-gb/p/itmf9wa8vv2rcyja"
+      },
+      {
+        "name": "Lenovo VIBE P1m (Black, 16 GB)",
+        "link": "https://www.flipkart.com/lenovo-vibe-p1m-black-16-gb/p/itmeuyd7g5a7g4zt",
+        "current_price": 6999,
+        "original_price": 6999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/b/f/d/lenovo-vibe-p1m-pa1g0035in-original-imaec3g2ghmtg4vz.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-vibe-p1m-black-16-gb/p/itmeuyd7g5a7g4zt"
+      },
+      {
+        "name": "Lenovo Phab 2 Plus (Gunmetal Grey, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-phab-2-plus-gunmetal-grey-32-gb/p/itmeqcpncnvyfzdk",
+        "current_price": 15103,
+        "original_price": 15103,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/b/q/p/lenovo-phab-2-plus-pb2-670m-original-imaeqcpw4shswuzd.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-phab-2-plus-gunmetal-grey-32-gb/p/itmeqcpncnvyfzdk"
+      },
+      {
+        "name": "Lenovo Phab 2 Plus (Champagne Gold, 32 GB)",
+        "link": "https://www.flipkart.com/lenovo-phab-2-plus-champagne-gold-32-gb/p/itmeqcpncnvyfzdk",
+        "current_price": 9999,
+        "original_price": 9999,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/j0wqj680/mobile/k/v/7/lenovo-phab-2-plus-pb2-670m-original-imaeshthh8unbajg.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-phab-2-plus-champagne-gold-32-gb/p/itmeqcpncnvyfzdk"
+      },
+      {
+        "name": "Lenovo A6000 Plus (Red, 16 GB)",
+        "link": "https://www.flipkart.com/lenovo-a6000-plus-red-16-gb/p/itmeuyd87nv6ffgs",
+        "current_price": 7499,
+        "original_price": 7499,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/w/2/c/lenovo-a6000-plus-p0sb004bin-original-imae9f4tpnptqy9m.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-a6000-plus-red-16-gb/p/itmeuyd87nv6ffgs"
+      },
+      {
+        "name": "Lenovo A6000 Plus (White, 16 GB)",
+        "link": "https://www.flipkart.com/lenovo-a6000-plus-white-16-gb/p/itmeuyd87nv6ffgs",
+        "current_price": 7499,
+        "original_price": 7499,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/m/s/b/lenovo-a6000-plus-p0sb004bin-p0sb004ein-p0sb0010in-original-imae9f4qhwvkdzgd.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-a6000-plus-white-16-gb/p/itmeuyd87nv6ffgs"
+      },
+      {
+        "name": "Lenovo Vibe K5 Plus (Silver, 16 GB)",
+        "link": "https://www.flipkart.com/lenovo-vibe-k5-plus-silver-16-gb/p/itmf4x2zrsghuxhw",
+        "current_price": 8499,
+        "original_price": 8499,
+        "discounted": false,
+        "thumbnail": "https://rukminim2.flixcart.com/image/312/312/mobile/d/c/h/lenovo-vibe-k5-plus-a6020a46-original-imaegu5zh5mfrzgh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/lenovo-vibe-k5-plus-silver-16-gb/p/itmf4x2zrsghuxhw"
+      }
+    ]
+  }

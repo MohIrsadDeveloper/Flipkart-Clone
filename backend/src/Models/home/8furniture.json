@@ -1,86 +1,130 @@
 [
-    {
-        "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
-        "product_title": "Living Room Chairs",
-        "tag": {
-          "offer_tag": "Upto 70% Off",
-          "deals_tag": "Summer Collection"
-        },
-        "product": {
-          "product_type": "furniture",
-          "product_type_id": 8
-        }
-      },
-      {
-        "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
-        "product_title": "Living Room Chairs",
-        "tag": {
-          "offer_tag": "Upto 70% Off",
-          "deals_tag": "Summer Collection"
-        },
-        "product": {
-          "product_type": "furniture",
-          "product_type_id": 8
-        }
-      },
-      {
-        "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
-        "product_title": "Living Room Chairs",
-        "tag": {
-          "offer_tag": "Upto 70% Off",
-          "deals_tag": "Summer Collection"
-        },
-        "product": {
-          "product_type": "furniture",
-          "product_type_id": 8
-        }
-      },
-      {
-        "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
-        "product_title": "Living Room Chairs",
-        "tag": {
-          "offer_tag": "Upto 70% Off",
-          "deals_tag": "Summer Collection"
-        },
-        "product": {
-          "product_type": "furniture",
-          "product_type_id": 8
-        }
-      },
-      {
-        "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
-        "product_title": "Living Room Chairs",
-        "tag": {
-          "offer_tag": "Upto 70% Off",
-          "deals_tag": "Summer Collection"
-        },
-        "product": {
-          "product_type": "furniture",
-          "product_type_id": 8
-        }
-      },
-      {
-        "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
-        "product_title": "Living Room Chairs",
-        "tag": {
-          "offer_tag": "Upto 70% Off",
-          "deals_tag": "Summer Collection"
-        },
-        "product": {
-          "product_type": "furniture",
-          "product_type_id": 8
-        }
-      },
-      {
-        "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
-        "product_title": "Living Room Chairs",
-        "tag": {
-          "offer_tag": "Upto 70% Off",
-          "deals_tag": "Summer Collection"
-        },
-        "product": {
-          "product_type": "furniture",
-          "product_type_id": 8
-        }
-      }
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
+    "product_title": "Living Room Chairs",
+    "tag": {
+      "offer_tag": "Upto 70% Off",
+      "deals_tag": "Summer Collection"
+    },
+    "product": {
+      "product_type": "furniture",
+      "product_type_id": 8
+    },
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
+    "product_title": "Living Room Chairs",
+    "tag": {
+      "offer_tag": "Upto 70% Off",
+      "deals_tag": "Summer Collection"
+    },
+    "product": {
+      "product_type": "furniture",
+      "product_type_id": 8
+    },
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
+    "product_title": "Living Room Chairs",
+    "tag": {
+      "offer_tag": "Upto 70% Off",
+      "deals_tag": "Summer Collection"
+    },
+    "product": {
+      "product_type": "furniture",
+      "product_type_id": 8
+    },
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
+    "product_title": "Living Room Chairs",
+    "tag": {
+      "offer_tag": "Upto 70% Off",
+      "deals_tag": "Summer Collection"
+    },
+    "product": {
+      "product_type": "furniture",
+      "product_type_id": 8
+    },
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
+    "product_title": "Living Room Chairs",
+    "tag": {
+      "offer_tag": "Upto 70% Off",
+      "deals_tag": "Summer Collection"
+    },
+    "product": {
+      "product_type": "furniture",
+      "product_type_id": 8
+    },
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
+    "product_title": "Living Room Chairs",
+    "tag": {
+      "offer_tag": "Upto 70% Off",
+      "deals_tag": "Summer Collection"
+    },
+    "product": {
+      "product_type": "furniture",
+      "product_type_id": 8
+    },
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
+    "product_title": "Living Room Chairs",
+    "tag": {
+      "offer_tag": "Upto 70% Off",
+      "deals_tag": "Summer Collection"
+    },
+    "product": {
+      "product_type": "furniture",
+      "product_type_id": 8
+    },
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
+    "product_title": "Living Room Chairs",
+    "tag": {
+      "offer_tag": "Upto 70% Off",
+      "deals_tag": "Summer Collection"
+    },
+    "product": {
+      "product_type": "furniture",
+      "product_type_id": 8
+    },
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    }
+  }
 ]

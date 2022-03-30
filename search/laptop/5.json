@@ -1,0 +1,432 @@
+// 20220325114508
+// https://flipkart.dvishal485.workers.dev/search/hp
+
+{
+    "total_result": 40,
+    "query": "hp",
+    "fetch_from": "https://www.flipkart.com/search?marketplace=FLIPKART&q=hp",
+    "result": [
+      {
+        "name": "HP Ryzen 5 Hexa Core - (8 GB/512 GB SSD/Windows 11 Home...",
+        "link": "https://www.flipkart.com/hp-ryzen-5-hexa-core-8-gb-512-gb-ssd-windows-11-home-eq2144au-laptop/p/itm3425c8e0c9565",
+        "current_price": 47990,
+        "original_price": 60959,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-ryzen-5-hexa-core-8-gb-512-gb-ssd-windows-11-home-eq2144au-laptop/p/itm3425c8e0c9565"
+      },
+      {
+        "name": "HP 150 Wired Mouse and Keyboard Wired USB Multi-device ...",
+        "link": "https://www.flipkart.com/hp-150-wired-mouse-keyboard-usb-multi-device/p/itm51fbf2fb1f03b",
+        "current_price": 903,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-150-wired-mouse-keyboard-usb-multi-device/p/itm51fbf2fb1f03b"
+      },
+      {
+        "name": "HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)...",
+        "link": "https://www.flipkart.com/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-fq2629tu-thin-light-laptop/p/itm00019d89927f7",
+        "current_price": 42990,
+        "original_price": 57330,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-fq2629tu-thin-light-laptop/p/itm00019d89927f7"
+      },
+      {
+        "name": "HP Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 1...",
+        "link": "https://www.flipkart.com/hp-ryzen-3-dual-core-3250u-8-gb-256-gb-ssd-windows-10-home-15s-gy0501au-thin-light-laptop/p/itmcc3db7767aba4",
+        "current_price": 38990,
+        "original_price": 46055,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-ryzen-3-dual-core-3250u-8-gb-256-gb-ssd-windows-10-home-15s-gy0501au-thin-light-laptop/p/itmcc3db7767aba4"
+      },
+      {
+        "name": "HP Pentium Quad Core - (8 GB/256 GB SSD/Windows 11 Home...",
+        "link": "https://www.flipkart.com/hp-pentium-quad-core-8-gb-256-gb-ssd-windows-11-home-14s-dq3033tu-thin-light-laptop/p/itm360ba49c8e786",
+        "current_price": 34192,
+        "original_price": 36865,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-pentium-quad-core-8-gb-256-gb-ssd-windows-11-home-14s-dq3033tu-thin-light-laptop/p/itm360ba49c8e786"
+      },
+      {
+        "name": "HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)...",
+        "link": "https://www.flipkart.com/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-dy3501tu-thin-light-laptop/p/itm450f55a8c2cb2",
+        "current_price": 41990,
+        "original_price": 49590,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-dy3501tu-thin-light-laptop/p/itm450f55a8c2cb2"
+      },
+      {
+        "name": "HP Pavilion Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/...",
+        "link": "https://www.flipkart.com/hp-pavilion-ryzen-5-hexa-core-5600h-8-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-gtx-1650-144-hz-15-ec2004ax-gaming-laptop/p/itm98c94bbf9bc20",
+        "current_price": 59990,
+        "original_price": 70172,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-pavilion-ryzen-5-hexa-core-5600h-8-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-gtx-1650-144-hz-15-ec2004ax-gaming-laptop/p/itm98c94bbf9bc20"
+      },
+      {
+        "name": "HP w300  Webcam",
+        "link": "https://www.flipkart.com/hp-w300-webcam/p/itm72beacb68b94e",
+        "current_price": 3699,
+        "original_price": 4999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/612/612/kgzg8sw0/webcam/h/x/z/hp-webcam-w300-original-imafx2zjak9hgfzb.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-w300-webcam/p/itm72beacb68b94e"
+      },
+      {
+        "name": "HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 1...",
+        "link": "https://www.flipkart.com/hp-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-11-home-15s-eq2144au-thin-light-laptop/p/itm1eb242c8ec463",
+        "current_price": 47990,
+        "original_price": 60959,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-11-home-15s-eq2144au-thin-light-laptop/p/itm1eb242c8ec463"
+      },
+      {
+        "name": "HP 15s Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/256 GB ...",
+        "link": "https://www.flipkart.com/hp-15s-ryzen-3-dual-core-3250u-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-15s-gr0012au-laptop/p/itm9e1f8deeed35f",
+        "current_price": 41999,
+        "original_price": 48294,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-15s-ryzen-3-dual-core-3250u-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-15s-gr0012au-laptop/p/itm9e1f8deeed35f"
+      },
+      {
+        "name": "HP Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home)...",
+        "link": "https://www.flipkart.com/hp-core-i3-11th-gen-8-gb-256-gb-ssd-windows-11-home-14s-dy2506tu-thin-light-laptop/p/itm6e9f19b41d9c9",
+        "current_price": 39999,
+        "original_price": 50085,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i3-11th-gen-8-gb-256-gb-ssd-windows-11-home-14s-dy2506tu-thin-light-laptop/p/itm6e9f19b41d9c9"
+      },
+      {
+        "name": "HP Smart Tank 530 Multi-function WiFi Color Printer wit...",
+        "link": "https://www.flipkart.com/hp-smart-tank-530-multi-function-wifi-color-printer-voice-activated-printing-google-assistant-alexa-color-page-cost-20-paise-black-10-paise/p/itm441d4210c9c72",
+        "current_price": 19899,
+        "original_price": 21515,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-smart-tank-530-multi-function-wifi-color-printer-voice-activated-printing-google-assistant-alexa-color-page-cost-20-paise-black-10-paise/p/itm441d4210c9c72"
+      },
+      {
+        "name": "HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 1...",
+        "link": "https://www.flipkart.com/hp-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-11-home-14s-fq1092au-thin-light-laptop/p/itm808dc28eb54e7",
+        "current_price": 48948,
+        "original_price": 57042,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-11-home-14s-fq1092au-thin-light-laptop/p/itm808dc28eb54e7"
+      },
+      {
+        "name": "HP Celeron Dual Core - (8 GB/256 GB SSD/Windows 11 Home...",
+        "link": "https://www.flipkart.com/hp-celeron-dual-core-8-gb-256-gb-ssd-windows-11-home-14s-dq3032tu-thin-light-laptop/p/itm7ffbb3110f6b6",
+        "current_price": 33497,
+        "original_price": 36865,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-celeron-dual-core-8-gb-256-gb-ssd-windows-11-home-14s-dq3032tu-thin-light-laptop/p/itm7ffbb3110f6b6"
+      },
+      {
+        "name": "HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)...",
+        "link": "https://www.flipkart.com/hp-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-du3517tu-thin-light-laptop/p/itmbc61a81389b4d",
+        "current_price": 52990,
+        "original_price": 70171,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-du3517tu-thin-light-laptop/p/itmbc61a81389b4d"
+      },
+      {
+        "name": "HP W200  Webcam",
+        "link": "https://www.flipkart.com/hp-w200-webcam/p/itm34036fd03f796",
+        "current_price": 1421,
+        "original_price": 2999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/612/612/kiew3gw0-0/webcam/r/z/l/20l58aa-w200-hd-720p-30-fps-hp-original-imafy7pzpwuuzy28.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-w200-webcam/p/itm34036fd03f796"
+      },
+      {
+        "name": "HP U1 32 GB MicroSDHC Class 10 100 MB/s  Memory Card",
+        "link": "https://www.flipkart.com/hp-u1-32-gb-microsdhc-class-10-100-mb-s-memory-card/p/itmf5zyf6eyzwxvf",
+        "current_price": 363,
+        "original_price": 1600,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/612/612/jpinjbk0/memory-card/microsdhc/6/z/j/hp-mi210-original-imafbqguahg6ysje.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-u1-32-gb-microsdhc-class-10-100-mb-s-memory-card/p/itmf5zyf6eyzwxvf"
+      },
+      {
+        "name": "HP x1000 Wired Optical Mouse",
+        "link": "https://www.flipkart.com/hp-x1000-wired-optical-mouse/p/itmf2hrgfb8qwyhk",
+        "current_price": 270,
+        "original_price": 399,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/612/612/kqjtd3k0/mouse/f/f/c/x1000-hp-original-imag4j6ftg8zmyxh.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-x1000-wired-optical-mouse/p/itmf2hrgfb8qwyhk"
+      },
+      {
+        "name": "HP Original Smart AC 19.5V 4.5mm Blue Pin Charger 65 W ...",
+        "link": "https://www.flipkart.com/hp-original-smart-ac-19-5v-4-5mm-blue-pin-charger-65-w-adapter/p/itm82b211c47644e",
+        "current_price": 1289,
+        "original_price": 2500,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-original-smart-ac-19-5v-4-5mm-blue-pin-charger-65-w-adapter/p/itm82b211c47644e"
+      },
+      {
+        "name": "HP 150 Wired Mouse Wired Optical Mouse",
+        "link": "https://www.flipkart.com/hp-150-wired-mouse-optical/p/itm5abf7c8a115e5",
+        "current_price": 374,
+        "original_price": 399,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/612/612/kovsvbk0/mouse/d/d/h/150-wired-mouse-hp-original-imag38fzpyc3dhhc.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-150-wired-mouse-optical/p/itm5abf7c8a115e5"
+      },
+      {
+        "name": "HP Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10 Home)...",
+        "link": "https://www.flipkart.com/hp-core-i3-10th-gen-8-gb-512-gb-ssd-windows-10-home-15s-du1516tu-thin-light-laptop/p/itm38ece5faec105",
+        "current_price": 43990,
+        "original_price": 50294,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i3-10th-gen-8-gb-512-gb-ssd-windows-10-home-15s-du1516tu-thin-light-laptop/p/itm38ece5faec105"
+      },
+      {
+        "name": "HP Pavilion x360 Core i3 11th Gen - (8 GB/512 GB SSD/Wi...",
+        "link": "https://www.flipkart.com/hp-pavilion-x360-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-14-dy0186tu-2-1-laptop/p/itm367c6182b8f54",
+        "current_price": 55990,
+        "original_price": 69267,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-pavilion-x360-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-14-dy0186tu-2-1-laptop/p/itm367c6182b8f54"
+      },
+      {
+        "name": "HP Pavilion Gaming Ryzen 7 Octa Core 4800H - (16 GB/1 T...",
+        "link": "https://www.flipkart.com/hp-pavilion-gaming-ryzen-7-octa-core-4800h-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-1650ti-144-hz-15-ec1512ax-laptop/p/itmc86ddf2406f18",
+        "current_price": 75990,
+        "original_price": 93564,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-pavilion-gaming-ryzen-7-octa-core-4800h-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-1650ti-144-hz-15-ec1512ax-laptop/p/itmc86ddf2406f18"
+      },
+      {
+        "name": "HP 100 Wired USB Desktop Keyboard",
+        "link": "https://www.flipkart.com/hp-100-wired-usb-desktop-keyboard/p/itmfbzgvfvmdhtgg",
+        "current_price": 599,
+        "original_price": 799,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/612/612/jrjizrk0/keyboard/desktop-keyboard/n/f/y/hp-100-wired-usb-keyboard-original-imafdb7kyud3bgev.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-100-wired-usb-desktop-keyboard/p/itmfbzgvfvmdhtgg"
+      },
+      {
+        "name": "HP Pavilion x360 Core i3 11th Gen - (8 GB/256 GB SSD/Wi...",
+        "link": "https://www.flipkart.com/hp-pavilion-x360-core-i3-11th-gen-8-gb-256-gb-ssd-windows-11-home-14-dy0190tu-2-1-laptop/p/itm2485c56a6d60d",
+        "current_price": 53990,
+        "original_price": 63510,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-pavilion-x360-core-i3-11th-gen-8-gb-256-gb-ssd-windows-11-home-14-dy0190tu-2-1-laptop/p/itm2485c56a6d60d"
+      },
+      {
+        "name": "HP 15-ec1105AX Ryzen 5 Hexa Core 4600H - (8 GB/512 GB S...",
+        "link": "https://www.flipkart.com/hp-15-ec1105ax-ryzen-5-hexa-core-4600h-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-gaming-laptop/p/itmf3409b87e17f7",
+        "current_price": 61990,
+        "original_price": 70172,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-15-ec1105ax-ryzen-5-hexa-core-4600h-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-gaming-laptop/p/itmf3409b87e17f7"
+      },
+      {
+        "name": "HP Pavilion Core i5 11th Gen - (16 GB/512 GB SSD/Window...",
+        "link": "https://www.flipkart.com/hp-pavilion-core-i5-11th-gen-16-gb-512-gb-ssd-windows-11-home-2-graphics-15-eg1000tx-thin-light-laptop/p/itma299b7ebceab3",
+        "current_price": 73297,
+        "original_price": 86538,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-pavilion-core-i5-11th-gen-16-gb-512-gb-ssd-windows-11-home-2-graphics-15-eg1000tx-thin-light-laptop/p/itma299b7ebceab3"
+      },
+      {
+        "name": "HP C2500 Wired Combo keyboard and Mouse",
+        "link": "https://www.flipkart.com/hp-c2500-wired-combo-keyboard-mouse/p/itmeahzpfbw3cads",
+        "current_price": 899,
+        "original_price": 999,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/612/612/kqjtd3k0/keyboard/laptop-keyboard/e/e/b/c2500-hp-original-imag4j6fhbvxzyqc.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-c2500-wired-combo-keyboard-mouse/p/itmeahzpfbw3cads"
+      },
+      {
+        "name": "HP 15s Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 H...",
+        "link": "https://www.flipkart.com/hp-15s-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-fr2508tu-thin-light-laptop/p/itm44d1874b48c5a",
+        "current_price": 44040,
+        "original_price": 51748,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-15s-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-fr2508tu-thin-light-laptop/p/itm44d1874b48c5a"
+      },
+      {
+        "name": "HP Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 1...",
+        "link": "https://www.flipkart.com/hp-ryzen-3-quad-core-5300u-8-gb-512-gb-ssd-windows-11-home-15s-eq2143au-thin-light-laptop/p/itm833bca55e158b",
+        "current_price": 42435,
+        "original_price": 51748,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-ryzen-3-quad-core-5300u-8-gb-512-gb-ssd-windows-11-home-15s-eq2143au-thin-light-laptop/p/itm833bca55e158b"
+      },
+      {
+        "name": "HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)...",
+        "link": "https://www.flipkart.com/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-du3564tu-thin-light-laptop/p/itma413bd9bbcb3f",
+        "current_price": 44249,
+        "original_price": 50196,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-15s-du3564tu-thin-light-laptop/p/itma413bd9bbcb3f"
+      },
+      {
+        "name": "HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)...",
+        "link": "https://www.flipkart.com/hp-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-14s-ef1001tu-thin-light-laptop/p/itmcf1087d3a3fbc",
+        "current_price": 59999,
+        "original_price": 81684,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-14s-ef1001tu-thin-light-laptop/p/itmcf1087d3a3fbc"
+      },
+      {
+        "name": "HP Pavilion x360 Core i5 11th Gen - (16 GB/512 GB SSD/W...",
+        "link": "https://www.flipkart.com/hp-pavilion-x360-core-i5-11th-gen-16-gb-512-gb-ssd-windows-11-home-14-dy1010tu-thin-light-laptop/p/itm518ce514fb0ad",
+        "current_price": 72997,
+        "original_price": 86538,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-pavilion-x360-core-i5-11th-gen-16-gb-512-gb-ssd-windows-11-home-14-dy1010tu-thin-light-laptop/p/itm518ce514fb0ad"
+      },
+      {
+        "name": "HP USB 2.0 Utility V232W 32 GB Pen Drive",
+        "link": "https://www.flipkart.com/hp-usb-2-0-utility-v232w-32-gb-pen-drive/p/itmf3qy9rgz6qwd8",
+        "current_price": 376,
+        "original_price": 650,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/612/612/pendrive/pendrive/u/g/h/hp-usb-2-0-utility-v232w-original-imaenrdhzwcge5vg.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-usb-2-0-utility-v232w-32-gb-pen-drive/p/itmf3qy9rgz6qwd8"
+      },
+      {
+        "name": "HP 1000 Wired Optical Mouse",
+        "link": "https://www.flipkart.com/hp-1000-wired-optical-mouse/p/itmfbpghbhqzjvnt",
+        "current_price": 249,
+        "original_price": 399,
+        "discounted": true,
+        "thumbnail": "https://rukminim2.flixcart.com/image/612/612/jrkyfm80/mouse/h/u/f/hp-1000-original-imafd3jqy5sygn2s.jpeg?q=70",
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-1000-wired-optical-mouse/p/itmfbpghbhqzjvnt"
+      },
+      {
+        "name": "HP ( Blue Pin ) Original Laptop Charger 19.5V 3.33A 65W...",
+        "link": "https://www.flipkart.com/hp-blue-pin-original-laptop-charger-19-5v-3-33a-65w-65-w-adapter/p/itmfb4ff64mha8eg",
+        "current_price": 1175,
+        "original_price": 1899,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-blue-pin-original-laptop-charger-19-5v-3-33a-65w-65-w-adapter/p/itmfb4ff64mha8eg"
+      },
+      {
+        "name": "HP Pavilion Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/...",
+        "link": "https://www.flipkart.com/hp-pavilion-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-10-home-15-eh1101au-thin-light-laptop/p/itmbbe1a7a3f907e",
+        "current_price": 57999,
+        "original_price": 70419,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-pavilion-ryzen-5-hexa-core-5500u-8-gb-512-gb-ssd-windows-10-home-15-eh1101au-thin-light-laptop/p/itmbbe1a7a3f907e"
+      },
+      {
+        "name": "HP Pavilion Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD...",
+        "link": "https://www.flipkart.com/hp-pavilion-ryzen-5-hexa-core-5500u-16-gb-512-gb-ssd-windows-10-home-15-eh1103au-thin-light-laptop/p/itme6c55aa1ab4b8",
+        "current_price": 60990,
+        "original_price": 75023,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-pavilion-ryzen-5-hexa-core-5500u-16-gb-512-gb-ssd-windows-10-home-15-eh1103au-thin-light-laptop/p/itme6c55aa1ab4b8"
+      },
+      {
+        "name": "HP Chromebook MediaTek Kompanio 500 - (4 GB/64 GB EMMC ...",
+        "link": "https://www.flipkart.com/hp-chromebook-mediatek-kompanio-500-4-gb-64-gb-emmc-storage-chrome-os-11a-na0004mu/p/itm053c06d792f8f",
+        "current_price": 22990,
+        "original_price": 24845,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-chromebook-mediatek-kompanio-500-4-gb-64-gb-emmc-storage-chrome-os-11a-na0004mu/p/itm053c06d792f8f"
+      },
+      {
+        "name": "HP Chromebook MediaTek Kompanio 500 - (4 GB/64 GB EMMC ...",
+        "link": "https://www.flipkart.com/hp-chromebook-mediatek-kompanio-500-4-gb-64-gb-emmc-storage-chrome-os-11a-na0006mu/p/itm753c07eade318",
+        "current_price": 22990,
+        "original_price": 24845,
+        "discounted": true,
+        "thumbnail": [
+          
+        ],
+        "query_url": "https://flipkart.dvishal485.workers.dev/product/hp-chromebook-mediatek-kompanio-500-4-gb-64-gb-emmc-storage-chrome-os-11a-na0006mu/p/itm753c07eade318"
+      }
+    ]
+  }
