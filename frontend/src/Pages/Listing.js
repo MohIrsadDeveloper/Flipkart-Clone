@@ -15,7 +15,7 @@ const Listing = () => {
           <Menu />
         </div>
 
-        <div className="main-body">
+        <div className="main-body"> 
           <Fliter />
           <Main />
         </div>

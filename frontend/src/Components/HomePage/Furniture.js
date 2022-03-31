@@ -1,30 +1,37 @@
 import React from 'react';
+import { Spinner } from 'react-bootstrap'
 import useFetch from 'react-fetch-hook';
+import { Link } from 'react-router-dom';
+// const furnitureUrl = "http://localhost:4000/products?product_id=8";
+const furnitureUrl = "https://flipkarturl.herokuapp.com/products?product_id=8";
 
 const Furniture = () => {
 
-    const { isLoading, data } = useFetch("http://localhost:4000/products?product_id=8")
+    const { isLoading, data } = useFetch(furnitureUrl)
 
     return (isLoading ? (
-            <div>Loading...</div>
-        ) : (
-            <React.Fragment>
-                <div className="season furniture-bestsellers">
-                    <div className="top">
-                        <h4 className='head'>Furniture Bestsellers</h4>
-                        <span className='sub-head'>Up to 70% OFF</span>
+        <Spinner animation="border" variant="primary" className='ms-auto' />
+    ) : (
+        <React.Fragment>
+            <div className="season furniture-bestsellers">
+                <div className="top">
+                    <h4 className='head'>Furniture Bestsellers</h4>
+                    <span className='sub-head'>Up to 70% OFF</span>
 
-                        <div className="primary-btn">
+                    <div className="primary-btn">
+                        <Link to={'/list/8'}>
                             <button>VIEW ALL</button>
-                        </div>
+                        </Link>
                     </div>
+                </div>
 
-                    <div className="bottom">
-                        <div className="boxes">
-                            {
-                                data.map((item, index) => {
-                                    return (
-                                        <div className="box" key={index}>
+                <div className="bottom">
+                    <div className="boxes">
+                        {
+                            data.map((item, index) => {
+                                return (
+                                    <div className="box" key={index}>
+                                        <Link to={`/list/8/${item.brand.brand_id}`} style={{ textDecoration: "none" }}>
                                             <div className="img">
                                                 <img src={item.image} alt="img1" />
                                             </div>
@@ -34,17 +41,18 @@ const Furniture = () => {
                                                 <div className='tag'>{item.tag.offer_tag}</div>
                                                 <div className="title">{item.tag.deals_tag}</div>
                                             </div>
-                                        </div>
-                                    )
+                                        </Link>
+                                    </div>
+                                )
 
-                                })
-                            }
+                            })
+                        }
 
-                        </div>
                     </div>
                 </div>
-            </React.Fragment>
-        )
+            </div>
+        </React.Fragment>
+    )
     );
 };
 

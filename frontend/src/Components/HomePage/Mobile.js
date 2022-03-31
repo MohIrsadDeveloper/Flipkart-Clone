@@ -1,10 +1,13 @@
 import React from 'react'
 import useFetch from 'react-fetch-hook'
+import { Link } from 'react-router-dom';
 
-const mobileUrl = "http://localhost:4000/products?product_id=2"
+// const mobileUrl = "http://localhost:4000/products?product_id=2";
+const mobileUrl = "https://flipkarturl.herokuapp.com/products?product_id=2";
 
 const Mobile = () => {
     const { isLoading, data } = useFetch(mobileUrl);
+
     return (
         isLoading ? (
             <></>
@@ -12,11 +15,13 @@ const Mobile = () => {
             <React.Fragment>
                 <div className="season deals-of-the-day">
                     <div className="top">
-                        <h4>Deals of Laptop</h4>
+                        <h4>Deals of Mobile Phones</h4>
 
 
                         <div className="primary-btn">
-                            <button>VIEW ALL</button>
+                            <Link to={"/list/2"}>
+                                <button>VIEW ALL</button>
+                            </Link>
                         </div>
                     </div>
 
@@ -26,15 +31,18 @@ const Mobile = () => {
                                 data.map((item, index) => {
                                     return (
                                         <div className="box" key={index}>
-                                            <div className="img">
-                                                <img src={item.image} alt="img1" />
-                                            </div>
+                                            <Link to={`/list/2/${item.brand.brand_id}`} style={{textDecoration : "none"}}>
 
-                                            <div className="desc">
-                                                <div className="product">{item.product_title}</div>
-                                                <div className='tag'>{item.tag.offer_tag}</div>
-                                                <div className="title">{item.tag.deals_tag}</div>
-                                            </div>
+                                                <div className="img">
+                                                    <img src={item.image} alt="img1" />
+                                                </div>
+
+                                                <div className="desc">
+                                                    <div className="product">{item.product_title}</div>
+                                                    <div className='tag'>{item.tag.offer_tag}</div>
+                                                    <div className="title">{item.tag.deals_tag}</div>
+                                                </div>
+                                            </Link>
                                         </div>
                                     )
 

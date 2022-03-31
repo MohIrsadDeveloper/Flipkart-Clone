@@ -59,18 +59,24 @@
 
                     .product {
                         margin: 15px 0 0;
-                        font-weight: bold;
+                        color: rgb(87, 85, 85);
+                        font-size: 14px;
+                        font-weight: 600;
                     }
 
                     .tag {
                         padding: 8px 0 0;
                         color: green;
+                        font-size: 14px;
+
                     }
 
                     .title {
                         padding: 7px 0 0;
                         color: gray;
                         white-space: nowrap;
+                        font-size: 14px;
+
                     }
                 }
             }

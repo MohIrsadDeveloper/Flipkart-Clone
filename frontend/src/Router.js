@@ -6,7 +6,8 @@ import Detail from './Pages/Detail';
 import Listing from './Pages/Listing';
 import NotFound from './Pages/NotFound';
 import Cart from './Pages/Cart';
-import Extra from './Pages/Extra';
+import Login from './Pages/Login';
+import Register from './Pages/Register';
 
 const Router = () => {
     return (
@@ -16,9 +17,13 @@ const Router = () => {
                     <Routes>
                         <Route path='/' element={<Home />} />
                         <Route path='/list' element={<Listing />} />
+                        <Route path='/list/:id' element={<Listing />} />
+                        <Route path='/list/:id/:brand' element={<Listing />} />
                         <Route path='/detail' element={<Detail />} />
+                        <Route path='/detail/:id' element={<Detail />} />
                         <Route path='/cart' element={<Cart />} />
-                        <Route path="extra" element={<Extra />} />
+                        <Route path='/login' element={<Login />} />
+                        <Route path='/register' element={<Register />} />
                         <Route path='*' element={<NotFound />} />
                     </Routes>
                 </BrowserRouter>

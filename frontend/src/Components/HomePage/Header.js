@@ -8,13 +8,15 @@ const Header = () => {
             <div className="header">
                 <div className="header-top">
                     <div className="logo">
-                        <div className="top">
-                            <img src="https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_8d85f4.png" alt="logo" />
-                        </div>
-                        <div className="bottom">
-                            <i>Explore <span>plus</span> </i>
-                            <img src="https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/plus_aef861.png" alt="plus" />
-                        </div>
+                        <Link to={"/"}>
+                            <div className="top">
+                                <img src="https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_8d85f4.png" alt="logo" />
+                            </div>
+                            <div className="bottom">
+                                <i>Explore <span>plus</span> </i>
+                                <img src="https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/plus_aef861.png" alt="plus" />
+                            </div>
+                        </Link>
                     </div>
 
                     <div className="search">
@@ -23,10 +25,10 @@ const Header = () => {
                     </div>
 
                     <div className="button">
-                        <Link className='link' id='link1' to={'/'}>
+                        <Link className='link' id='link1' to={'/login'}>
                             <button id='login' type='button'>Login</button>
-                            <div className="content">
-                            <i className="fas fa-caret-up up"></i>
+                            {/* <div className="content">
+                                <i className="fas fa-caret-up up"></i>
                                 <ul className='login-lists'>
                                     <li className="list" id="list1"><i className="fas fa-user-circle"></i>New customer? </li>
                                     <li className="list" id="list2"><img src="https://www.linkpicture.com/q/ticket_3.png" alt="" /> My Profile</li>
@@ -36,20 +38,20 @@ const Header = () => {
                                     <li className="list" id="list6">Rewards</li>
                                     <li className="list" id="list7">Gift Cards</li>
                                 </ul>
-                            </div>
+                            </div> */}
                         </Link>
-                        <Link className='link' id='link2' to={'/'}>
+                        <Link className='link' id='link2' to={'/register'}>
                             <button id='more' type='button'>
                                 More
                                 <i className="fas fa-angle-down"></i>
                             </button>
-                            <div className="content">
-                            <i className="fas fa-caret-up up"></i>
+                            {/* <div className="content">
+                                <i className="fas fa-caret-up up"></i>
 
-                            </div>
+                            </div> */}
 
                         </Link>
-                        <Link className='link' id='link3' to={'/'}>
+                        <Link className='link' id='link3' to={'/cart'}>
                             <button id='cart' type="button">
                                 <i className="fas fa-shopping-cart"></i>
                                 Cart
